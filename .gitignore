@@ -4,12 +4,6 @@
 *.csv
 *.json
 
-*.png
-*.jpg
-
-openings*
-
-graphThingy/
 old/
 
 playground.ipynb

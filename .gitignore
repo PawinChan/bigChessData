@@ -1,7 +1,6 @@
 
 *.pgn 
 *.zst
-*.csv
 *.json
 
 old/

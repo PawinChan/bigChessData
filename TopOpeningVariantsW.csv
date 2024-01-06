@@ -1,0 +1,2978 @@
+count,whiteWins,blackWins,draw,opening_name,opening_variation
+2528789,1275346,1152202,101241,Queen's Pawn Game,~
+2398596,1163640,1146712,88244,Modern Defense,~
+2086035,1045895,955491,84649,Scandinavian Defense, Mieses-Kotroc Variation
+2057570,969658,1008765,79147,Caro-Kann Defense,~
+1738266,832948,845655,59663,Van't Kruijs Opening,~
+1699054,858787,770110,70157,Philidor Defense,~
+1585523,821358,698412,65753,Queen's Pawn Game, Mason Variation
+1389834,713948,624624,51262,Horwitz Defense,~
+1382788,675493,655779,51516,Pirc Defense,~
+1316912,630944,637498,48470,Scandinavian Defense,~
+1306440,626128,629211,51101,French Defense, Knight Variation
+1129732,561929,529120,38683,Owen Defense,~
+1007877,493770,472125,41982,Indian Defense,~
+971038,519561,411749,39728,Scotch Game,~
+902430,455064,413446,33920,Hungarian Opening,~
+874756,445961,393116,35679,Queen's Pawn Game, Chigorin Variation
+860056,413932,413771,32353,Sicilian Defense, Old Sicilian
+841342,389133,423426,28783,Sicilian Defense, Bowdler Attack
+825292,429006,366501,29785,Bishop's Opening,~
+750489,359838,363617,27034,Benoni Defense, Old Benoni
+714695,345769,340302,28624,King's Pawn Game, Leonardis Variation
+699398,359738,308989,30671,Queen's Pawn Game, Zukertort Variation
+690106,324451,340387,25268,Sicilian Defense,~
+678634,335128,320880,22626,Englund Gambit,~
+606709,290678,296896,19135,Zukertort Opening, Tennison Gambit
+604406,293654,288912,21840,Mieses Opening,~
+584674,289545,271420,23709,Three Knights Opening,~
+566448,272716,270824,22908,Four Knights Game, Italian Variation
+549625,273412,257118,19095,English Defense,~
+531265,262774,247612,20879,Sicilian Defense, Closed
+507213,240627,245606,20980,Scandinavian Defense, Modern Variation
+497327,244672,235819,16836,Sicilian Defense, Smith-Morra Gambit
+496383,255071,221419,19893,Italian Game, Anti-Fried Liver Defense
+494223,260569,215553,18101,Italian Game,~
+467430,238006,213238,16186,French Defense, Normal Variation
+466531,248243,201530,16758,Queen's Gambit Declined, Marshall Defense
+461771,238083,205012,18676,King's Pawn Game, Wayward Queen Attack
+449401,229018,200704,19679,Queen's Gambit Declined,~
+447019,198867,232287,15865,French Defense,~
+446895,211556,213176,22163,French Defense, Exchange Variation
+440603,220306,203959,16338,Bird Opening,~
+434302,205480,212330,16492,Scandinavian Defense, Main Line
+433809,204736,208904,20169,Caro-Kann Defense, Exchange Variation
+426876,202175,207976,16725,Sicilian Defense, Modern Variations
+425434,213918,196134,15382,Nimzo-Larsen Attack, Modern Variation
+415027,207129,191622,16276,Sicilian Defense, Alapin Variation
+404377,194674,196505,13198,Sicilian Defense, McDonnell Attack
+403975,202865,185949,15161,Nimzo-Larsen Attack, Classical Variation
+402920,192700,195562,14658,French Defense, Advance Variation
+396124,203934,177942,14248,Nimzo-Larsen Attack,~
+384728,194530,173751,16447,Queen's Pawn Game, Colle System
+383077,197573,173329,12175,King's Pawn Game, Busch-Gass Gambit
+381704,194404,171295,16005,Slav Defense,~
+380819,197002,169844,13973,Vienna Game,~
+376929,192747,166703,17479,Ruy Lopez, Steinitz Defense
+355293,165684,174930,14679,Giuoco Piano,~
+353371,177920,161766,13685,Russian Game, Three Knights Game
+353352,179630,156523,17199,Queen's Pawn Game, London System
+332834,165607,154524,12703,Bishop's Opening, Berlin Defense
+317545,148927,157344,11274,Sicilian Defense, French Variation
+316734,155357,149109,12268,Saragossa Opening,~
+315608,152462,151419,11727,French Defense, Queen's Knight
+311743,159362,142380,10001,Russian Game, Italian Variation
+307525,135014,161827,10684,Caro-Kann Defense, Hillbilly Attack
+300350,151908,136801,11641,Sicilian Defense, Open
+299655,146613,141282,11760,Caro-Kann Defense, Advance Variation
+296219,149758,136185,10276,King's Pawn Game, McConnell Defense
+283669,142464,130831,10374,King's Pawn Game, Napoleon Attack
+276217,140285,124041,11891,Philidor Defense, Exchange Variation
+274729,135065,129055,10609,Russian Game,~
+272559,138768,122592,11199,English Opening, King's English Variation
+266358,133115,123727,9516,Englund Gambit Declined, Reversed French
+261403,131082,120037,10284,Bird Opening, Dutch Variation
+258195,136538,112300,9357,Polish Opening,~
+257092,126566,120711,9815,Van Geet Opening,~
+257084,124985,122590,9509,Sicilian Defense," Closed, Traditional"
+252310,127937,114077,10296,English Opening, Agincourt Defense
+251503,135902,106614,8987,Center Game,~
+245459,120188,115491,9780,Italian Game," Giuoco Pianissimo, Normal"
+239531,122245,110039,7247,King's Gambit Declined, Queen's Knight Defense
+237815,121215,107245,9355,Italian Game," Two Knights Defense, Modern Bishop's Opening"
+234679,117671,108678,8330,Alekhine Defense,~
+231390,121139,100971,9280,Rapport-Jobava System,~
+230558,123948,98186,8424,Queen's Gambit Accepted,~
+225632,109979,106229,9424,Pirc Defense, Classical Variation
+224672,108542,109080,7050,French Defense, La Bourdonnais Variation
+217908,109699,100305,7904,Vienna Game, Max Lange Defense
+217313,105576,103272,8465,French Defense, King's Indian Attack
+216757,108967,98713,9077,Italian Game," Giuoco Pianissimo, Italian Four Knights Variation"
+213112,106112,97952,9048,Sicilian Defense, Nyezhmetdinov-Rossolimo Attack
+212159,110910,93574,7675,English Opening, Anglo-Scandinavian Defense
+211618,106777,95346,9495,Zukertort Opening,~
+207992,105693,92368,9931,Ruy Lopez, Berlin Defense
+207981,110056,90077,7848,Bishop's Opening, Boi Variation
+207898,102872,96926,8100,Dutch Defense,~
+205071,104639,94247,6185,Nimzowitsch Defense," Kennedy Variation, Linksspringer Variation"
+204948,92156,104145,8647,King's Knight Opening, Normal Variation
+202765,99907,95391,7467,Old Indian Defense,~
+199144,101635,90267,7242,Rat Defense, Small Center Defense
+196927,98526,90116,8285,Caro-Kann Defense, Two Knights Attack
+196792,90198,98891,7703,Caro-Kann Defense," Advance Variation, Botvinnik-Carls Defense"
+195702,101661,84563,9478,King's Indian Attack,~
+195369,97445,91011,6913,Elephant Gambit,~
+194008,102057,84334,7617,Zukertort Opening, Queen's Gambit Invitation
+192751,92078,93737,6936,Grob Opening,~
+191412,108544,77032,5836,Vienna Game, Vienna Gambit
+183673,87794,88801,7078,Caro-Kann Defense," Advance Variation, Short Variation"
+182555,81159,94418,6978,Center Game, Normal Variation
+182283,87728,88767,5788,Englund Gambit Complex, Englund Gambit
+181928,94781,80253,6894,English Opening,~
+180986,97066,78204,5716,Danish Gambit,~
+180924,96022,78368,6534,English Opening," King's English Variation, Reversed Sicilian"
+180066,96004,77295,6767,Queen's Pawn Game, Levitsky Attack
+179414,99689,72547,7178,Queen's Gambit Accepted, Old Variation
+177116,96093,75478,5545,King's Gambit,~
+176490,82976,87039,6475,Englund Gambit Complex, Hartlaub-Charlick Gambit
+176360,88194,80534,7632,Zukertort Opening, Sicilian Invitation
+175195,86264,80618,8313,Queen's Pawn Game, Symmetrical Variation
+173075,89442,77328,6305,Ponziani Opening,~
+171030,83926,80802,6302,Nimzowitsch Defense,~
+170680,79225,86029,5426,Russian Game, Stafford Gambit
+165968,80063,79312,6593,Italian Game, Giuoco Pianissimo
+165624,86192,72968,6464,Mikenas Defense,~
+165603,82444,76947,6212,St. George Defense,~
+165360,79737,79154,6469,Ruy Lopez, Classical Variation
+164949,87994,70427,6528,Queen's Gambit Declined, Queen's Knight Variation
+164648,80460,77264,6924,Nimzo-Larsen Attack, Indian Variation
+164100,84852,71738,7510,Four Knights Game, Scotch Variation Accepted
+162205,87806,69817,4582,King's Gambit Accepted, MacLeod Defense
+161214,78990,76570,5654,Italian Game, Schilling-Kostic Gambit
+160216,79814,74431,5971,Ponziani Opening, Jaenisch Counterattack
+160058,62032,90382,7644,King's Pawn Game,~
+159805,75040,79469,5296,Benoni Defense, Benoni Gambit Accepted
+156125,75135,74543,6447,Caro-Kann Defense, Breyer Variation
+155269,74030,74446,6793,Sicilian Defense, Löwenthal Variation
+151839,70548,74381,6910,Four Knights Game,~
+151767,77838,66623,7306,King's Pawn Game, Maróczy Defense
+151245,85614,59827,5804,King's Pawn Game, Damiano Defense
+151221,74482,71651,5088,Italian Game, Two Knights Defense
+150919,74518,69914,6487,Zukertort Opening, Kingside Fianchetto
+148605,75180,66824,6601,English Opening, Symmetrical Variation
+148148,73618,68148,6382,Sicilian Defense, Delayed Alapin
+147752,67867,74408,5477,French Defense," Advance Variation, Paulsen Attack"
+146733,64499,77265,4969,French Defense," Advance Variation, Nimzowitsch System"
+145872,72605,68241,5026,King's Pawn Game, Macleod Attack
+145249,75730,64468,5051,Italian Game, Classical Variation
+142449,72267,63100,7082,Slav Defense, Exchange Variation
+142250,71290,65056,5904,Hungarian Opening, Slav Formation
+142223,71487,64714,6022,Scotch Game, Classical Variation
+141964,70121,65944,5899,English Opening, Great Snake Variation
+141858,66416,69709,5733,Sicilian Defense, Taimanov Variation
+141012,86578,48979,5455,King's Knight Opening,~
+137790,67128,64913,5749,Scandinavian Defense, Gubinsky-Melts Defense
+136874,66098,64606,6170,English Opening, Caro-Kann Defensive System
+136838,69001,62062,5775,Zukertort Opening, Slav Invitation
+135660,62853,66438,6369,Alekhine Defense, Scandinavian Variation
+135453,66355,63939,5159,French Defense, Two Knights Variation
+134762,68500,60656,5606,Italian Game," Classical Variation, Giuoco Pianissimo"
+131463,66666,59319,5478,Semi-Slav Defense, Accelerated Move Order
+130778,63586,63260,3932,Englund Gambit Complex Declined,~
+130758,66186,59326,5246,Zukertort Opening, Pirc Invitation
+130363,70088,55855,4420,Queen's Gambit Declined, Chigorin Defense
+129278,64256,60696,4326,Vienna Game, Anderssen Defense
+125313,64788,54471,6054,Semi-Slav Defense,~
+124214,109495,11789,2930,King's Pawn,~
+124117,63748,55285,5084,Hungarian Opening, Catalan Formation
+123660,62395,56363,4902,Zukertort Opening, Black Mustang Defense
+123555,60870,57601,5084,Sicilian Defense, Delayed Alapin Variation
+122531,56786,60334,5411,Sicilian Defense, Najdorf Variation
+121594,63824,53534,4236,Queen's Gambit Declined, Baltic Defense
+119780,61919,52565,5296,Slav Defense, Three Knights Variation
+118736,62245,51136,5355,Slav Defense, Modern Line
+116401,55857,56458,4086,Mieses Opening, Reversed Rat
+116030,57727,53691,4612,Queen's Pawn Game, Krause Variation
+112663,53970,55119,3574,Queen's Pawn Game, Franco-Sicilian Defense
+112617,56495,51854,4268,Queen's Gambit Declined, Normal Defense
+112244,57619,50169,4456,Bishop's Opening, Vienna Hybrid
+111395,56316,51136,3943,Nimzowitsch Defense," Scandinavian Variation, Advance Variation"
+110609,54628,51148,4833,Indian Defense, Wade-Tartakower Defense
+110112,51266,53993,4853,Sicilian Defense, Staunton-Cochrane Variation
+109769,49634,56143,3992,Gedult's Opening,~
+107963,53330,49993,4640,Hungarian Opening, Indian Defense
+106566,54558,47214,4794,Caro-Kann Defense, Panov Attack
+106261,51032,51283,3946,French Defense, Steinitz Attack
+105481,52952,48501,4028,Nimzowitsch Defense, Declined Variation
+105420,48013,54154,3253,Zukertort Opening, Lemberger Gambit
+104455,51263,48681,4511,Hungarian Opening, Symmetrical Variation
+104395,52269,47862,4264,Indian Defense, Normal Variation
+103995,52082,48116,3797,Ruy Lopez, Bird Variation
+103940,52895,46652,4393,Queen's Pawn Game, Anti-Torre
+103814,50526,49062,4226,Queen's Pawn Game, Steinitz Countergambit
+103726,52603,46257,4866,Indian Defense, London System
+103432,52263,46451,4718,English Opening," Anglo-Indian Defense, Queen's Knight Variation"
+102936,54813,43208,4915,Queen's Gambit Declined, Ragozin Defense
+102265,49970,47517,4778,Trompowsky Attack,~
+102074,50709,46796,4569,English Opening, Anglo-Indian Defense
+101431,55786,42151,3494,Scotch Game, Scotch Gambit
+101097,45663,52644,2790,Italian Game, Rousseau Gambit
+100808,50650,46529,3629,Nimzo-Larsen Attack, English Variation
+100043,51408,45683,2952,Duras Gambit,~
+99576,50383,45158,4035,Ruy Lopez, Cozio Defense
+98262,49732,44567,3963,English Opening," King's English Variation, Two Knights Variation"
+98178,45712,48444,4022,Sicilian Defense, Hyperaccelerated Dragon
+98111,51600,43333,3178,King's Gambit Accepted, Fischer Defense
+97289,41811,50870,4608,Kádas Opening,~
+96898,52965,40830,3103,Zukertort Opening, Ross Gambit
+96115,45970,46187,3958,King's Indian Defense,~
+95998,46144,45583,4271,London System,~
+95910,49335,42177,4398,Queen's Gambit Declined, Three Knights Variation
+94938,45196,45405,4337,Italian Game, Hungarian Defense
+94829,41049,49979,3801,King's Pawn Game, King's Head Opening
+94526,47650,42408,4468,Four Knights Game, Spanish Variation
+93269,43192,46296,3781,King's Pawn Game," Wayward Queen Attack, Kiddie Countergambit"
+92225,43407,44057,4761,Scotch Game, Schmidt Variation
+92050,45633,42245,4172,French Defense," Exchange Variation, Monte Carlo Variation"
+91996,46033,42246,3717,Queen's Gambit Declined, Albin Countergambit
+91458,43726,43997,3735,Alekhine Defense, Maróczy Variation
+91194,45642,42138,3414,Hungarian Opening, Sicilian Invitation
+90618,47493,39508,3617,Ruy Lopez,~
+90063,45911,40820,3332,Vienna Game, Stanley Variation
+89997,42999,43175,3823,English Opening, The Whale
+89128,45024,41354,2750,Rat Defense, Harmonist
+88834,41375,43259,4200,East Indian Defense,~
+88347,39052,46416,2879,Elephant Gambit, Paulsen Countergambit
+87885,43724,40679,3482,Modern Defense, Two Knights Variation
+87881,45138,39239,3504,Zukertort Opening, Queenside Fianchetto Variation
+86779,43793,39314,3672,Queen's Pawn Game, Mason Attack
+86749,42040,41136,3573,Four Knights Game," Spanish Variation, Classical Variation"
+86667,42413,40088,4166,Caro-Kann Defense, Classical Variation
+86496,43574,39726,3196,Sicilian Defense, Grand Prix Attack
+86326,40824,41795,3707,Sicilian Defense," Accelerated Dragon, Modern Variation"
+86316,43599,39272,3445,Zukertort Opening, Old Indian Attack
+86299,40355,41238,4706,Ruy Lopez, Exchange Variation
+85844,44312,36960,4572,Queen's Pawn Game," Symmetrical Variation, Pseudo-Catalan"
+85243,44420,37271,3552,French Defense, Rubinstein Variation
+84850,42812,38673,3365,French Defense, Steiner Variation
+84082,42694,37454,3934,Indian Defense, Knights Variation
+83636,40888,39514,3234,King's Indian Defense, Normal Variation
+83287,42724,37847,2716,Benoni Defense, French Benoni
+81355,42076,35872,3407,Modern Defense, Standard Defense
+80201,45473,32534,2194,King's Gambit Accepted, King's Knight Gambit
+80089,39530,36595,3964,Torre Attack,~
+79741,39362,37187,3192,Czech Defense,~
+79578,41052,35547,2979,English Opening," King's English Variation, Reversed Closed Sicilian"
+77455,40279,34278,2898,Queen's Pawn Game, Stonewall Attack
+76889,36697,37214,2978,Indian Defense, Budapest Defense
+76791,39590,34349,2852,Caro-Kann Defense, Maróczy Variation
+75877,36393,35310,4174,Caro-Kann Defense, Tartakower Variation
+75819,38582,32631,4606,Queen's Gambit Declined," Exchange Variation, Positional Variation"
+75525,36770,35659,3096,Anderssen's Opening,~
+75098,36194,36033,2871,Dutch Defense, Queen's Knight Variation
+74408,35253,36055,3100,King's Indian Defense," Normal Variation, Rare Defenses"
+74258,35595,35671,2992,Vienna Game, Falkbeer Variation
+74014,39405,32158,2451,Italian Game," Two Knights Defense, Knight Attack, Normal Variation"
+73650,44180,26712,2758,Russian Game, Damiano Variation
+73139,37345,32713,3081,Caro-Kann Defense, Accelerated Panov Attack
+72921,37064,32606,3251,Queen's Pawn Game, Torre Attack
+72808,40863,29775,2170,Scotch Game, Haxo Gambit
+72114,38040,31452,2622,Modern Defense, Standard Line
+71913,32501,36222,3190,Ware Opening,~
+71426,36623,31862,2941,English Opening," Symmetrical Variation, Normal Variation"
+69604,47283,20476,1845,Italian Game," Two Knights Defense, Fried Liver Attack"
+69467,35018,31819,2630,Sicilian Defense," Taimanov Variation, Normal Variation"
+69264,37020,29118,3126,Four Knights Game, Scotch Variation
+68512,35266,30270,2976,Queen's Gambit Declined, Exchange Variation
+68428,32318,33838,2272,Blackmar Gambit,~
+68316,34857,31169,2290,Englund Gambit Declined, Reversed Alekhine
+67943,35247,30294,2402,Center Game, Paulsen Attack Variation
+66081,34977,28951,2153,Russian Game, Modern Attack
+65884,31441,32292,2151,Bird Opening, From's Gambit
+65501,30796,32607,2098,Italian Game," Two Knights Defense, Polerio Defense, Bishop Check Line"
+64991,33240,29398,2353,Nimzowitsch Defense, Franco-Nimzowitsch Variation
+64904,31073,30790,3041,King's Indian Defense," Normal Variation, King's Knight Variation"
+64695,31856,30323,2516,French Defense," Classical Variation, Steinitz Variation"
+64101,35037,26609,2455,Ware Defense,~
+63665,30673,30958,2034,Scandinavian Defense, Blackburne-Kloosterboer Gambit
+63364,30782,30192,2390,Van Geet Opening, Reversed Nimzowitsch
+63341,33043,27675,2623,Queen's Gambit Declined, Austrian Defense
+63282,27858,33026,2398,Sicilian Defense," Kan Variation, Knight Variation"
+63223,31145,29833,2245,Alekhine Defense, Normal Variation
+62798,35049,25413,2336,Queen's Gambit Accepted, Saduleto Variation
+62415,32149,27560,2706,Queen's Gambit Declined, Harrwitz Attack
+62100,31615,28266,2219,Modern Defense, Mongredien Defense
+61439,31537,27217,2685,Semi-Slav Defense, Main Line
+61304,28026,30857,2421,Scandinavian Defense," Main Line, Mieses Variation"
+61116,28976,29514,2626,Sicilian Defense, Hyperaccelerated Fianchetto
+60771,31670,27088,2013,Italian Game," Classical Variation, Albin Gambit"
+60515,26825,30811,2879,Clemenz Opening,~
+60474,32562,26172,1740,Sicilian Defense, Franco-Sicilian Variation
+59403,29801,26970,2632,Caro-Kann Defense, Main Line
+58871,30240,26566,2065,Bishop's Opening, Philidor Counterattack
+58501,28679,27432,2390,Nimzowitsch Defense," Scandinavian Variation, Exchange Variation"
+57746,24878,30611,2257,Scandinavian Defense, Panov Transfer
+57635,25890,29097,2648,Sicilian Defense, Four Knights Variation
+57427,28044,26835,2548,Queen's Pawn Game," Colle System, Anti-Colle"
+57166,27732,26220,3214,Sicilian Defense," Canal Attack, Main Line"
+57130,27860,27230,2040,Modern Defense, Three Pawns Attack
+56637,31041,23454,2142,Ruy Lopez," Morphy Defense, Caro Variation"
+56301,29248,24663,2390,Queen's Gambit Declined, Modern Variation
+55656,28927,24922,1807,King's Gambit Accepted, Modern Defense
+55546,27976,25176,2394,Scandinavian Defense, Marshall Variation
+55439,27158,26125,2156,Sicilian Defense, Mengarini Variation
+55260,25855,27333,2072,Scandinavian Defense, Blackburne Gambit
+55108,30969,22291,1848,Queen's Gambit,~
+55049,27199,25066,2784,Sicilian Defense," Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"
+54967,29807,23325,1835,Barnes Defense,~
+54897,25818,26537,2542,Alekhine Defense, Exchange Variation
+54830,27301,25063,2466,English Opening," Anglo-Indian Defense, Hedgehog System"
+54390,27440,25157,1793,Englund Gambit Complex, Soller Gambit
+54343,25143,26982,2218,Zukertort Opening, Reversed Mexican Defense
+54103,24486,27307,2310,Sicilian Defense," Modern Variations, Main Line"
+53643,28519,23264,1860,Goldsmith Defense,~
+53190,26735,24461,1994,Nimzo-Larsen Attack, Symmetrical Variation
+53097,25340,25839,1918,Queen's Pawn Game, Anglo-Slav Opening
+53056,24741,26035,2280,Sicilian Defense, Classical Variation
+52941,23521,27599,1821,Scandinavian Defense, Icelandic-Palme Gambit
+52478,25521,25266,1691,Rat Defense, Antal Defense
+52406,25562,25170,1674,Scandinavian Defense, Boehnke Gambit
+52080,25826,23664,2590,Sicilian Defense, Chekhover Variation
+52075,24999,25254,1822,Sicilian Defense," French Variation, Open"
+51846,22899,26767,2180,Sicilian Defense, Dragon Variation
+51773,28321,21789,1663,Center Game, Kieseritzky Variation
+51744,26069,23492,2183,Nimzowitsch Defense, Williams Variation
+51621,28012,21782,1827,King's Pawn Game, Nimzowitsch Defense
+51595,28038,21982,1575,King's Gambit Accepted, Schallopp Defense
+51014,24322,25332,1360,Englund Gambit Declined, Reversed Krebs
+50949,23902,24610,2437,Indian Defense, Spielmann-Indian
+50857,26728,22371,1758,Ruy Lopez," Classical Variation, Central Variation"
+50788,23743,24887,2158,Benoni Defense,~
+50757,24772,24370,1615,Sicilian Defense, Wing Gambit
+50555,27430,21148,1977,Queen's Gambit Declined, Vienna Variation
+50530,23129,25270,2131,French Defense," Advance Variation, Euwe Variation"
+49849,25979,21847,2023,Italian Game," Classical Variation, Greco Gambit, Traditional Line"
+49800,23333,24332,2135,Modern Defense, Geller's System
+49099,23285,23975,1839,Sicilian Defense, Marshall Counterattack
+48872,25545,21242,2085,Ruy Lopez," Berlin Defense, Improved Steinitz Defense"
+48626,26083,20453,2090,Caro-Kann Defense," Advance Variation, Tal Variation"
+48601,25270,21552,1779,Sicilian Defense, Marshall Gambit
+48484,23624,23225,1635,Alekhine Defense, Two Pawn Attack
+48435,27564,19551,1320,Scotch Game," Göring Gambit, Double Pawn Sacrifice"
+47993,23730,22443,1820,Queen's Pawn Game," Chigorin Variation, Alburt Defense"
+47286,22473,23227,1586,Blackmar-Diemer Gambit,~
+47089,21642,23503,1944,Sicilian Defense, Accelerated Dragon
+47025,23755,21522,1748,Scotch Game," Scotch Gambit, Advance Variation"
+46969,23294,20959,2716,King's Indian Attack, Symmetrical Defense
+46756,21036,23832,1888,Sicilian Defense," Accelerated Dragon, Exchange Variation"
+46754,23551,21316,1887,English Opening," Symmetrical Variation, Two Knights Variation"
+46017,22207,21726,2084,Richter-Veresov Attack,~
+45968,23120,20503,2345,King's Indian Defense, Orthodox Variation
+45594,22216,22089,1289,Owen Defense, Smith Gambit
+45329,23109,20578,1642,French Defense," Advance Variation, Milner-Barry Gambit"
+45120,22538,20635,1947,Yusupov-Rubinstein System,~
+45077,22389,20375,2313,Four Knights Game, Double Spanish
+44824,23205,20164,1455,French Defense, Mediterranean Defense
+44761,24173,18466,2122,King's Pawn Game, Beyer Gambit
+44159,22125,18903,3131,Indian Defense, Anti-Nimzo-Indian
+44137,21005,20479,2653,Sicilian Defense," Najdorf Variation, English Attack"
+43914,22964,18992,1958,King's Indian Attack, French Variation
+43908,20877,20889,2142,Rat Defense, English Rat
+43564,22345,19718,1501,Carr Defense,~
+43449,21785,19816,1848,Ruy Lopez, Morphy Defense
+43414,19883,22323,1208,Bird Opening, Williams Gambit
+42774,22137,18882,1755,Pirc Defense, Byrne Variation
+42713,21263,20285,1165,King's Gambit Declined, Classical Variation
+42681,21892,18009,2780,Catalan Opening, Closed
+42681,20440,20282,1959,Nimzo-Indian Defense,~
+42611,21392,19863,1356,Vienna Game," Stanley Variation, Three Knights Variation"
+42477,21131,19550,1796,Sicilian Defense, Lasker-Dunne Attack
+42438,22118,18686,1634,Bishop's Opening," Vienna Hybrid, Spielmann Attack"
+42424,21253,19707,1464,Blackmar-Diemer Gambit, Gedult Gambit
+42415,21819,19049,1547,Ruy Lopez," Berlin Defense, Beverwijk Variation"
+42382,21838,19081,1463,Italian Game," Giuoco Pianissimo, Canal Variation"
+42328,20693,19065,2570,Sicilian Defense," Alapin Variation, Barmen Defense"
+42023,20434,19819,1770,King's Indian Defense, Smyslov Variation
+41950,19786,20696,1468,Sicilian Defense, Hyperaccelerated Pterodactyl
+41802,20348,19312,2142,Sicilian Defense, Moscow Variation
+41607,20492,19522,1593,Old Indian Defense, Czech Variation
+40734,19476,19560,1698,Queen's Pawn Game," Veresov Attack, Classical Defense"
+40699,19229,19178,2292,Sicilian Defense," Alapin Variation, Smith-Morra Declined"
+40496,20985,18002,1509,French Defense, Paulsen Variation
+40217,19078,19747,1392,Alekhine Defense," Scandinavian Variation, Geschev Gambit"
+39991,20509,17630,1852,Ruy Lopez," Morphy Defense, Anderssen Variation"
+39986,21463,17263,1260,King's Pawn Game, Gunderam Gambit
+39904,19822,18235,1847,Sicilian Defense, Kalashnikov Variation
+39415,19543,18532,1340,Nimzowitsch Defense, Kennedy Variation
+39268,18932,18753,1583,King's Pawn Game, Tayler Opening
+39125,19787,17683,1655,Zukertort Opening, Dutch Variation
+39020,18535,18772,1713,Sicilian Defense, Snyder Variation
+39001,17938,19481,1582,King's Pawn Opening,~
+38832,18428,18992,1412,Caro-Kann Defense," Advance Variation, Van der Wiel Attack"
+38572,20137,16729,1706,English Opening," Symmetrical Variation, Fianchetto Variation"
+38395,19838,16965,1592,French Defense," Tarrasch Variation, Closed Variation"
+38187,20436,16553,1198,Borg Defense,~
+37996,17986,18398,1612,Dutch Defense, Rubinstein Variation
+37979,17182,19225,1572,Indian Defense, West Indian Defense
+37925,18025,18793,1107,Latvian Gambit Accepted,~
+37636,15512,21114,1010,Italian Game," Two Knights Defense, Fritz Variation"
+37632,18323,18104,1205,Ponziani Opening, Neumann Gambit
+37521,19269,16871,1381,Polish Defense,~
+37483,26628,9730,1125,Italian Game," Two Knights Defense, Knight Attack"
+37437,18917,16925,1595,English Opening, Anglo-Dutch Defense
+37330,17831,17952,1547,Sicilian Defense," Najdorf Variation, Lipnitsky Attack"
+37177,18533,17222,1422,King's Indian Defense, Four Pawns Attack
+37044,18373,17153,1518,Polish Opening, Czech Defense
+36756,18504,16944,1308,Center Game, Berger Variation
+36450,19103,16029,1318,Nimzowitsch Defense, Mikenas Variation
+36354,16774,18513,1067,King's Gambit Accepted, Cunningham Defense
+35977,18676,16027,1274,Gunderam Defense,~
+35802,18894,15466,1442,Queen's Gambit Accepted," Central Variation, Greco Variation"
+35774,19247,15081,1446,English Opening, Carls-Bremen System
+35506,19909,14020,1577,Ruy Lopez," Exchange Variation, Lutikov Variation"
+35249,17703,16156,1390,Russian Game," Modern Attack, Symmetrical Variation"
+35154,17481,16096,1577,Queen's Gambit Declined," Baltic Defense, Pseudo-Slav"
+34901,15692,18159,1050,Indian Defense, Omega Gambit
+34828,16141,16358,2329,French Defense," Rubinstein Variation, Blackburne Defense"
+34702,19204,14203,1295,Réti Opening, Réti Accepted
+34610,16078,17358,1174,Pirc Defense, Roscher Gambit
+34512,14603,18419,1490,Portuguese Opening,~
+34475,16834,16462,1179,Scotch Game," Scotch Gambit, Dubois Réti Defense"
+34314,18450,14344,1520,Philidor Defense, Nimzowitsch Variation
+34311,16910,15791,1610,French Defense, Schlechter Variation
+34201,18249,14681,1271,Scotch Game, Benima Defense
+34050,18413,13947,1690,Four Knights Game, Ranken Variation
+33891,17439,15042,1410,Ruy Lopez," Morphy Defense, Modern Steinitz Defense"
+33614,15903,16080,1631,Indian Defense," Budapest Defense, Adler Variation"
+33465,18027,14217,1221,Queen's Gambit Accepted," Central Variation, Alekhine System"
+33202,18666,13221,1315,Queen's Gambit Accepted, Normal Variation
+33106,16930,14903,1273,Dutch Defense, Raphael Variation
+33096,16412,14969,1715,Queen's Gambit Declined," Modern Variation, Normal Line"
+32976,16651,15284,1041,Benoni Defense, King's Pawn Line
+32839,18215,13549,1075,Queen's Gambit Declined," Chigorin Defense, Janowski Variation"
+32795,15534,15883,1378,Philidor Defense, Hanham Variation
+32779,16992,14816,971,Englund Gambit Complex, Felbecker Gambit
+32585,17991,13352,1242,Queen's Gambit Accepted, Rosenthal Variation
+32579,15970,15326,1283,Modern Defense, Averbakh System
+32359,16934,14387,1038,Four Knights Game, Halloween Gambit
+32101,15204,15574,1323,King's Knight Opening, Konstantinopolsky
+32012,15764,14704,1544,Slav Defense," Quiet Variation, Pin Defense"
+32003,15631,15143,1229,Benoni Defense, Hromádka System
+31805,17282,13097,1426,Scotch Game, Lolli Variation
+31589,16997,13374,1218,Queen's Gambit Accepted," Central Variation, Modern Defense"
+31383,15245,14794,1344,Nimzo-Indian Defense, Leningrad Variation
+31303,15928,14153,1222,Vienna Game," Stanley Variation, Reversed Spanish"
+31262,16473,13323,1466,French Defense, Tarrasch Variation
+31141,15520,14598,1023,Grob Opening, Grob Gambit
+31089,15519,14226,1344,Nimzo-Indian Defense, Three Knights Variation
+31066,18562,11712,792,Danish Gambit Accepted,~
+30859,15107,14516,1236,Tarrasch Defense,~
+30752,13888,15462,1402,Philidor Defense, Lion Variation
+30687,15369,13992,1326,English Opening," King's English Variation, Kramnik-Shirov Counterattack"
+30494,16134,13282,1078,Scotch Game, Göring Gambit
+30429,14915,13637,1877,Russian Game, Cozio Attack
+30211,15118,13415,1678,Indian Defense, Przepiorka Variation
+29981,15211,13794,976,Hungarian Opening, Reversed Alekhine
+29957,15217,13436,1304,Queen's Gambit Declined," Tarrasch Defense, Pseudo-Tarrasch"
+29889,15050,11804,3035,Ruy Lopez," Berlin Defense, Rio Gambit Accepted"
+29840,12804,15779,1257,Scotch Game," Classical Variation, Intermezzo Variation"
+29813,14220,14538,1055,Italian Game," Classical Variation, La Bourdonnais Variation"
+29525,14653,13987,885,Latvian Gambit,~
+29523,16211,12337,975,Bishop's Opening, Ponziani Gambit
+29369,14754,13541,1074,Hungarian Opening, Reversed Modern Defense
+29239,13319,14738,1182,Caro-Kann Defense," Two Knights Attack, Mindeno Variation"
+29213,14785,13371,1057,Caro-Kann Defense," Advance Variation, Bayonet Attack"
+29174,14752,13359,1063,Queen's Gambit Declined," Chigorin Defense, Exchange Variation"
+28850,14009,13482,1359,Tarrasch Defense, Symmetrical Variation
+28824,15434,12514,876,Vienna Game," Vienna Gambit, Steinitz Gambit, Knight Variation"
+28565,14349,13107,1109,Sicilian Defense," Modern Variations, Tartakower"
+28556,14142,13069,1345,Four Knights Game, Gunsberg Variation
+28410,14648,12798,964,Alekhine Defense, Brooklyn Variation
+28350,12816,14693,841,Alekhine Defense, Krejcik Variation
+28333,13828,13153,1352,Indian Defense, Tartakower Attack
+28079,14021,12686,1372,Queen's Gambit Declined, Traditional Variation
+28078,15302,11860,916,Vienna Game, Omaha Gambit
+28035,15773,11386,876,Grob Opening," Grob Gambit, Fritz Gambit"
+27915,14110,12623,1182,French Defense," Advance Variation, Main Line"
+27849,15044,11904,901,Scotch Game," Scotch Gambit, Sarratt Variation"
+27847,13283,13551,1013,King's Indian Defense, Zinnowitz Variation
+27680,15162,11445,1073,Queen's Pawn Game," Colle System, Traditional Colle"
+27334,12779,13553,1002,Nimzowitsch Defense," Kennedy Variation, de Smet Gambit"
+27252,13712,12247,1293,Queen's Gambit Accepted," Central Variation, McDonnell Defense"
+27245,14449,11619,1177,Ruy Lopez, Nürnberg Variation
+27219,12552,13784,883,French Defense, Perseus Gambit
+27149,13071,12624,1454,Queen's Gambit Declined, Semi-Tarrasch Defense
+27138,12119,13910,1109,Indian Defense," Colle System, King's Indian Variation"
+26832,13590,12358,884,Blackmar-Diemer Gambit, von Popiel Gambit
+26801,13885,11942,974,Van Geet Opening, Dunst-Perrenet Gambit
+26764,13143,12452,1169,Trompowsky Attack, Classical Defense
+26514,13736,11704,1074,Pirc Defense, Austrian Attack
+26406,13404,12256,746,King's Gambit Declined, Petrov's Defense
+26217,13019,12581,617,Italian Game," Two Knights Defense, Traxler Counterattack, Knight Sacrifice Line"
+26113,12448,12439,1226,Zukertort Opening, Quiet System
+26105,13724,11191,1190,King's Indian Attack, Sicilian Variation
+26009,13926,11309,774,Blackmar-Diemer Gambit, Ryder Gambit
+25995,12737,12511,747,Sicilian Defense, Drazic Variation
+25817,14605,10327,885,Queen's Gambit Declined," Chigorin Defense, Modern Gambit"
+25802,12500,12412,890,Queen's Pawn Game," Chigorin Variation, Irish Gambit"
+25729,11767,12874,1088,Sicilian Defense," O'Kelly Variation, Normal System"
+25548,12168,11873,1507,English Opening," Symmetrical Variation, Anti-Benoni Variation"
+25486,13443,11189,854,Slav Defense," Slav Gambit, Alekhine Attack"
+25426,13747,10525,1154,English Opening, Mikenas-Carls Variation
+25315,11025,13284,1006,Benko Gambit,~
+25243,12687,11437,1119,Slav Indian,~
+25086,11943,12112,1031,Sicilian Defense," Smith-Morra Gambit Declined, Push Variation"
+25013,14946,9259,808,Italian Game," Classical Variation, Center Attack"
+24939,11971,11818,1150,Queen's Gambit Declined," Albin Countergambit, Normal Line"
+24837,12180,11801,856,Modern Defense, Bishop Attack
+24751,13861,10190,700,Scandinavian Defense," Main Line, Leonhardt Gambit"
+24682,12292,11024,1366,Caro-Kann Defense," Accelerated Panov Attack, Modern Variation"
+24630,12847,10902,881,Philidor Defense, Morphy Gambit
+24537,12148,10812,1577,Zukertort Opening, Nimzo-Larsen Variation
+24534,12952,10635,947,English Opening," Anglo-Scandinavian Defense, Malvinas Variation"
+24515,12837,10574,1104,French Defense, Chigorin Variation
+24464,10718,12610,1136,Amar Opening,~
+24443,11680,11815,948,Dutch Defense, Normal Variation
+24399,11766,11538,1095,Sicilian Defense, Kramnik Variation
+24351,10747,12939,665,Italian Game," Two Knights Defense, Ponziani-Steinitz Gambit"
+24293,12552,10802,939,English Opening, Anglo-Lithuanian Variation
+24236,14203,9409,624,Italian Game," Evans Gambit, McDonnell Defense"
+24181,12044,11155,982,Canard Opening,~
+24052,12700,10224,1128,Réti Opening,~
+24009,12261,11072,676,Philidor Defense, Lopez Countergambit
+24001,10607,12481,913,Sicilian Defense, Kan Variation
+23910,10186,12957,767,Italian Game," Two Knights Defense, Polerio Defense"
+23797,12168,10787,842,Zukertort Opening, Vos Gambit
+23748,12690,10065,993,Sicilian Defense," Closed, Fianchetto Variation"
+23726,10932,11731,1063,French Defense," Exchange Variation, Svenonius Variation"
+23713,10218,12488,1007,Amazon Attack,~
+23670,10230,12453,987,Scandinavian Defense, Portuguese Variation
+23484,13415,9359,710,Ruy Lopez," Classical Variation, Zukertort Gambit"
+23436,11385,11186,865,Modern Defense," Two Knights Variation, Suttles Variation"
+23353,11813,10488,1052,French Defense," Winawer Variation, Advance Variation"
+23339,11731,10114,1494,Sicilian Defense," Accelerated Dragon, Maróczy Bind"
+23270,12363,10036,871,Queen's Gambit Accepted, Showalter Variation
+23056,10956,10729,1371,Caro-Kann Defense, Karpov Variation
+23002,11964,10194,844,Réti Opening, Advance Variation
+22882,11476,10537,869,Alekhine Defense," Two Pawn Attack, Lasker Variation"
+22781,11263,10461,1057,Queen's Gambit Declined," Semi-Tarrasch Defense, Pillsbury Variation"
+22774,10535,11482,757,Sicilian Defense, Paulsen-Basman Defense
+22712,10440,11500,772,Indian Defense, Pawn Push Variation
+22554,11335,10234,985,King's Indian Defense," Sämisch Variation, Normal Defense"
+22393,10819,10697,877,King's Pawn Game, Mengarini's Opening
+22392,11615,9560,1217,English Opening," Anglo-Indian Defense, King's Knight Variation"
+22256,11831,9767,658,Bishop's Opening, Khan Gambit
+22214,10098,11180,936,Sicilian Defense," French Variation, Normal"
+22134,10195,10537,1402,Grünfeld Defense, Exchange Variation
+22085,10701,10698,686,King's Gambit Declined," Falkbeer Countergambit, Blackburne Attack"
+22057,11863,9260,934,Nimzowitsch Defense," Kennedy Variation, Paulsen Attack"
+21818,11091,9842,885,Zukertort Opening, Wade Defense
+21813,10959,10050,804,Sicilian Defense, Smith-Morra Gambit Deferred
+21746,10913,9691,1142,Slav Defense, Quiet Variation
+21743,10455,10600,688,Three Knights Opening, Winawer Defense
+21541,10995,9748,798,Italian Game," Giuoco Piano, Greco's Attack"
+21496,10625,10082,789,Benoni Defense, Modern Variation
+21471,10220,10353,898,Polish Opening, King's Indian Variation
+21456,11397,9462,597,Grob Opening," Spike, Hurst Attack"
+21452,10681,9697,1074,Slav Defense, Schlechter Variation
+21449,12707,7859,883,Sicilian Defense," Alapin Variation, Barmen Defense, Central Exchange"
+21412,9817,10550,1045,Sicilian Defense," Taimanov Variation, Bastrikov Variation"
+21345,10045,10294,1006,Sicilian Defense," Kan Variation, Maróczy Bind, Réti Variation"
+21194,10308,9904,982,Dutch Defense, Classical Variation
+21089,10907,9288,894,English Opening," King's English Variation, Three Knights System"
+21031,10278,9518,1235,Caro-Kann Defense," Panov Attack, Modern Defense, Mieses Line"
+21021,10657,9537,827,Mexican Defense,~
+21005,11888,8540,577,Danish Gambit Accepted, Copenhagen Defense
+20996,11436,8769,791,Semi-Slav Defense, Marshall Gambit
+20915,10047,9956,912,King's Indian Defense, Semi-Classical Variation
+20794,9507,10413,874,Danish Gambit Declined, Sorensen Defense
+20753,10379,9372,1002,Pirc Defense," Classical Variation, Schlechter Variation"
+20655,10429,8986,1240,Caro-Kann Defense," Exchange Variation, Rubinstein Variation"
+20607,9734,10029,844,Lion Defense, Lion's Jaw
+20528,9103,10617,808,Alekhine Defense, Four Pawns Attack
+20487,9822,9488,1177,Slav Defense," Quiet Variation, Schallopp Defense"
+20477,11092,8700,685,Scotch Game," Scotch Gambit, London Defense"
+20415,10987,8478,950,Caro-Kann Defense," Classical Variation, Main Line"
+20196,9812,9067,1317,French Defense," Steinitz Variation, Boleslavsky Variation"
+20149,9003,10548,598,Scandinavian Defense, Kloosterboer Gambit
+20134,11013,8560,561,Alekhine Defense, Mokele Mbembe
+20099,9820,9268,1011,Sicilian Defense, Lasker-Pelikan Variation
+20093,10798,8696,599,Blackmar-Diemer Gambit, Netherlands Variation
+20069,9305,10031,733,Sicilian Defense, O'Kelly Variation
+20058,10778,8643,637,Italian Game," Two Knights Defense, Perreux Variation"
+20010,8631,10378,1001,King's Pawn Game, Tortoise Opening
+19973,10113,9032,828,Ruy Lopez," Morphy Defense, Tarrasch Variation"
+19928,9275,9658,995,Sicilian Defense," Four Knights Variation, Exchange Variation"
+19875,9838,9264,773,Philidor Defense, Steinitz Variation
+19870,10359,8562,949,Ruy Lopez," Exchange Variation, Normal Variation"
+19798,10096,8735,967,Sicilian Defense," Dragon Variation, Yugoslav Attack, Modern Line"
+19656,8932,9990,734,Paleface Attack,~
+19606,9683,9021,902,Blumenfeld Countergambit,~
+19570,9674,8706,1190,English Opening," Anglo-Indian Defense, King's Indian Formation"
+19531,10417,8348,766,Queen's Gambit Declined," Vienna Variation, Quiet Variation"
+19492,9872,8981,639,Englund Gambit Complex, Soller Gambit Deferred
+19430,10253,8514,663,Borg Defense, Borg Gambit
+19298,9355,8983,960,Scotch Game, Mieses Variation
+19189,9647,8435,1107,Nimzo-Indian Defense, Classical Variation
+19154,9299,8878,977,Queen's Indian Defense,~
+19071,9096,8890,1085,Sicilian Defense," Accelerated Dragon, Modern Bc4 Variation"
+18963,9494,8840,629,Italian Game," Two Knights Defense, Polerio Defense, Bogoljubov Variation"
+18840,8708,8686,1446,Grünfeld Defense," Exchange Variation, Modern Exchange Variation"
+18827,9737,8296,794,Scandinavian Defense," Modern Variation, Gipslis Variation"
+18805,10226,7853,726,French Defense, Wing Gambit
+18723,9604,8436,683,English Opening," Anglo-Scandinavian Defense, Schulz Gambit"
+18578,9374,8544,660,Sicilian Defense, Katalimov Variation
+18542,9201,8463,878,King's Indian Defense, Makogonov Variation
+18520,9417,8156,947,Alekhine Defense, Sämisch Attack
+18467,8465,9271,731,Sicilian Defense," Lasker-Pelikan Variation, Retreat Variation"
+18393,8291,9485,617,Sicilian Defense, Nimzowitsch Variation
+18380,9133,8543,704,Queen's Gambit Accepted, Accelerated Mannheim Variation
+18365,8101,9571,693,Four Knights Game," Italian Variation, Noa Gambit"
+18324,8588,9012,724,Indian Defense, Reversed Chigorin Defense
+18296,9167,8335,794,Sicilian Defense, Keres Variation
+18262,8849,8647,766,Sicilian Defense," Lasker-Pelikan Variation, Schlechter Variation"
+18171,9646,7822,703,Italian Game, Scotch Gambit Declined
+18170,8740,8497,933,Sicilian Defense," Najdorf Variation, Opocensky Variation"
+18148,9784,7517,847,Ruy Lopez," Exchange Variation, King's Bishop Variation"
+18137,8478,8655,1004,Grünfeld Defense," Three Knights Variation, Burille Variation"
+18134,9003,8376,755,English Opening, Anglo-Grünfeld Defense
+18106,7836,9550,720,Sicilian Defense," Kan Variation, Wing Attack"
+18076,8600,8851,625,King's Pawn Game, Alapin Opening
+18028,8411,8830,787,King's Pawn Game, Dresden Opening
+18012,9646,7663,703,Vienna Game, Paulsen Variation
+17795,8910,8118,767,Trompowsky Attack," Classical Defense, Big Center Variation"
+17722,8377,8633,712,Sicilian Defense, Scheveningen Variation
+17651,8556,8479,616,Grob Opening, Grob Gambit Declined
+17572,9941,7033,598,Sicilian Defense, Jalalabad Variation
+17548,8833,8165,550,King's Gambit Accepted, Becker Defense
+17536,9294,7546,696,Zukertort Opening, Arctic Defense
+17536,8813,7876,847,English Opening," King's English Variation, Two Knights Variation, Reversed Dragon"
+17531,8830,8037,664,Benoni Defense, Benoni-Indian Defense
+17482,8320,8437,725,Vienna Game," Vienna Gambit, Main Line"
+17460,9277,7447,736,Queen's Gambit Accepted," Normal Variation, Traditional System"
+17459,9164,7635,660,Blackmar-Diemer Gambit, Teichmann Variation
+17458,8549,8255,654,Sicilian Defense," Smith-Morra Gambit Accepted, Paulsen Formation"
+17392,7429,9406,557,French Defense," Advance Variation, Steinitz Variation"
+17365,8976,7666,723,Modern Defense, Pseudo-Austrian Attack
+17342,9449,7238,655,Dutch Defense, Hopton Attack
+17187,8898,7670,619,French Defense, Franco-Hiva Gambit
+17182,8416,8022,744,French Defense, Réti-Spielmann Attack
+17136,8608,7828,700,Nimzowitsch Defense, French Connection
+16930,8446,7862,622,Semi-Slav Defense, Noteboom Variation
+16919,7735,8442,742,Modern Defense, Kotov Variation
+16906,8418,7830,658,Pirc Defense, Kholmov System
+16682,8243,7730,709,Sicilian Defense," Nimzowitsch Variation, Closed Variation"
+16665,7569,7184,1912,English Opening," Four Knights System, Nimzowitsch Variation"
+16619,8004,7962,653,Sicilian Defense," O'Kelly Variation, Yerevan System"
+16585,7459,8635,491,King's Gambit Declined," Falkbeer Countergambit, Staunton Line"
+16516,8247,7774,495,Italian Game, Rosentreter Gambit
+16432,7929,7854,649,Polish Opening, Outflank Variation
+16410,7859,7704,847,French Defense," Winawer Variation, Delayed Exchange Variation"
+16404,7638,8043,723,King's Gambit Accepted, Abbazia Defense
+16394,8940,6822,632,King's Gambit Declined, Falkbeer Countergambit Accepted
+16228,8201,7210,817,Russian Game," Damiano Variation, Kholmov Gambit"
+16175,8457,7183,535,Blackmar-Diemer Gambit, Zeller Defense
+16174,7801,7819,554,Sicilian Defense, Morphy Gambit
+16106,7654,7810,642,Queen's Pawn Game," Veresov, Richter Attack"
+16035,7406,8003,626,Lasker Simul Special,~
+15998,7903,7303,792,Grünfeld Defense," Three Knights Variation, Petrosian System"
+15893,8146,6897,850,French Defense, Burn Variation
+15875,8114,7078,683,Queen's Gambit Declined," Chigorin Defense, Main Line"
+15864,7970,7202,692,English Opening," King's English Variation, Two Knights Variation, Smyslov System"
+15862,8296,7107,459,Center Game, von der Lasa Gambit
+15695,8137,6980,578,English Opening," King's English Variation, Nimzowitsch Variation"
+15689,7704,7186,799,Caro-Kann Defense," Panov Attack, Modern Defense"
+15651,7612,7629,410,Bishop's Opening, Calabrese Countergambit
+15647,7810,7346,491,French Defense, Pelikan Variation
+15646,7463,7566,617,French Defense, Horwitz Attack
+15587,8179,6804,604,Scotch Game, Potter Variation
+15541,7378,7458,705,Nimzowitsch Defense, Pseudo-Spanish Variation
+15419,7030,7824,565,Sicilian Defense, Godiva Variation
+15404,7598,7174,632,Queen's Indian Accelerated,~
+15371,7584,7031,756,Sicilian Defense," Dragon Variation, Classical Variation"
+15345,7704,6820,821,King's Indian Attack, Yugoslav Variation
+15331,7522,7215,594,Modern Defense, Norwegian Defense
+15325,7157,7327,841,Caro-Kann Defense," Two Knights Attack, Mindeno Variation, Exchange Line"
+15320,7620,6722,978,Neo-Grünfeld Defense," Classical Variation, Original Defense"
+15270,7639,7059,572,Sicilian Defense," Scheveningen Variation, English Attack"
+15220,7710,6929,581,Polish Opening, Bugayev Attack
+15161,7239,7200,722,French Defense, Steinitz Variation
+15122,7717,6426,979,Russian Game, Nimzowitsch Attack
+15109,7156,6812,1141,Sicilian Defense," Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation"
+15108,7203,7314,591,Ruy Lopez, Schliemann Defense
+15070,7353,7242,475,Latvian Gambit, Mlotkowski Variation
+15015,7848,6616,551,Ruy Lopez," Morphy Defense, Graz Variation"
+14900,8467,5970,463,Blackmar-Diemer Gambit, Euwe Defense
+14859,7621,6623,615,French Defense," Horwitz Attack, Papa-Ticulat Gambit"
+14770,7676,6424,670,King's Indian Attack, Keres Variation
+14720,7350,6580,790,Ruy Lopez," Exchange Variation, Keres Variation"
+14656,7173,6848,635,Sicilian Defense," Smith-Morra Gambit Accepted, Scheveningen Formation"
+14645,7840,6427,378,Italian Game," Two Knights Defense, Traxler Counterattack, Bishop Sacrifice Line"
+14603,7148,6981,474,King's Gambit Accepted, Polerio Gambit
+14566,7230,6523,813,King's Indian Attack, Wahls Defense
+14561,7598,6283,680,English Opening," King's English Variation, Four Knights Variation, Quiet Line"
+14466,7461,6432,573,Hungarian Opening, Dutch Defense
+14430,7312,6129,989,Catalan Opening,~
+14406,8270,5764,372,Danish Gambit Accepted, Classical Defense
+14349,7441,6110,798,English Opening," King's English Variation, Four Knights Variation, Fianchetto Line"
+14233,7112,6520,601,Englund Gambit Complex, Stockholm Variation
+14191,5955,7755,481,Italian Game," Two Knights Defense, Ulvestad Variation"
+14170,7660,6004,506,Ruy Lopez," Morphy Defense, Neo-Arkhangelsk Variation"
+14157,6525,6988,644,Queen's Pawn Game," Colle System, Grünfeld Formation"
+14135,6907,6566,662,French Defense," Classical Variation, Delayed Exchange Variation"
+14131,6226,7415,490,Sicilian Defense, Pin Variation
+14130,8852,4926,352,Italian Game," Two Knights Defense, Max Lange Attack"
+13961,7199,5914,848,Russian Game, Classical Attack
+13958,8236,5342,380,Italian Game," Two Knights Defense, Open Variation"
+13926,6969,6381,576,French Defense, Winawer Variation
+13693,6435,6789,469,Center Game, Hall Variation
+13685,6897,6297,491,Nimzo-Larsen Attack, Dutch Variation
+13654,6531,6714,409,Caro-Kann Defense, Ulysses Gambit
+13634,6581,6324,729,Grünfeld Defense, Three Knights Variation
+13627,6361,6674,592,Nimzowitsch Defense," Scandinavian Variation, Bogoljubov Variation"
+13619,6835,6143,641,Sicilian Defense," Dragon Variation, Yugoslav Attack"
+13540,6751,6087,702,Queen's Gambit Declined, Janowski Variation
+13539,6034,6957,548,Grünfeld Defense,~
+13467,6920,6025,522,Ruy Lopez," Morphy Defense, Classical Defense Deferred"
+13467,6180,6744,543,Vienna Game, Frankenstein-Dracula Variation
+13433,6211,6578,644,Sicilian Defense," Smith-Morra Gambit Declined, Scandinavian Formation"
+13399,6343,6528,528,Caro-Kann Defense, Euwe Attack
+13350,9262,3818,270,Vienna Game," Stanley Variation, Meitner-Mieses Gambit"
+13344,6198,6758,388,Italian Game, Evans Gambit Declined
+13316,6404,6244,668,English Opening," Symmetrical Variation, Anti-Benoni Variation, Spielmann Defense"
+13209,6518,6195,496,Englund Gambit Complex, Zilbermints Gambit
+13204,6730,5751,723,Sicilian Defense, Prins Variation
+13191,6473,5968,750,Slav Defense, Chameleon Variation
+13175,6585,6120,470,Sicilian Defense," Wing Gambit, Carlsbad Variation"
+13143,5125,7570,448,King's Gambit Declined, Falkbeer Countergambit
+13129,6670,5872,587,Indian Defense, Czech-Indian
+13098,6506,5853,739,Ruy Lopez, Closed
+12965,6298,6118,549,Van Geet Opening, Grünfeld Defense
+12908,6717,5572,619,Vienna Game, Mieses Variation
+12905,6716,5716,473,Guatemala Defense,~
+12875,6421,5848,606,English Opening," King's English Variation, Two Knights Variation, Keres Variation"
+12766,6527,5585,654,English Opening," Symmetrical Variation, Symmetrical Variation"
+12696,5789,6371,536,Nimzowitsch Defense," Scandinavian Variation, Exchange Variation, Marshall Gambit"
+12636,5145,7045,446,Center Game Accepted,~
+12580,6032,5819,729,Russian Game, French Attack
+12497,5790,6204,503,Sicilian Defense," Smith-Morra Gambit Declined, Center Formation"
+12484,5522,6431,531,Ruy Lopez," Schliemann Defense, Exchange Variation"
+12356,6255,5753,348,Bird Opening, Schlechter Gambit
+12316,6401,5106,809,Catalan Opening, Open Defense
+12315,6533,5090,692,Indian Defense," Budapest Defense, Rubinstein Variation"
+12308,6384,5234,690,Van Geet Opening, Napoleon Attack
+12286,5806,5885,595,Nimzo-Indian Defense," Three Knights Variation, Duchamp Variation"
+12261,6555,5300,406,Sicilian Defense," Smith-Morra Gambit Accepted, Fianchetto Defense"
+12229,5884,5809,536,Indian Defense, Seirawan Attack
+12213,5638,6037,538,Sicilian Defense," Scheveningen Variation, Classical Variation"
+12165,6462,5255,448,Philidor Defense," Nimzowitsch Variation, Klein Variation"
+12139,6638,5086,415,Philidor Defense, Bird Gambit
+12056,5054,6634,368,Mikenas Defense, Lithuanian Variation
+11963,6021,5557,385,Philidor Defense, Philidor Countergambit
+11961,5601,5856,504,Sicilian Defense," Kan Variation, Modern Variation"
+11924,6472,5114,338,King's Gambit Accepted, Bishop's Gambit
+11693,5659,5611,423,Slav Defense, Diemer Gambit
+11674,5805,5364,505,Pirc Defense," Austrian Attack, Weiss Variation"
+11627,5782,5553,292,Italian Game, Jerome Gambit
+11607,5456,5612,539,Nimzo-Indian Defense," Sämisch Variation, Accelerated"
+11597,5933,5233,431,Slav Defense, Geller Gambit
+11549,5791,5120,638,Queen's Gambit Declined," Neo-Orthodox Variation, Main Line"
+11528,5882,4813,833,English Opening," Agincourt Defense, Neo-Catalan Declined"
+11451,5540,5470,441,Sicilian Defense," Wing Gambit, Marshall Variation"
+11433,5678,5304,451,King's Indian Defense, Accelerated Averbakh Variation
+11408,5788,4999,621,English Opening," Symmetrical Variation, Four Knights Variation"
+11328,5460,5520,348,King's Pawn Game," Clam Variation, King's Gambit Reversed"
+11281,5553,5112,616,Pirc Defense," Classical Variation, Quiet System"
+11273,5547,5287,439,Sicilian Defense," Smith-Morra Gambit Accepted, Pin Defense"
+11271,5600,5071,600,Wade Defense,~
+11245,5702,5138,405,Sicilian Defense," Nimzowitsch Variation, Advance Variation"
+11209,6383,4569,257,King's Gambit Declined, Norwalde Variation
+11121,5290,5237,594,Queen's Pawn Game," Torre Attack, Gossip Variation"
+11120,5265,5301,554,Sicilian Defense," French Variation, Westerinen Attack"
+11117,5334,5249,534,Four Knights Game," Spanish Variation, Rubinstein Variation"
+11079,5224,5405,450,French Defense," Tarrasch Variation, Open System, Süchting Line"
+11047,4894,5779,374,Ruy Lopez," Schliemann Defense, Jaenisch Gambit Accepted"
+11011,5320,5442,249,Zukertort Opening, Lisitsyn Gambit
+11003,5781,4895,327,King's Gambit Accepted, King Knight's Gambit
+10969,5477,4956,536,Caro-Kann Defense," Panov Attack, Main Line"
+10935,5642,4944,349,Polish Opening, Birmingham Gambit
+10897,5236,5172,489,Grünfeld Defense, Stockholm Variation
+10828,4926,5603,299,Englund Gambit Declined, Reversed Mokele Mbembe
+10823,6422,4038,363,Bishop's Opening, Lewis Gambit
+10817,5703,4726,388,Caro-Kann Defense, Rasa-Studier Gambit
+10814,5187,5103,524,Queen's Indian Defense, Kasparov Variation
+10814,5405,5124,285,Center Game, Halasz-McDonnell Gambit
+10813,5431,4987,395,English Opening, Jaenisch Gambit
+10793,5368,4852,573,Caro-Kann Defense, Bronstein-Larsen Variation
+10789,5570,4779,440,Rat Defense, Balogh Defense
+10762,5278,4980,504,Semi-Slav Defense, Normal Variation
+10750,5802,4506,442,Caro-Kann Defense, Goldman Variation
+10747,5135,5182,430,King's Indian Defense, Larsen Variation
+10635,5249,5130,256,King's Gambit Accepted, Blachly Gambit
+10614,5262,4909,443,Italian Game," Scotch Gambit, Janowski Defense"
+10597,5164,4908,525,Queen's Gambit Declined," Modern Variation, Knight Defense"
+10587,5579,4571,437,English Opening," Anglo-Indian Defense, Scandinavian Defense"
+10572,5375,4855,342,Valencia Opening,~
+10563,5688,4590,285,King's Gambit Accepted," Bishop's Gambit, Maurian Defense"
+10562,5138,4980,444,King's Indian Defense," Four Pawns Attack, Dynamic Attack"
+10532,5309,4752,471,Sicilian Defense," O'Kelly Variation, Venice System"
+10489,5666,4278,545,English Opening," Agincourt Defense, Catalan Defense, Semi-Slav Defense"
+10468,5925,4281,262,Scotch Game," Scotch Gambit, Kingside Variation"
+10467,5321,4823,323,Italian Game," Evans Gambit, Anderssen Variation"
+10374,4717,5336,321,Blackmar-Diemer Gambit, Fritz Attack
+10365,4962,4947,456,Benoni Defense," Benoni-Indian Defense, Kingside Move Order"
+10356,4801,5167,388,Alekhine Defense," Modern Variation, Schmid Variation"
+10267,4677,5081,509,Sicilian Defense," Lasker-Pelikan Variation, Exchange Variation"
+10218,5197,4514,507,Tarrasch Defense, Two Knights Variation
+10155,4879,4921,355,French Defense, Diemer-Duhm Gambit
+10154,5385,4429,340,Bishop's Opening, Urusov Gambit
+10120,5306,4503,311,Italian Game," Giuoco Pianissimo, Lucchini Gambit"
+9995,5020,4428,547,Sicilian Defense," Najdorf Variation, Adams Attack"
+9927,5387,4217,323,Blackmar-Diemer Gambit Declined, Weinsbach Declination
+9879,4801,4470,608,Caro-Kann Defense, Forgacs Variation
+9870,4706,4814,350,Blackmar-Diemer Gambit, Vienna Variation
+9858,4869,4661,328,Sicilian Defense," Smith-Morra Gambit Accepted, Kan Formation"
+9802,4949,4487,366,Queen's Pawn Game," Chigorin Variation, Shaviliuk Gambit"
+9773,5100,4211,462,Vienna Game," Vienna Gambit, Paulsen Attack"
+9763,4769,4534,460,Queen's Gambit Declined, Charousek Variation
+9762,4778,4680,304,Queen's Pawn Game, Liedmann Gambit
+9719,4795,4534,390,Queen's Gambit Declined, Tarrasch Defense
+9718,4457,4712,549,French Defense," Advance Variation, Wade Variation"
+9680,5316,4066,298,French Defense, Orthoschnapp Gambit
+9649,5041,4131,477,Queen's Gambit Declined," Harrwitz Attack, Orthodox Defense"
+9590,4639,4349,602,King's Indian Defense," Fianchetto Variation, Uhlmann-Szabo System"
+9578,4644,4437,497,French Defense," Tarrasch Variation, Open System"
+9572,4961,4200,411,Scotch Game, Malaniuk Variation
+9568,5249,3927,392,Ruy Lopez, Spanish Countergambit
+9561,4902,4347,312,Bishop's Opening, Philidor Variation
+9548,4981,4168,399,Nimzo-Indian Defense, Normal Line
+9537,5019,4177,341,Blackmar-Diemer Gambit Declined, O'Kelly Defense
+9517,5398,3832,287,Italian Game," Scotch Gambit, Walbrodt-Baird Gambit"
+9511,5025,4139,347,Nimzowitsch Defense," Kennedy Variation, Keres Attack"
+9489,4481,4641,367,Zukertort Opening, Herrstrom Gambit
+9475,4190,4919,366,Sicilian Defense, Sozin Attack
+9469,5349,3838,282,King's Gambit Declined, Keene's Defense
+9438,4142,4746,550,Benko Gambit Accepted, Fully Accepted Variation
+9436,4698,4466,272,Latvian Gambit, Mason Countergambit
+9428,5536,3661,231,Italian Game," Scotch Gambit, Max Lange Attack, Spielmann Defense"
+9419,4711,4336,372,Trompowsky Attack, Edge Variation
+9412,4669,4332,411,Three Knights Opening, Steinitz Defense
+9381,4252,4626,503,Scandinavian Defense, Bronstein Variation
+9377,4564,4433,380,Sicilian Defense," Sozin, not Scheveningen"
+9368,5014,3988,366,Caro-Kann Defense, Modern Variation
+9356,4271,4792,293,French Defense, Carlson Gambit
+9290,4703,4108,479,Nimzo-Indian Defense," Classical Variation, Noa Variation"
+9251,3929,4959,363,French Defense, Bird Invitation
+9227,5010,3842,375,Italian Game, Deutz Gambit
+9204,4467,4369,368,Vienna Game, Mengarini Variation
+9197,4239,4621,337,French Defense, Classical Variation
+9105,4157,4544,404,Four Knights Game," Spanish Variation, Rubinstein Variation Accepted"
+9052,4374,4224,454,Alekhine Defense," Modern Variation, Main Line"
+9048,4024,4557,467,Sodium Attack,~
+9035,4686,3964,385,Nimzo-Indian Defense, Kmoch Variation
+9031,3619,4956,456,Scotch Game, Steinitz Variation
+8987,4535,3980,472,Queen's Gambit Declined, Barmen Variation
+8946,4877,3773,296,Scotch Game," Göring Gambit, Main Line"
+8880,4218,4207,455,Indian Defense," Budapest Defense, Fajarowicz Variation"
+8821,4525,3961,335,Zukertort Opening, The Walrus
+8811,4304,4266,241,King's Gambit Accepted, Rosentreter Gambit
+8807,4361,3935,511,French Defense," Tarrasch Variation, Open System, Euwe-Keres Line"
+8800,4384,4022,394,Slav Defense, Bonet Gambit
+8765,4497,3846,422,Queen's Gambit Accepted, Gunsberg Defense
+8744,4559,3791,394,Nimzo-Indian Defense," Normal Variation, Ragozin Variation"
+8709,4899,3469,341,Dutch Defense, Staunton Gambit
+8655,4793,3386,476,Zukertort Opening, Grünfeld Reversed
+8647,5026,3403,218,Italian Game, Evans Gambit
+8592,4255,3934,403,English Opening," Anglo-Indian Defense, Old Indian Formation"
+8572,4368,3884,320,Italian Game," Scotch Gambit, de Riviere Defense"
+8554,4033,3988,533,English Opening," Symmetrical Variation, Two Knights Line"
+8540,3810,4456,274,Ponziani Opening, Ponziani Countergambit
+8536,4457,3682,397,Ruy Lopez," Morphy Defense, Steinitz Deferred"
+8487,4065,4067,355,Creepy Crawly Formation, Classical Defense
+8452,4474,3678,300,Hippopotamus Defense,~
+8428,4466,3619,343,King's Indian Defense, Sämisch Variation
+8401,4397,3689,315,Zukertort Opening, St. George Defense
+8375,4460,3621,294,King's Indian Attack, Omega-Delta Gambit
+8339,4002,3869,468,Grünfeld Defense," Three Knights Variation, Hungarian Variation"
+8277,4280,3542,455,English Opening," Anglo-Indian Defense, Anglo-Grünfeld Variation"
+8216,4077,3781,358,Nimzo-Indian Defense, Sämisch Variation
+8171,4204,3597,370,Polish Opening, Schiffler-Sokolsky Variation
+8158,4019,3797,342,Caro-Kann Defense, Gurgenidze System
+8116,4241,3552,323,Queen's Gambit Declined," Modern Variation, Heral Variation"
+8112,4366,3469,277,Kangaroo Defense," Keres Defense, Transpositional Variation"
+8079,4333,3522,224,King's Gambit Declined, Panteldakis Countergambit
+8076,4285,3513,278,Nimzowitsch Defense," Kennedy Variation, Riemann Defense"
+8074,4122,3628,324,Nimzowitsch Defense," Scandinavian Variation, Bogoljubov Variation, Vehre Variation"
+8068,4029,3701,338,Rat Defense, Accelerated Gurgenidze
+8045,3959,3618,468,Alekhine Defense," Modern Variation, Larsen Variation"
+8028,3960,3624,444,English Opening," King's English Variation, Four Knights Variation, Flexible Line"
+7990,4474,3245,271,Bishop's Opening, Boden-Kieseritzky Gambit
+7982,3644,4051,287,King's Gambit Accepted, Bonsch-Osmolovsky Variation
+7963,4104,3497,362,Sicilian Defense," Closed, Chameleon Variation"
+7923,3794,3825,304,Pterodactyl Defense," Eastern, Anhanguera"
+7912,3916,3674,322,Queen's Gambit Declined," Marshall Defense, Tan Gambit"
+7902,4013,3469,420,Dutch Defense," Stonewall Variation, Modern Variation"
+7864,3657,3829,378,Scotch Game," Scotch Gambit, Göring Gambit Declined"
+7824,4268,3263,293,Bishop's Opening," Vienna Hybrid, Hromádka Variation"
+7786,3926,3554,306,Caro-Kann Defense, Alekhine Gambit
+7771,3813,3551,407,Indian Defense," King's Indian Variation, Fianchetto Variation"
+7724,3365,3985,374,Italian Game," Classical Variation, Greco Gambit"
+7684,3973,3429,282,Caro-Kann Defense," Advance Variation, Bronstein Variation"
+7654,3734,3699,221,Englund Gambit Declined, Reversed Brooklyn
+7654,3840,3513,301,Slav Defense, Two Knights Attack
+7638,3792,3530,316,Sicilian Defense," Modern Variations, Anti-Qxd4 Move Order"
+7567,3485,3789,293,Sicilian Defense," O'Kelly Variation, Normal System, Taimanov Line"
+7549,3890,3324,335,King's Indian Defense, Semi-Averbakh System
+7541,3597,3780,164,French Defense," La Bourdonnais Variation, Reuter Gambit"
+7531,3862,3329,340,Kangaroo Defense,~
+7516,3528,3691,297,Alekhine Defense, Balogh Variation
+7514,3573,3454,487,King's Indian Defense," Fianchetto Variation, Classical Fianchetto"
+7504,3516,3702,286,Zukertort Opening, Speelsmet Gambit
+7495,3897,3288,310,Sicilian Defense," Taimanov Variation, Szén Variation"
+7489,3804,3317,368,Bird Opening, Lasker Variation
+7481,3835,3322,324,Philidor Defense, Larsen Variation
+7467,3739,3256,472,English Opening," Symmetrical Variation, Botvinnik System"
+7455,3720,3271,464,Bogo-Indian Defense, Exchange Variation
+7418,3635,3380,403,Nimzo-Indian Defense," Classical Variation, Berlin Variation"
+7388,3776,3304,308,King's Indian Defense," Normal Variation, Standard Development"
+7378,3673,3372,333,French Defense," Classical Variation, Swiss Variation"
+7373,3702,3417,254,Italian Game," Two Knights Defense, Polerio Defense, Kieseritzky Variation"
+7356,3494,3345,517,Italian Game," Scotch Gambit, Anderssen Attack"
+7338,3553,3349,436,Ruy Lopez," Exchange Variation, Gligoric Variation"
+7315,3367,3548,400,Old Indian Defense, Ukrainian Variation
+7306,3202,3884,220,Rat Defense," English Rat, Lisbon Gambit"
+7303,3047,3983,273,Barnes Opening, Walkerling
+7293,3663,2983,647,Neo-Grünfeld Defense, Ultra-delayed Exchange Variation
+7286,3273,3384,629,French Defense," Rubinstein Variation, Fort Knox Variation"
+7213,3725,3060,428,King's Indian Defense," Fianchetto Variation, Yugoslav Variation"
+7211,3317,3620,274,Sicilian Defense," Sozin Attack, Leonhardt Variation"
+7209,3382,3550,277,Italian Game, Bird's Attack
+7175,3792,3116,267,Polish Opening, Baltic Defense
+7165,4003,2932,230,Blackmar-Diemer Gambit, Ziegler Defense
+7157,3817,3044,296,Rubinstein Opening,~
+7143,3490,3162,491,Caro-Kann Defense," Classical Variation, Spassky Variation"
+7097,3660,3125,312,French Defense," Tarrasch Variation, Pawn Center Variation"
+7088,3362,3472,254,Caro-Kann Defense," Two Knights Attack, Mindeno Variation, Retreat Line"
+7065,3293,3532,240,Nimzowitsch Defense, Scandinavian Variation
+7048,3773,2969,306,Pirc Defense," Austrian Attack, Unzicker Attack"
+7010,3289,3439,282,Blackmar-Diemer Gambit Declined, Lamb Defense
+6997,3892,2802,303,English Opening," Anglo-Indian Defense, Scandinavian Defense, Exchange Variation"
+6958,3500,3162,296,King's Indian Defense," Sämisch Variation, Yates Defense"
+6952,3349,3326,277,French Defense," Winawer Variation, Fingerslip Variation"
+6942,3995,2730,217,Scotch Game," Göring Gambit, Bardeleben Variation"
+6916,3311,3243,362,Nimzo-Indian Defense, Spielmann Variation
+6899,3819,2886,194,Italian Game," Evans Gambit, Pierce Defense"
+6899,3182,3452,265,Nimzowitsch Defense," Lean Variation, Colorado Counter Accepted"
+6885,3590,2979,316,Sicilian Defense," Dragon Variation, Yugoslav Attack, Belezky Line"
+6848,3285,3269,294,Sicilian Defense," Dragon Variation, Modern Bc4 Variation"
+6833,3187,3401,245,Italian Game," Two Knights Defense, Polerio Defense, Suhle Defense"
+6824,3528,3078,218,Nimzo-Larsen Attack, Spike Variation
+6821,3171,3333,317,Scandinavian Defense, Classical Variation
+6809,3025,3512,272,Alekhine Defense," Four Pawns Attack, Fianchetto Variation"
+6808,3258,3252,298,Alekhine Defense," Modern Variation, Alburt Variation"
+6783,3299,3258,226,Bird Opening," From's Gambit, Lasker Variation"
+6728,3546,2856,326,Four Knights Game," Scotch Variation, Belgrade Gambit"
+6724,3319,2994,411,English Opening," Symmetrical Variation, Full Symmetry Line"
+6699,3130,3288,281,Pterodactyl Defense," Queen Pterodactyl, Quiet Line"
+6686,3669,2811,206,Caro-Kann Defense, von Hennig Gambit
+6675,2756,3671,248,Crab Opening,~
+6643,3283,3057,303,Sicilian Defense, Richter-Rauzer Variation
+6636,3409,2966,261,Sicilian Defense," O'Kelly Variation, Venice System, Steiner Line"
+6632,3223,3136,273,Slav Defense," Exchange Variation, Schallopp Variation"
+6611,3172,3114,325,Scandinavian Defense, Richter Variation
+6610,3523,2649,438,Russian Game," Modern Attack, Center Variation"
+6599,3346,3030,223,King's Gambit Declined, Keene Defense
+6594,3348,3037,209,Dutch Defense, Staunton Gambit Accepted
+6551,3301,3052,198,Sicilian Defense, Wing Gambit Deferred
+6547,2892,3491,164,King's Gambit Declined, Miles Defense
+6545,3162,3125,258,Modern Defense, Modern Pterodactyl
+6516,3179,3041,296,Caro-Kann Defense," Karpov Variation, Modern Variation, Kasparov Attack"
+6514,3223,2922,369,Ruy Lopez, Fianchetto Defense
+6510,3323,2971,216,St. George Defense, Polish Variation
+6507,3348,2841,318,Ruy Lopez, Open
+6449,3218,2975,256,Ruy Lopez," Schliemann Defense, Dyckhoff Variation"
+6434,2990,3238,206,Sicilian Defense," Wing Gambit, Deferred Variation"
+6419,3054,3063,302,Benoni Defense, Semi-Benoni
+6407,2886,3288,233,Nimzowitsch Defense, Lean Variation
+6346,3234,2857,255,Zukertort Opening, Basman Defense
+6339,3285,2836,218,Slav Defense, Alekhine Variation
+6331,3155,2744,432,Slav Defense," Exchange Variation, Symmetrical Line"
+6308,3168,2809,331,French Defense," Tarrasch Variation, Closed Variation, Main Line"
+6290,3080,2967,243,Scotch Game, Relfsson Gambit
+6280,2997,2963,320,Scandinavian Defense, Schiller-Pytel Variation
+6279,2953,3053,273,Sicilian Defense," Taimanov Variation, Bastrikov Variation, English Attack"
+6279,3099,2920,260,Alekhine Defense," Modern Variation, Larsen-Haakert Variation"
+6256,3091,2874,291,King's Indian Defense," Fianchetto Variation, Debrecen Defense"
+6229,2849,3085,295,Benoni Defense, Czech Benoni Defense
+6223,3681,2231,311,Lemming Defense,~
+6200,3259,2727,214,Blackmar-Diemer Gambit, Pietrowsky Defense
+6167,3067,2707,393,Queen's Indian Defense," Classical Variation, Traditional Variation, Nimzowitsch Line"
+6153,3274,2687,192,French Defense," Advance Variation, Nimzowitsch Attack"
+6142,2667,3225,250,Scotch Game, Modern Defense
+6133,2987,2779,367,English Opening," Symmetrical Variation, Duchamp Variation"
+6117,3444,2502,171,Italian Game," Two Knights Defense, Lolli Attack"
+6096,3213,2633,250,Scandinavian Defense, Lasker Variation
+6091,3577,2285,229,Ruy Lopez, Alapin Defense
+6091,2902,2821,368,Sicilian Defense, Nimzo-American Variation
+6082,3062,2743,277,Neo-Grünfeld Defense, Non- or Delayed Fianchetto
+6055,2719,3164,172,Bird Opening," Dutch Variation, Batavo Gambit"
+6047,2977,2853,217,English Opening," King's English Variation, Nimzowitsch-Flohr Variation"
+6030,2956,2787,287,Lion Defense," Anti-Philidor, Lion's Cave"
+6011,3071,2535,405,Bogo-Indian Defense, Grünfeld Variation
+6002,2896,2914,192,King's Gambit Declined, Mafia Defense
+5970,2882,2795,293,King's Gambit Declined," Falkbeer Countergambit, Charousek Gambit"
+5963,3206,2552,205,Caro-Kann Defense, Masi Variation
+5953,2730,2242,981,Semi-Slav Defense, Anti-Moscow Gambit
+5928,2795,2949,184,Queen's Gambit Declined," Baltic Defense, Pseudo-Chigorin"
+5927,3206,2493,228,Ruy Lopez, Vinogradov Variation
+5926,2487,3161,278,Benko Gambit, Zaitsev System
+5925,2925,2743,257,Sicilian Defense," Najdorf Variation, Amsterdam Variation"
+5922,3364,2388,170,King's Gambit Accepted," Cunningham Defense, Bertin Gambit"
+5882,3132,2494,256,Queen's Gambit Accepted," Central Variation, Rubinstein Defense"
+5873,2950,2631,292,Sicilian Defense," Closed, Korchnoi Defense"
+5872,3081,2411,380,Queen's Gambit Declined," Ragozin Defense, Alekhine Variation"
+5858,3035,2543,280,King's Indian Defense," Fianchetto Variation, Delayed Fianchetto"
+5838,3079,2559,200,Nimzowitsch Defense, Breyer Variation
+5821,3036,2574,211,St. George Defense," New St. George, Three Pawn Attack"
+5809,2695,2930,184,Vienna Game, Fyfe Gambit
+5802,2565,3062,175,King's Gambit Declined," Falkbeer Countergambit, Modern Transfer"
+5751,2726,2739,286,Queen's Indian Defense, Spassky System
+5704,2929,2542,233,Scandinavian Defense, Anderssen Counterattack
+5687,2530,2743,414,Caro-Kann Defense," Panov Attack, Fianchetto Defense"
+5683,2723,2760,200,Global Opening,~
+5682,2764,2726,192,French Defense," Advance Variation, Extended Bishop Swap"
+5666,2768,2655,243,Caro-Kann Defense," Accelerated Panov Attack, Open Variation"
+5629,2908,2536,185,Alekhine Defense," Mokele Mbembe, Vavra Defense"
+5609,2624,2729,256,Pterodactyl Defense," Western, Rhamphorhynchus"
+5593,2588,2745,260,Russian Game, Paulsen Attack
+5587,2877,2408,302,Scotch Game, Ghulam-Kassim Variation
+5566,2992,2287,287,Queen's Gambit Declined," Ragozin Defense, Vienna Variation"
+5549,2665,2705,179,King's Pawn Game," Busch-Gass Gambit, Chiodini Gambit"
+5547,2876,2358,313,English Opening," Anglo-Indian Defense, Queen's Indian Formation"
+5531,2940,2413,178,Indian Defense, Maddigan Gambit
+5527,3248,2102,177,Italian Game," Classical Variation, Greco Gambit, Greco Variation"
+5526,0,5526,0,Blackburne Shilling Gambit,~
+5501,2536,2774,191,Queen's Gambit Declined," Austrian Attack, Salvio Countergambit"
+5457,2678,2507,272,Queen's Gambit Declined, Orthodox Defense
+5455,2459,2722,274,Alekhine Defense," Four Pawns Attack, Main Line"
+5433,2686,2556,191,Queen's Pawn Game," Chigorin Variation, Anti-Veresov"
+5429,2496,2502,431,Bogo-Indian Defense, Nimzowitsch Variation
+5424,2747,2394,283,English Opening," King's English Variation, Four Knights Variation"
+5409,2636,2584,189,Pterodactyl Defense," Eastern, Benoni"
+5378,2223,2936,219,King's Gambit Accepted,~
+5375,2732,2362,281,Dutch Defense, Fianchetto Attack
+5355,2521,2587,247,King's Indian Defense," Semi-Classical Variation, Hollywood Variation"
+5316,2605,2538,173,Blackmar-Diemer Gambit, Rasa-Studier Gambit
+5302,2232,2925,145,Scotch Game," Scotch Gambit, Cochrane-Anderssen Variation"
+5296,3227,1886,183,Caro-Kann Defense," Maróczy Variation, Maróczy Gambit"
+5284,2817,2201,266,Queen's Gambit Accepted, Janowski-Larsen Variation
+5261,2563,2388,310,Neo-Grünfeld Defense," Classical Variation, Modern Defense"
+5258,2561,2423,274,Queen's Gambit Declined," Orthodox Defense, Botvinnik Variation"
+5237,2869,2173,195,Philidor Defense," Philidor Countergambit, Zukertort Variation"
+5197,2712,2303,182,Fried Fox Defense,~
+5196,2317,2710,169,Indian Defense," Anti-Grünfeld, Advance Variation"
+5185,2731,2079,375,English Opening," Symmetrical Variation, Mecking Variation"
+5167,2742,2225,200,Sicilian Defense," Morphy Gambit, Andreaschek Gambit"
+5135,2439,2537,159,King's Gambit Declined," Falkbeer Countergambit, Milner-Barry Variation"
+5101,2217,2665,219,Queen's Gambit Declined, Cambridge Springs Defense
+5100,2693,2226,181,English Opening," Anglo-Scandinavian Defense, Löhn Gambit"
+5100,2397,2363,340,Grünfeld Defense," Exchange Variation, Spassky Variation"
+5097,2578,2201,318,Queen's Indian Defense," Classical Variation, Traditional Variation"
+5092,2399,2471,222,Sicilian Defense," O'Kelly Variation, Maróczy Bind, Paulsen Line"
+5080,2704,2222,154,Italian Game," Evans Gambit, Harding Variation"
+5078,2337,2514,227,King's Indian Defense," Orthodox Variation, Positional Defense, Closed Line"
+5063,2729,2072,262,Queen's Gambit Declined," Exchange Variation, Reshevsky Variation"
+5056,2529,2340,187,Queen's Gambit Declined," Albin Countergambit, Tartakower Defense"
+5044,2487,2352,205,French Defense," Winawer Variation, Winckelmann-Riemer Gambit"
+5032,2681,2068,283,English Opening," Agincourt Defense, Catalan Defense Accepted"
+5011,2475,2408,128,Italian Game," Two Knights Defense, Traxler Counterattack"
+5000,2574,2275,151,Sicilian Defense," Smith-Morra Gambit, Danish Variation"
+4996,2507,2257,232,King's Indian Defense," Sämisch Variation, Closed Variation"
+4991,2893,1889,209,Sicilian Defense," Dragon Variation, Yugoslav Attack, Main Line"
+4980,3008,1807,165,Englund Gambit Complex, Mosquito Gambit
+4980,2512,2144,324,Sicilian Defense," Alapin Variation, Barmen Defense, Modern Line"
+4972,2237,2567,168,Sicilian Defense," Smith-Morra Gambit Declined, Alapin Formation"
+4962,2337,2334,291,King's Indian Defense," Orthodox Variation, Aronin-Taimanov Defense"
+4962,1928,2801,233,Sicilian Defense, Kveinis Variation
+4956,2192,2547,217,Queen's Pawn Game, Hübsch Gambit
+4917,2448,2228,241,Semi-Slav Defense, Chigorin Defense
+4915,2773,1952,190,Queen's Gambit Accepted, Slav Gambit
+4870,2535,2114,221,Zukertort Opening, Polish Defense
+4858,2578,1974,306,English Opening, Neo-Catalan
+4842,2595,2007,240,Old Indian Defense, Two Knights Variation
+4837,2189,2463,185,Sicilian Defense, Myers Attack
+4831,2271,2369,191,Van Geet Opening, Sicilian Two Knights
+4780,2261,2270,249,Benko Gambit Accepted, Pawn Return Variation
+4780,2182,2392,206,French Defense," Classical Variation, Normal Variation"
+4755,2216,2399,140,Blackmar-Diemer Gambit, Diemer-Rosenberg Attack
+4742,2248,2291,203,Nimzo-Larsen Attack, Graz Attack
+4738,2053,2482,203,Italian Game," Classical Variation, Greco Gambit, Main Line"
+4736,2314,2256,166,French Defense," Classical Variation, Richter Attack"
+4734,2375,2199,160,Russian Game," Cochrane Gambit, Bishop Check Line"
+4708,2074,2431,203,Grünfeld Defense," Three Knights Variation, Paris Variation"
+4706,2414,2136,156,French Defense, Alapin Gambit
+4705,2382,2052,271,King's Indian Defense," Orthodox Variation, Positional Defense"
+4689,2463,2049,177,Sicilian Defense," Najdorf Variation, Main Line"
+4648,2341,2213,94,Italian Game," Evans Gambit, Main Line"
+4648,2067,2373,208,Sicilian Defense," McDonnell Attack, Tal Gambit"
+4644,2449,1956,239,Catalan Opening," Open Defense, Tarrasch Defense"
+4609,2244,2155,210,Modern Defense," Lizard Defense, Mittenberger Gambit"
+4595,2095,2204,296,King's Indian Defense," Fianchetto Variation, Panno Variation"
+4592,2329,2035,228,Trompowsky Attack, Raptor Variation
+4586,2098,2273,215,Benoni Defense, Classical Variation
+4582,2118,2233,231,Danish Gambit Accepted, Schlechter Defense
+4575,2194,2253,128,Elephant Gambit, Maróczy Gambit
+4564,2224,2101,239,Old Indian Defense, Normal Variation
+4563,2583,1745,235,French Defense," Classical Variation, Burn Variation, Main Line"
+4548,2350,1986,212,Ruy Lopez," Morphy Defense, Norwegian Variation"
+4548,2420,1923,205,Zukertort Opening, Ware Defense
+4542,2207,2180,155,Amazon Attack, Siberian Attack
+4540,2159,2210,171,Barnes Opening, Hammerschlag
+4521,2199,2114,208,Semi-Slav Defense Accepted,~
+4512,2449,1786,277,Semi-Slav Defense, Quiet Variation
+4504,2270,2085,149,Bird Opening, Sturm Gambit
+4494,2133,2166,195,Slav Defense, Winawer Countergambit
+4486,2297,2042,147,Center Game, Ross Gambit
+4471,2104,2205,162,Alekhine Defense," Four Pawns Attack, Trifunovic Variation"
+4468,2110,2187,171,Robatsch Defense,~
+4466,2521,1795,150,Italian Game, Scotch Gambit
+4463,2386,1928,149,Sicilian Defense," Alapin Variation, Sherzer Variation"
+4447,1336,2971,140,Irish Gambit,~
+4422,2514,1795,113,Danish Gambit Accepted, Chigorin Defense
+4416,2261,1984,171,English Opening," Mikenas-Carls, Sicilian"
+4401,2126,2075,200,Queen's Pawn Game," Chigorin Variation, Fianchetto Defense"
+4398,2187,2032,179,Queen's Pawn Game," Veresov Attack, Dutch System"
+4382,2343,1885,154,Polish Opening, Bugayev Advance Variation
+4380,2279,1856,245,Neo-Grünfeld Defense, Classical Variation
+4379,2061,2090,228,Torre Attack," Classical Defense, Nimzowitsch Variation"
+4378,2146,2051,181,Queen's Pawn Game," Torre Attack, Grünfeld Variation"
+4375,2002,2065,308,Benko Gambit Accepted, Modern Variation
+4361,2214,1928,219,Semi-Slav Defense, Botvinnik Variation
+4336,2215,1898,223,King's Indian Defense, Steiner Attack
+4333,1974,2140,219,Tarrasch Defense, Schara Gambit
+4321,2319,1871,131,Nimzowitsch Defense," Kennedy Variation, Main Line"
+4318,2436,1701,181,Queen's Pawn Game," Veresov Attack, Richter Variation"
+4312,1849,2336,127,Alekhine Defense, O'Sullivan Gambit
+4300,2255,1826,219,Polish Opening, Symmetrical Variation
+4285,2062,2062,161,Queen's Pawn Game, Englund Gambit
+4277,2227,1856,194,Queen's Gambit Declined," Chigorin Defense, Lazard Gambit"
+4232,1794,2310,128,King's Pawn Game, Schulze-Müller Gambit
+4217,1881,2076,260,Grünfeld Defense," Exchange Variation, Classical Variation"
+4207,2133,1915,159,Polish Opening, Dutch Defense
+4202,1998,1922,282,Russian Game," Classical Attack, Marshall Variation"
+4201,1925,2034,242,Pirc Defense," Austrian Attack, Dragon Formation"
+4189,1871,2186,132,Scandinavian Defense, Kiel Variation
+4175,2037,1906,232,Grünfeld Defense," Three Knights Variation, Hungarian Attack"
+4133,1961,1936,236,Queen's Gambit Declined," Harrwitz Attack, Fianchetto Defense"
+4128,2197,1758,173,Sicilian Defense," Dragon Variation, Levenfish Variation"
+4127,2034,1929,164,Sicilian Defense, Flohr Variation
+4114,1555,2418,141,King's Gambit Declined," Falkbeer Countergambit, Nimzowitsch-Marshall Countergambit"
+4112,2077,1895,140,Sicilian Defense, Quinteros Variation
+4089,2105,1808,176,Old Indian Defense, Tartakower-Indian
+4075,2059,1827,189,Queen's Pawn Game," Veresov Attack, Boyce Defense"
+4069,2093,1847,129,Caro-Kann Defense," Hillbilly Attack, Schaeffer Gambit"
+4065,1926,2016,123,Italian Game," Scotch Gambit, Double Gambit Accepted"
+4063,1961,1919,183,Grob Opening, Spike Attack
+4063,2017,1752,294,Ruy Lopez," Closed, Martinez Variation"
+4060,1919,1829,312,French Defense," Tarrasch Variation, Chistyakov Defense"
+4054,2117,1797,140,Queen's Gambit Declined," Chigorin Defense, Tartakower Gambit"
+4019,1815,2024,180,French Defense," Winawer Variation, Poisoned Pawn Variation"
+4007,1861,2021,125,Sicilian Defense," Modern Variations, Ginsberg Gambit"
+4007,1961,1880,166,Ruy Lopez, Lucena Variation
+3980,1714,2127,139,King's Gambit Accepted, Hanstein Gambit
+3967,1955,1793,219,French Defense," Tarrasch Variation, Guimard Defense"
+3958,1885,1962,111,Italian Game," Scotch Gambit, Max Lange Attack"
+3955,1962,1881,112,Alekhine Defense," Krejcik Variation, Krejcik Gambit"
+3953,1922,1814,217,King's Indian Defense," Fianchetto Variation, Classical Variation"
+3939,1903,1831,205,Sicilian Defense," Najdorf Variation, Zagreb Variation"
+3908,2661,1106,141,King's Pawn Game," Damiano Defense, Damiano Gambit"
+3895,1858,1884,153,Queen's Gambit Declined, Been-Koomen Variation
+3894,2105,1580,209,Réti Opening," Anglo-Slav Variation, Bogoljubov Variation, Stonewall Line"
+3868,1415,1544,909,Ruy Lopez," Berlin Defense, l'Hermet Variation, Berlin Wall Defense"
+3856,2009,1746,101,Bishop's Opening, Warsaw Gambit
+3807,1839,1794,174,French Defense," Classical Variation, Svenonius Variation"
+3804,2063,1671,70,Latvian Gambit," Mayet Attack, Morgado Defense"
+3795,1777,1860,158,Caro-Kann Defense," Panov Attack, Gunderam Attack"
+3770,1745,1847,178,Sicilian Defense," Accelerated Fianchetto, Maróczy Bind"
+3766,1878,1720,168,Polish Opening, Grigorian Variation
+3759,1868,1700,191,King's Indian Defense," Fianchetto Variation, Simagin Variation"
+3752,1934,1658,160,Sicilian Defense, Bücker Variation
+3751,1279,2309,163,Bongcloud Attack,~
+3745,1968,1609,168,Queen's Gambit Declined," Albin Countergambit, Modern Line"
+3730,1697,1884,149,Indian Defense," Paleface Attack, Blackmar-Diemer Gambit Deferred"
+3712,1814,1741,157,Three Knights Opening, Schlechter Variation
+3683,1804,1639,240,Dutch Defense," Classical Variation, Stonewall Variation"
+3641,1880,1620,141,King's Indian Defense, Kramer Variation
+3619,1910,1589,120,English Opening," King's English Variation, Keres Defense"
+3601,1770,1529,302,Sicilian Defense," Moscow Variation, Sokolsky Variation"
+3597,1902,1511,184,Semi-Slav Defense, Bogoljubov Variation
+3592,1765,1596,231,Ruy Lopez, Marshall Attack
+3571,1875,1521,175,King's Indian Defense," Orthodox Variation, Classical System"
+3570,1860,1458,252,King's Indian Defense," Orthodox Variation, Bayonet Attack"
+3566,1755,1710,101,Sicilian Defense, Halasz Gambit
+3558,1652,1730,176,Nimzo-Indian Defense, St. Petersburg Variation
+3550,1696,1692,162,King's Indian Defense," Semi-Classical Variation, Benoni Variation"
+3537,1732,1626,179,Zukertort Opening, Double Fianchetto Attack
+3536,1182,2218,136,Queen's Gambit Declined," Albin Countergambit, Lasker Trap"
+3531,1580,1788,163,Sicilian Defense," Dragon Variation, Yugoslav Attack, Old Line"
+3520,1672,1712,136,Grob Opening, Keene Defense
+3517,1588,1667,262,Queen's Gambit Declined, Tartakower Defense
+3496,1825,1534,137,Van Geet Opening, Berlin Gambit
+3489,1804,1563,122,Montevideo Defense,~
+3484,1800,1473,211,System, Double Duck Formation
+3475,1721,1537,217,Dutch Defense," Leningrad Variation, Warsaw Variation"
+3473,1706,1567,200,Italian Game," Classical Variation, Greco Gambit, Anderssen Variation"
+3467,1873,1410,184,Sicilian Defense," Lasker-Pelikan Variation, Sveshnikov Variation"
+3458,1708,1526,224,King's Indian Attack, Double Fianchetto
+3455,1647,1603,205,French Defense," Advance Variation, Lputian Variation"
+3451,1645,1488,318,King's Indian Defense, Exchange Variation
+3432,1797,1420,215,King's Indian Defense," Orthodox Variation, Gligoric-Taimanov System"
+3431,1588,1393,450,Semi-Slav Defense, Stoltz Variation
+3420,1931,1402,87,Center Game," Lanc-Arnold Gambit, Schippler Gambit"
+3420,1765,1539,116,Ruy Lopez," Morphy Defense, Jaffe Gambit"
+3393,1762,1505,126,Queen's Gambit Declined, Alapin Variation
+3362,1661,1450,251,English Opening," Symmetrical Variation, Botvinnik System Reversed"
+3327,1752,1435,140,Nimzo-Larsen Attack, Polish Variation
+3326,1589,1573,164,Russian Game, Karklins-Martinovsky Variation
+3321,1715,1511,95,King's Gambit Accepted," Bishop's Gambit, Cozio Defense"
+3318,1601,1579,138,Pirc Defense," Austrian Attack, Kurajica Variation"
+3317,1567,1618,132,King's Gambit Declined," Falkbeer Countergambit, Hinrichsen Gambit"
+3315,2123,1103,89,King's Gambit Accepted," Muzio Gambit, Wild Muzio Gambit"
+3309,1707,1406,196,French Defense," Tarrasch Variation, Open System, Main Line"
+3291,1617,1484,190,Grünfeld Defense, Brinckmann Attack
+3285,1642,1480,163,Semi-Slav Defense, Accelerated Meran Variation
+3274,1560,1513,201,King's Indian Defense," Petrosian Variation, Stein Defense"
+3259,1468,1622,169,Ruy Lopez," Exchange Variation, Alapin Gambit"
+3249,1459,1645,145,Sicilian Defense," Smith-Morra Gambit Accepted, Classical Formation"
+3245,1648,1480,117,Ruy Lopez," Morphy Defense, Arkhangelsk Variation"
+3241,1730,1338,173,Catalan Opening," Open Defense, Classical Line"
+3231,1586,1467,178,Queen's Gambit Declined," Orthodox Defense, Main Line"
+3226,1641,1389,196,English Opening," Agincourt Defense, Wimpy System"
+3218,1343,1816,59,Italian Game," Two Knights Defense, Traxler Counterattack, King March Line"
+3198,1622,1433,143,Old Indian Defense," Janowski Variation, Fianchetto Variation"
+3188,1658,1404,126,Indian Defense," Budapest Defense, Alekhine Variation"
+3176,1677,1331,168,Queen's Indian Defense, Fianchetto Traditional
+3174,1501,1502,171,French Defense," Tarrasch Variation, Morozevich Variation"
+3171,1675,1405,91,Mikenas Defense, Cannstatter Variation
+3165,1607,1401,157,Queen's Gambit Declined, Capablanca Variation
+3150,1637,1383,130,English Opening," King's English Variation, Troger Defense"
+3140,1468,1556,116,Modern Defense, Wind Gambit
+3136,1652,1324,160,Réti Opening," Anglo-Slav Variation, Bogoljubov Variation"
+3122,1434,1608,80,Vienna Game," Vienna Gambit, Pierce Gambit"
+3116,1566,1356,194,French Defense," Winawer Variation, Bogoljubov Variation"
+3115,1393,1628,94,King's Gambit Accepted, Traditional Variation
+3105,1344,1606,155,Sicilian Defense," Najdorf Variation, English Attack, Anti-English"
+3101,1622,1302,177,Italian Game," Classical Variation, Greco Gambit, Moeller-Therkatz Attack"
+3099,1657,1336,106,Vienna Game," Vienna Gambit, Steinitz Gambit"
+3095,1394,1517,184,Semi-Slav Defense, Meran Variation
+3093,1699,1255,139,Ruy Lopez," Morphy Defense, Wormald Attack"
+3091,1731,1205,155,Ruy Lopez," Morphy Defense, Mackenzie Variation"
+3090,1609,1315,166,French Defense," Winawer Variation, Alekhine-Maróczy Gambit"
+3088,1652,1308,128,Slav Defense, Alapin Variation
+3088,1597,1362,129,French Defense, Alekhine-Chatard Attack
+3085,1607,1354,124,Nimzowitsch Defense," Scandinavian Variation, Bogoljubov Variation, Nimzowitsch Gambit"
+3081,1556,1421,104,Ponziani Opening, Romanishin Variation
+3078,1429,1572,77,Italian Game," Evans Gambit, McDonnell Defense, Main Line"
+3068,1581,1354,133,King's Indian Defense," Sämisch Variation, Bobotsov-Korchnoi-Petrosian Variation"
+3064,1463,1509,92,Bishop's Opening," Berlin Defense, Greco Gambit"
+3047,1482,1416,149,Nimzo-Indian Defense, Hübner Variation
+3047,1696,1206,145,Australian Defense,~
+3043,1730,1214,99,Alekhine Defense, The Squirrel
+3039,1538,1330,171,Benoni Defense," Classical Variation, New York Variation"
+3035,1783,1158,94,Bishop's Opening," Urusov Gambit, Keidansky Gambit"
+3032,1967,957,108,Scotch Game, Blumenfeld Attack
+3030,1461,1208,361,Ruy Lopez," Closed, Anti-Marshall"
+3028,1385,1537,106,King's Gambit Declined," Classical, Soldatenkov Variation"
+3025,1513,1343,169,Nimzo-Indian Defense, Romanishin Variation
+3025,1612,1244,169,King's Indian Defense," Sämisch Variation, Orthodox Variation"
+2996,1490,1297,209,Tarrasch Defense, Classical Variation
+2994,1455,1391,148,Queen's Gambit Declined, Lasker Defense
+2992,1471,1370,151,King's Indian Defense," Fianchetto Variation, Karlsbad Variation"
+2971,1446,1447,78,King's Gambit Accepted," Muzio Gambit, Sarratt Defense"
+2969,1639,1245,85,King's Gambit Accepted," Kieseritzky Gambit, Long Whip"
+2935,1548,1270,117,Sicilian Defense," Dragon Variation, Yugoslav Attack, Panov Variation"
+2916,1522,1304,90,Bishop's Opening," Calabrese Countergambit, Jaenisch Variation"
+2903,1463,1253,187,Grob Opening, Double Grob
+2903,1117,1446,340,Ruy Lopez," Marshall Attack, Modern Main Line"
+2901,1310,1519,72,Italian Game," Evans Gambit, Anderssen Defense"
+2899,1585,1242,72,Van Geet Opening, Reversed Scandinavian
+2866,1427,1320,119,French Defense," Winawer Variation, Maróczy-Wallis Variation"
+2860,1393,1343,124,Sicilian Defense," O'Kelly Variation, Quiet System"
+2855,1503,1225,127,Réti Opening, Reversed Blumenfeld Gambit
+2853,1422,1291,140,Russian Game," Modern Attack, Center Attack"
+2841,1369,1381,91,Sicilian Defense," O'Kelly Variation, Normal System, Zagorovsky Line"
+2839,1357,1335,147,Sicilian Defense, Boleslavsky Variation
+2826,1540,1172,114,Hungarian Opening, Myers Defense
+2824,1360,1389,75,King's Gambit Accepted, Salvio Gambit
+2815,1346,1319,150,Sicilian Defense," Sozin Attack, Flank Variation"
+2808,1306,1352,150,Russian Game, Millennium Attack
+2808,1325,1391,92,King's Gambit Accepted," Cunningham Defense, McCormick Defense"
+2807,1459,1285,63,Scotch Game, Vitzthum Attack
+2806,1380,1311,115,Queen's Pawn Game," Veresov Attack, Veresov Variation"
+2806,1327,1354,125,Blackmar-Diemer Gambit, Tartakower Variation
+2800,1513,1209,78,Benoni Defense," Modern Variation, Snake Variation"
+2800,1458,1271,71,Bishop's Opening, Stein Gambit
+2791,1344,1307,140,King's Indian Defense," Fianchetto Variation, Yugoslav System"
+2791,1496,1169,126,Ruy Lopez," Closed, Averbakh Variation"
+2772,1333,1251,188,Bogo-Indian Defense, Wade-Smyslov Variation
+2762,1400,1286,76,Bird Opening, Wagner-Zwitersch Gambit
+2760,1308,1307,145,Scotch Game, Paulsen Attack
+2754,1489,1191,74,Scandinavian Defense," Anderssen Counterattack, Goteborg System"
+2753,1408,1249,96,Italian Game," Evans Gambit, Stone-Ware Variation"
+2739,1512,1105,122,Caro-Kann Defense," Classical Variation, Maróczy Attack"
+2734,1350,1296,88,King's Gambit Accepted," Kieseritzky Gambit, Kolisch Defense"
+2729,1578,1060,91,French Defense," Alekhine-Chatard Attack, Albin-Chatard Gambit"
+2724,1376,1248,100,Russian Game," Cochrane Gambit, Center Variation"
+2723,1371,1168,184,Slav Defense, Breyer Variation
+2722,1519,1108,95,French Defense," Advance Variation, Nimzowitsch Gambit"
+2716,1402,1141,173,Queen's Gambit Declined," Cambridge Springs Defense, Capablanca Variation"
+2713,1240,1364,109,Latvian Gambit, Fraser Defense
+2709,1569,1076,64,Italian Game," Evans Gambit, Compromised Defense"
+2702,1310,1252,140,Benko Gambit Declined, Main Line
+2699,1262,1268,169,French Defense," Tarrasch Variation, Guimard Defense, Main Line"
+2696,1266,1266,164,Four Knights Game," Scotch Variation, Schmid Defense"
+2693,1266,1311,116,French Defense," Winawer Variation, Classical Variation"
+2681,1386,1198,97,Van Geet Opening, Novosibirsk Variation
+2674,1382,1125,167,Queen's Indian Defense, Classical Variation
+2672,1329,1217,126,English Opening," King's English Variation, Taimanov Variation"
+2647,1341,1153,153,Caro-Kann Defense," Panov Attack, Modern Defense, Carlsbad Line"
+2642,1191,1363,88,Latvian Gambit, Clam Gambit
+2639,1421,1080,138,Sicilian Defense," Najdorf Variation, Freak Attack"
+2636,1286,1233,117,Queen's Gambit Accepted," Central Variation, McDonnell Defense, Somov Gambit"
+2635,1262,1239,134,Dutch Defense," Leningrad Variation, Matulovic Variation"
+2635,1317,1177,141,Sicilian Defense," Lasker-Pelikan Variation, Sveshnikov Variation, Novosibirsk Variation"
+2633,1266,1215,152,Pirc Defense, Sveshnikov System
+2625,1363,1170,92,Benoni Defense, Cormorant Gambit
+2609,1281,1187,141,Zukertort Opening, Santasiere's Folly
+2604,1392,1111,101,Pirc Defense, Bayonet Attack
+2603,1392,1106,105,Nimzowitsch Defense, Pirc Connection
+2598,1373,1134,91,Alekhine Defense," Hunt Variation, Lasker Simul Gambit"
+2593,1315,1084,194,Neo-Grünfeld Defense, Delayed Exchange Variation
+2588,1406,1067,115,Ruy Lopez," Closed, Closed Defense"
+2546,1275,1098,173,Nimzo-Indian Defense," Normal Variation, Bishop Attack, Classical Defense"
+2545,1255,1044,246,Russian Game," Classical Attack, Staunton Variation"
+2543,1307,1138,98,Sicilian Defense," Dragon Variation, Yugoslav Attack, Early Deviations"
+2537,1235,1157,145,Pirc Defense," Classical Variation, Quiet System, Chigorin Line"
+2531,1322,1087,122,English Opening," Anglo-Indian Defense, Nimzo-English"
+2529,1198,1189,142,Queen's Gambit Declined," Harrwitz Attack, Two Knights Defense"
+2525,1215,1189,121,King's Indian Defense," Fianchetto Variation, Yugoslav Variation, Advance Line"
+2514,1194,1100,220,Tarrasch Defense, Prague Variation
+2483,1170,1121,192,Queen's Gambit Declined," Semi-Tarrasch Defense, Exchange Variation"
+2478,1288,1105,85,Pterodactyl Defense," Eastern, Rhamphorhynchus"
+2477,1288,1018,171,Queen's Indian Defense, Capablanca Variation
+2475,1308,1069,98,Sicilian Defense," Najdorf Variation, Traditional Line"
+2474,1277,1069,128,Ruy Lopez," Closed, Pilnik Variation"
+2466,1232,1090,144,Queen's Gambit Declined, Anti-Tartakower Variation
+2464,1263,1076,125,Benoni Defense, Fianchetto Variation
+2458,1189,1144,125,English Opening," Anglo-Indian Defense, Anti-Anti-Grünfeld"
+2456,1451,862,143,Catalan Opening," Closed, Main Line"
+2452,1172,1206,74,King's Pawn Game," Macleod Attack, Lasa Gambit"
+2439,1117,1158,164,Benko Gambit Accepted, King Walk Variation
+2433,1082,1199,152,Benoni Defense, Weenink Variation
+2428,1292,1057,79,Döry Defense,~
+2426,1166,1141,119,Sicilian Defense," Pin Variation, Koch Variation"
+2419,1342,1002,75,Ruy Lopez, Rotary-Albany Gambit
+2413,1171,1161,81,Philidor Defense," Hanham Variation, Schlechter Variation"
+2403,1212,1046,145,French Defense," Classical Variation, Burn Variation, Morozevich Line"
+2399,1168,1152,79,Bird Opening, Hobbs Gambit
+2393,1035,1251,107,Sicilian Defense," Scheveningen Variation, Vitolins Variation"
+2392,1166,1113,113,Ruy Lopez," Cozio Defense, Paulsen Variation"
+2389,1316,988,85,Dutch Defense, Blackmar's Second Gambit
+2389,1237,1062,90,Nimzowitsch Defense, El Columpio Defense
+2388,1248,1061,79,Alekhine Defense, Modern Variation
+2378,1109,1181,88,Benoni Defense," Classical Variation, Averbakh-Grivas Attack"
+2369,1151,1082,136,Dutch Defense, Leningrad Variation
+2367,1315,946,106,Slav Defense, Soultanbeieff Variation
+2364,1255,1029,80,Nimzo-Indian Defense," Normal Variation, Sämisch Deferred"
+2363,1015,1255,93,Scotch Game, Alekhine Gambit
+2345,1220,1024,101,Russian Game," Classical Attack, Closed Variation"
+2344,1200,1045,99,Nimzo-Indian Defense," Normal Variation, Bishop Attack"
+2344,1358,904,82,Queen's Gambit Declined," Baltic Defense, Queen Attack"
+2338,1247,993,98,Queen's Gambit Declined," Albin Countergambit, Fianchetto Variation, Bg4 Line"
+2333,1392,871,70,Sicilian Defense, Polish Gambit
+2329,1176,996,157,Nimzo-Indian Defense, Reshevsky Variation
+2329,1052,1109,168,Slav Defense," Czech Variation, Dutch Variation"
+2324,971,1281,72,Van Geet Opening, Laroche Gambit
+2324,1165,1022,137,Sicilian Defense," Smith-Morra Gambit Declined, Dubois Variation"
+2321,1240,959,122,Queen's Gambit Declined," Albin Countergambit, Fianchetto Variation"
+2321,1250,1027,44,Latvian Gambit, Mayet Attack
+2320,1048,1185,87,Italian Game," Classical Variation, Closed Variation"
+2319,1153,1027,139,Sicilian Defense," O'Kelly Variation, Maróczy Bind"
+2317,1121,1092,104,King's Indian Defense, Petrosian Variation
+2313,1094,1065,154,Blackmar-Diemer Gambit," Lemberger Countergambit, Endgame Variation"
+2311,1226,1030,55,Queen's Gambit Declined," Baltic Defense, Queen Attack Deferred"
+2306,1101,1101,104,Sicilian Defense," Scheveningen Variation, Modern Variation"
+2293,1007,1221,65,Latvian Gambit Accepted, Main Line
+2276,1062,1144,70,Pterodactyl Defense," Sicilian, Rhamphorhynchus"
+2263,1117,1057,89,Old Indian Defense, Janowski Variation
+2248,1057,1029,162,English Opening," Symmetrical Variation, Three Knights Variation"
+2246,1095,1063,88,Van Geet Opening, Battambang Variation
+2243,1149,933,161,Sicilian Defense," Alapin Variation, Stoltz Attack"
+2231,1311,878,42,King's Gambit Accepted," Bishop's Gambit, Greco Variation"
+2231,1099,1042,90,French Defense," Classical Variation, Tartakower Variation"
+2227,1082,1044,101,Blackmar-Diemer Gambit," Lemberger Countergambit, Simple Variation"
+2227,1013,1102,112,Sicilian Defense," Modern Variations, Anti-Qxd4 Move Order Accepted"
+2226,1107,980,139,Pirc Defense," Classical Variation, Quiet System, Czech Defense"
+2224,1195,889,140,Queen's Gambit Declined," Orthodox Defense, Bd3 Line"
+2216,1100,1054,62,Ruy Lopez," Schliemann Defense, Schönemann Attack"
+2216,1030,1077,109,Indian Defense, Pseudo-Benko
+2211,1132,1014,65,Russian Game, Cochrane Gambit
+2207,1187,915,105,King's Indian Defense," Fianchetto Variation, Classical Main Line"
+2207,1096,966,145,Pirc Defense," Classical Variation, Quiet System, Parma Defense"
+2203,1075,1058,70,Latvian Gambit Accepted, Bilguer Variation
+2194,975,1121,98,Modern Defense, Beefeater Variation
+2193,1009,1077,107,Benko Gambit Accepted, Fianchetto Variation
+2193,1088,1014,91,French Defense," Advance Variation, Ruisdonk Gambit"
+2180,1246,866,68,King's Gambit Accepted," Bishop's Gambit, Bogoljubov Variation"
+2179,969,1084,126,Ruy Lopez," Closed, Bogoljubov Variation"
+2177,1121,976,80,Queen's Pawn Game," Levitsky Attack, Welling Variation"
+2175,1115,977,83,Benoni Defense," Old Benoni, Schmid Variation"
+2174,1034,1068,72,Van Geet Opening, Dougherty Gambit
+2167,951,1139,77,Ponziani Opening, Spanish Variation
+2154,1087,943,124,Four Knights Game," Rubinstein Countergambit, Henneberger Variation"
+2154,1123,851,180,Catalan Opening," Closed Variation, Traditional Variation"
+2146,1090,963,93,Caro-Kann Defense, De Bruycker Defense
+2143,958,1063,122,Benko Gambit Accepted, Yugoslav
+2136,960,1084,92,Benoni Defense, Four Pawns Attack
+2135,1058,1012,65,Sicilian Defense," Wing Gambit, Abrahams Variation"
+2126,1012,997,117,French Defense," MacCutcheon Variation, Lasker Variation"
+2114,1144,911,59,Nimzowitsch Defense, Woodchuck Variation
+2113,1082,913,118,Dutch Defense, Semi-Leningrad Variation
+2113,931,1042,140,King's Indian Defense," Orthodox Variation, Glek Defense"
+2107,989,1004,114,King's Indian Defense," Fianchetto Variation, Kavalek Defense"
+2099,1038,964,97,King's Gambit Declined," Falkbeer Countergambit, Charousek Gambit Accepted"
+2098,1097,889,112,Bogo-Indian Defense, Retreat Variation
+2098,1035,965,98,Blackmar-Diemer Gambit Declined, Langeheinecke Defense
+2094,1162,834,98,Sicilian Defense," Scheveningen Variation, Keres Attack"
+2090,1130,865,95,English Opening," Agincourt Defense, Kurajica Defense"
+2089,1020,939,130,King's Indian Defense," Four Pawns Attack, Normal Attack"
+2086,925,1062,99,Blackmar-Diemer Gambit, Bogoljubov Variation
+2082,1158,878,46,King's Gambit Accepted, Allgaier Gambit
+2081,1040,989,52,Italian Game," Two Knights Defense, Blackburne Variation"
+2079,1190,842,47,King's Gambit Accepted, Lolli Gambit
+2075,954,1029,92,Queen's Pawn Game," Veresov Attack, Two Knights System"
+2063,874,1140,49,King's Gambit Accepted, Sörensen Gambit
+2062,1075,859,128,Sicilian Defense," Richter-Rauzer Variation, Classical Variation"
+2052,1107,876,69,Trompowsky Attack, Borg Variation
+2051,1048,941,62,Van Geet Opening, Nowokunski Gambit
+2050,1083,879,88,Queen's Gambit Accepted, Mannheim Variation
+2039,869,1025,145,Grünfeld Defense," Three Knights Variation, Burille Variation, Reversed Tarrasch"
+2037,1077,839,121,Ruy Lopez," Berlin Defense, Closed Wolf Variation"
+2034,1077,859,98,Nimzowitsch Defense," Scandinavian Variation, Bogoljubov Variation, Heinola-Deppe Gambit"
+2030,1026,933,71,Sicilian Defense," O'Kelly Variation, Normal System, Smith-Morra Line"
+2017,1036,893,88,Ruy Lopez," Closed, Yates Variation"
+2017,1006,885,126,Ruy Lopez," Closed, Chigorin Defense"
+2017,987,925,105,Slav Defense, Steiner Variation
+2009,1081,876,52,Italian Game," Evans Gambit, Mieses Defense"
+2007,936,928,143,Caro-Kann Defense," Classical Variation, Lobron System"
+1999,1011,900,88,Pirc Defense," Austrian Attack, Ljubojevic Variation"
+1992,889,937,166,Sicilian Defense," Accelerated Dragon, Maróczy Bind, Breyer Variation"
+1990,953,939,98,Benoni Defense," Old Benoni, Mujannah Formation"
+1985,989,883,113,King's Pawn Game," Tayler Opening, Inverted Hanham"
+1985,1007,935,43,Sicilian Defense," Smith-Morra Gambit Accepted, Morphy Defense"
+1977,986,868,123,French Defense," Tarrasch Variation, Modern System"
+1971,872,966,133,Queen's Gambit Accepted, Classical Defense
+1960,992,899,69,French Defense," Alekhine-Chatard Attack, Maróczy Variation"
+1957,838,1021,98,Sicilian Defense, Kronberger Variation
+1957,950,947,60,Van Geet Opening, Billockus-Johansen Gambit
+1955,948,921,86,Queen's Gambit Declined, Pseudo-Tarrasch Variation
+1947,880,1004,63,Alekhine Defense, Steiner Variation
+1944,1022,828,94,English Opening," King's English Variation, Four Knights Variation, Korchnoi Line"
+1927,934,896,97,French Defense," Winawer Variation, Positional Variation"
+1924,961,916,47,Sicilian Defense, Brussels Gambit
+1924,931,922,71,Dutch Defense, Korchnoi Attack
+1920,893,911,116,Sicilian Defense," Najdorf Variation, Opocensky Variation, Modern Line"
+1920,1042,817,61,Pterodactyl Defense," Eastern, Pterodactyl"
+1919,892,985,42,Vienna Game," Vienna Gambit, Cunningham Defense"
+1917,980,877,60,King's Gambit Accepted, Gianutio Countergambit
+1910,899,865,146,Sicilian Defense," Accelerated Dragon, Maróczy Bind, Gurgenidze Variation"
+1900,880,952,68,Blackmar-Diemer Gambit Declined, Elbert Countergambit
+1896,615,1167,114,Queen's Pawn Game, Zurich Gambit
+1892,593,1215,84,King's Pawn Opening, Speers
+1885,961,855,69,King's Gambit Accepted, Quade Gambit
+1885,963,844,78,Dutch Defense, Krejcik Gambit
+1875,960,856,59,Bird Opening, Lasker Gambit
+1875,861,930,84,Sicilian Defense," Richter-Rauzer Variation, Dragon Variation"
+1875,857,869,149,Queen's Indian Defense," Fianchetto Variation, Nimzowitsch Variation"
+1873,949,823,101,Queen's Indian Defense," Kasparov-Petrosian Variation, Marco Defense"
+1867,1136,689,42,Sicilian Defense, Mongoose Variation
+1862,1007,751,104,"Blackmar-Diemer, Lemberger Countergambit",~
+1861,1020,789,52,Center Game, Lanc-Arnold Gambit
+1852,981,757,114,Caro-Kann Defense," Classical Variation, Flohr Variation"
+1850,986,790,74,Benoni Defense, Taimanov Variation
+1842,889,898,55,Van Geet Opening," Grünfeld Defense, Steiner Gambit"
+1841,957,738,146,King's Indian Defense," Fianchetto Variation, Yugoslav Variation, Exchange Line"
+1841,458,1327,56,Bird Opening," Dutch Variation, Dudweiler Gambit"
+1841,845,904,92,Benoni Defense," Benoni Gambit, Schlenker Defense"
+1838,939,829,70,Philidor Defense, Philidor Gambit
+1837,1075,697,65,Benoni Defense," Four Pawns Attack, Main Line"
+1835,847,785,203,Sicilian Defense," Richter-Rauzer Variation, Neo-Modern Variation"
+1833,874,862,97,Slav Defense, Czech Variation
+1829,76,359,1394,Ruy Lopez," Berlin Defense, Berlin Wall"
+1828,959,788,81,King's Indian Defense," Averbakh Variation, Flexible Defense"
+1825,928,809,88,Queen's Gambit Accepted, Alekhine Defense
+1823,794,959,70,Philidor Defense, Albin-Blackburne Gambit
+1816,945,755,116,Ruy Lopez," Closed, Flohr System"
+1812,614,833,365,Ruy Lopez," Marshall Attack, Modern Variation"
+1808,957,754,97,English Opening," Agincourt Defense, Catalan Defense"
+1803,499,1280,24,Italian Game," Giuoco Pianissimo, Dubois Variation"
+1800,914,843,43,Caro-Kann Defense, Mieses Gambit
+1799,762,976,61,Alekhine Defense, Hunt Variation
+1783,831,854,98,Italian Game," Evans Gambit, Anderssen Variation, Cordel Line"
+1778,1060,666,52,King's Gambit Accepted," Bishop's Gambit, Anderssen Defense"
+1772,823,848,101,Queen's Gambit Declined," Pseudo-Tarrasch Variation, Primitive Pillsbury Variation"
+1762,780,913,69,Italian Game," Two Knights Defense, Colman Variation"
+1755,919,757,79,Italian Game," Scotch Gambit, Nakhmanson Gambit"
+1754,788,921,45,Italian Game," Evans Gambit, Slow Variation"
+1754,886,758,110,Slav Defense," Czech Variation, Classical System"
+1752,917,773,62,English Opening," Anglo-Indian Defense, Flohr-Mikenas-Carls Variation, Nei Gambit"
+1750,837,825,88,Ruy Lopez," Berlin Defense, Anderssen Variation"
+1747,915,786,46,Nimzowitsch Defense," Kennedy Variation, Bielefelder Gambit"
+1744,883,804,57,English Opening, Myers Variation
+1740,828,761,151,English Opening," Symmetrical Variation, Hedgehog Defense"
+1737,878,779,80,English Opening," King's English Variation, Two Knights Variation, Fianchetto Line"
+1731,833,828,70,Caro-Kann Defense, Toikkanen Gambit
+1723,609,529,585,Semi-Slav Defense," Marshall Gambit, Main Line"
+1723,958,703,62,Four Knights Game," Scotch Variation, Oxford Gambit"
+1721,754,874,93,French Defense," MacCutcheon Variation, Chigorin Variation"
+1719,847,764,108,Queen's Pawn Game," Torre Attack, Grünfeld Variation, Main Line"
+1718,943,713,62,Lion Defense, Anti-Philidor
+1716,790,889,37,Latvian Gambit," Mayet Attack, Polerio-Svedenborg Variation"
+1712,799,844,69,Alekhine Defense," Modern Variation, Alekhine Gambit"
+1706,1008,654,44,King's Gambit Accepted," Fischer Defense, Spanish Variation"
+1704,784,813,107,King's Indian Defense," Fianchetto Variation, Lesser Simagin (Spassky)"
+1702,867,767,68,Sicilian Defense," Dragon Variation, Classical Variation, Amsterdam Variation"
+1697,829,789,79,Queen's Gambit Declined, Neo-Orthodox Variation
+1695,771,826,98,Ruy Lopez," Morphy Defense, Cozio Defense"
+1692,844,767,81,King's Indian Defense," Normal Variation, Deferred Fianchetto"
+1690,880,699,111,Four Knights Game," Spanish Variation, Symmetrical Variation"
+1689,741,834,114,Caro-Kann Defense," Panov Attack, Fianchetto Defense, Fianchetto Gambit"
+1688,825,791,72,Nimzo-Indian Defense," Normal Variation, Hübner Deferred"
+1682,785,858,39,Ruy Lopez," Berlin Defense, Fishing Pole Variation"
+1678,774,799,105,Sicilian Defense," Dragon Variation, Classical Variation, Battery Variation"
+1671,746,832,93,King's Indian Defense," Fianchetto Variation, Larsen Defense"
+1668,765,821,82,French Defense," Tarrasch Variation, Haberditz Variation"
+1664,815,754,95,King's Indian Defense," Fianchetto Variation, Yugoslav Variation, Rare Line"
+1660,816,678,166,Slav Defense," Chameleon Variation, Advance System"
+1658,997,605,56,Semi-Slav Defense," Noteboom Variation, Anti-Noteboom Variation"
+1648,898,641,109,Caro-Kann Defense," Classical Variation, Seirawan Variation"
+1645,883,728,34,King's Pawn Game," Clam Variation, Radisch Gambit"
+1643,750,808,85,Caro-Kann Defense, Gurgenidze Counterattack
+1641,824,687,130,Sicilian Defense," Najdorf Variation, Poisoned Pawn Variation"
+1641,738,814,89,Ruy Lopez," Schliemann Defense, Tartakower Variation"
+1637,831,724,82,Sicilian Defense," O'Kelly Variation, Réti System"
+1626,816,734,76,Sicilian Defense," Dragon Variation, Classical Variation, Grigoriev Variation"
+1622,807,751,64,Sicilian Defense, Kupreichik Variation
+1616,742,814,60,English Opening, Achilles-Omega Gambit
+1616,735,771,110,Bogo-Indian Defense, Vitolins Variation
+1611,790,701,120,Nimzo-Indian Defense, Normal Variation
+1607,817,682,108,Russian Game," Classical Attack, Mason Variation"
+1600,959,597,44,Italian Game," Two Knights Defense, Max Lange Attack, Krause Variation"
+1596,706,831,59,Polish Opening," King's Indian Variation, Schiffler Attack"
+1593,1103,442,48,Italian Game," Giuoco Piano, Aitken Variation"
+1591,831,702,58,French Defense, Henneberger Variation
+1588,724,750,114,French Defense," Winawer Variation, Poisoned Pawn Variation, Main Line"
+1581,772,726,83,Ruy Lopez," Morphy Defense, Bayreuth Variation"
+1580,766,748,66,Vienna Game," Vienna Gambit, Steinitz Variation"
+1574,708,801,65,Van Geet Opening, Hector Gambit
+1571,779,736,56,Alekhine Defense," Scandinavian Variation, Myers Gambit"
+1565,810,675,80,Ruy Lopez," Steinitz Defense, Nimzowitsch Attack"
+1561,791,672,98,Queen's Gambit Declined," Orthodox Defense, Rubinstein Variation"
+1561,686,649,226,Queen's Gambit Accepted," Classical Defense, Main Line"
+1557,613,873,71,Ware Opening, Meadow Hay Trap
+1555,745,738,72,Sicilian Defense," Classical Variation, Anti-Sozin Variation"
+1555,759,739,57,French Defense," Winawer Variation, Retreat Variation"
+1553,670,777,106,Sicilian Defense," Najdorf Variation, Opocensky Variation, Traditional Line"
+1552,761,733,58,Grünfeld Defense, Lutikov Variation
+1543,741,731,71,Sicilian Defense," Sozin Attack, Main Line"
+1541,749,749,43,Bird Opening, Williams-Zilbermints Gambit
+1536,723,695,118,King's Indian Attack, Spassky Variation
+1536,756,701,79,Sicilian Defense," Closed, Botvinnik Defense"
+1529,739,688,102,Queen's Indian Defense," Kasparov-Petrosian Variation, Main Line"
+1516,745,722,49,Bronstein Gambit,~
+1515,727,701,87,Queen's Pawn Game," Barry Attack, Grünfeld Variation"
+1513,726,604,183,Queen's Indian Defense, Petrosian Variation
+1502,782,663,57,King's Indian Defense," Averbakh Variation, Geller Defense"
+1496,736,690,70,Sicilian Defense," Richter-Rauzer Variation, Modern Variation"
+1493,699,737,57,Dutch Defense, Alapin Variation
+1492,754,676,62,Sicilian Defense," O'Kelly Variation, Venice System, Ljubojevic Line"
+1492,775,623,94,Grünfeld Defense, Russian Variation
+1490,730,693,67,Philidor Defense, Boden Variation
+1490,746,688,56,Polish Opening, Myers Variation
+1490,647,717,126,Queen's Gambit Declined," Tartakower Defense, Makogonov Exchange Variation"
+1486,692,689,105,Ruy Lopez," Morphy Defense, Breyer Defense, Zaitsev Hybrid"
+1486,728,654,104,Nimzo-Indian Defense," Normal Variation, Gligoric System"
+1484,673,718,93,English Opening," Symmetrical Variation, Rubinstein Variation"
+1483,821,610,52,Semi-Slav Defense, Romih Variation
+1483,603,471,409,Italian Game," Evans Gambit, Tartakower Attack"
+1481,794,626,61,Polish Opening, Queen's Indian Variation
+1476,701,732,43,Sicilian Defense," Scheveningen Variation, Matanovic Attack"
+1472,854,561,57,Dutch Defense, Janzen-Korchnoi Gambit
+1471,849,554,68,Caro-Kann Defense," Karpov Variation, Modern Variation"
+1465,672,724,69,Grünfeld Defense," Brinckmann Attack, Grünfeld Gambit"
+1462,710,684,68,Modern Defense, Randspringer Variation
+1459,777,629,53,Queen's Gambit Accepted, Winawer Defense
+1453,732,678,43,Modern Defense, Westermann Gambit
+1451,649,735,67,Blackmar-Diemer Gambit Declined, Brombacher Countergambit
+1450,650,732,68,Philidor Defense," Lion Variation, Lion's Claw"
+1448,716,670,62,Bishop's Opening, Kitchener Folly
+1447,705,680,62,Pirc Defense, 150 Attack
+1446,687,667,92,Ruy Lopez," Berlin Defense, l'Hermet Variation"
+1444,710,670,64,Queen's Gambit Accepted, Bogoljubov Defense
+1441,731,675,35,Italian Game," Classical Variation, Alexandre Gambit"
+1439,635,660,144,Semi-Slav Defense," Meran Variation, Wade Variation"
+1434,791,607,36,King's Gambit Accepted, Ghulam-Kassim Gambit
+1433,678,677,78,Grünfeld Defense, Smyslov Defense
+1428,691,676,61,Queen's Gambit Declined, Alekhine Variation
+1421,673,680,68,Sicilian Defense," Dragon Variation, Fianchetto Variation"
+1415,751,622,42,French Defense," Alekhine-Chatard Attack, Breyer Variation"
+1403,714,607,82,Vienna Game," Vienna Gambit, Modern Variation"
+1400,732,584,84,Indian Defense, Polish Variation
+1395,743,605,47,Latvian Gambit, Greco Variation
+1386,561,757,68,Caro-Kann Defense, Labahn Attack
+1384,691,621,72,Sicilian Defense," Kan Variation, Polugaevsky Variation"
+1383,650,652,81,Polish Opening," King's Indian Variation, Sokolsky Attack"
+1383,597,724,62,Sicilian Defense, Grob Variation
+1383,608,731,44,Nimzo-Larsen Attack, Pachman Gambit
+1381,688,632,61,Sicilian Defense," O'Kelly Variation, Aronin System"
+1379,655,647,77,King's Indian Defense, Kazakh Variation
+1378,641,670,67,Indian Defense," Anti-Grünfeld, Alekhine Variation"
+1378,794,525,59,Four Knights Game," Scotch Variation, Krause Gambit"
+1376,711,603,62,King's Indian Defense," Sämisch Variation, Double Fianchetto"
+1367,706,609,52,Sicilian Defense, Big Clamp Formation
+1364,641,631,92,Sicilian Defense," Four Knights Variation, Cobra Variation"
+1363,634,642,87,Dutch Defense," Classical Variation, Huisl Variation"
+1363,709,605,49,French Defense," Classical Variation, Pollock Variation"
+1363,685,640,38,Bird Opening," From's Gambit, Bahr Gambit"
+1361,664,637,60,Caro-Kann Defense," Euwe Attack, Prins Gambit"
+1359,781,531,47,King's Indian Defense, Averbakh Variation
+1343,644,614,85,King's Indian Defense," Fianchetto Variation, Immediate Fianchetto"
+1343,581,718,44,English Orangutan,~
+1339,713,573,53,Sicilian Defense," Grand Prix Attack, Schofman Variation"
+1339,688,593,58,Queen's Gambit Accepted, Smyslov Variation
+1338,704,587,47,Sicilian Defense," Smith-Morra Gambit Accepted, Chicago Defense"
+1336,625,660,51,Benoni Defense, King's Indian System
+1334,699,604,31,French Defense," Steinitz Variation, Gledhill Attack"
+1332,754,525,53,Nimzowitsch Defense, Neo-Mongoloid Defense
+1331,635,652,44,Grob Opening, London Defense
+1326,620,598,108,French Defense," Rubinstein Variation, Kasparov Attack"
+1322,660,587,75,Bird Opening, Myers Defense
+1321,708,575,38,Vienna Game, Giraffe Attack
+1320,616,595,109,Russian Game," Classical Attack, Mason-Showalter Variation"
+1318,591,666,61,Sicilian Defense," Taimanov Variation, American Attack"
+1311,539,739,33,Ponziani Opening, Vukovic Gambit
+1309,666,595,48,Nimzowitsch Defense," Kennedy Variation, Hammer Gambit"
+1308,612,640,56,Ruy Lopez," Morphy Defense, Schliemann Defense Deferred"
+1297,594,661,42,Blackmar-Diemer Gambit," Zeller Defense, Soller Attack"
+1293,620,603,70,Sicilian Defense," O'Kelly Variation, Maróczy Bind, Robatsch Line"
+1287,378,847,62,Kádas Opening, Beginner's Trap
+1283,690,555,38,Caro-Kann Defense, Hector Gambit
+1282,638,610,34,Italian Game," Two Knights Defense, Kloss Gambit"
+1277,589,624,64,Polish Opening, Zukertort System
+1277,703,526,48,Réti Opening," Réti Gambit, Keres Variation"
+1272,552,607,113,Queen's Gambit Accepted," Classical Defense, Rubinstein Variation"
+1271,582,640,49,King's Pawn Game, Weber Gambit
+1269,743,489,37,Ruy Lopez, Pollock Defense
+1264,579,585,100,Queen's Gambit Accepted," Classical Defense, Steinitz Variation, Exchange Variation"
+1263,636,574,53,Old Indian Defense," Janowski Variation, Main Line"
+1261,674,531,56,Queen's Gambit Declined, Manhattan Variation
+1260,678,517,65,Queen's Pawn Game, Chandler Gambit
+1259,598,630,31,King's Gambit Declined," Falkbeer Countergambit, Rubinstein Variation"
+1258,654,566,38,King's Gambit Accepted," Bishop's Gambit, First Jaenisch Variation"
+1257,613,563,81,Réti Opening," Anglo-Slav Variation, New York System"
+1254,625,582,47,Modern Defense," Averbakh Variation, Pseudo-Sämisch"
+1252,597,570,85,Queen's Indian Defense," Fianchetto Variation, Sämisch Variation"
+1250,618,581,51,Nimzo-Indian Defense," Three Knights Variation, Korchnoi Variation"
+1248,612,561,75,Ruy Lopez," Closed, Delayed Exchange"
+1245,651,535,59,Queen's Indian Defense, Kasparov-Petrosian Variation
+1239,563,614,62,Queen's Gambit Declined," Austrian Defense, Gusev Countergambit"
+1237,624,564,49,Modern Defense, Neo-Modern Defense
+1232,562,620,50,Italian Game," Evans Gambit, Bronstein Defense"
+1230,632,539,59,Grob Opening, Alessi Gambit
+1219,638,549,32,Alekhine Defense, Spielmann Gambit
+1219,647,521,51,English Opening," King's English Variation, Four Knights Variation, Bradley Beach Variation"
+1212,555,599,58,Ruy Lopez," Closed, Morphy Attack"
+1209,368,806,35,Sicilian Defense, Amazon Attack
+1202,584,531,87,English Opening, Neo-Catalan Declined
+1202,587,564,51,Ruy Lopez," Exchange Variation, Romanovsky Variation"
+1201,610,543,48,French Defense, Baeuerle Gambit
+1197,606,543,48,Ruy Lopez," Berlin Defense, Kaufmann Variation"
+1196,565,582,49,Zukertort Opening, The Potato
+1193,647,494,52,Indian Defense," Budapest Defense, Alekhine Variation, Abonyi Variation"
+1190,560,567,63,French Defense," Winawer Variation, Petrosian Variation"
+1187,640,519,28,French Defense, Franco-Hiva Gambit Accepted
+1184,588,539,57,King's Indian Defense," Averbakh Variation, Benoni Defense, Advance Variation"
+1181,570,561,50,Alekhine Defense," Modern Variation, Panov Variation"
+1180,295,825,60,Ruy Lopez, Noah's Ark Trap
+1168,523,598,47,Indian Defense," Gedult Attack, Gedult Attack"
+1167,458,665,44,Sicilian Defense, King David's Opening
+1166,574,542,50,Ruy Lopez," Berlin Defense, Mortimer Variation"
+1166,611,478,77,Nimzo-Indian Defense," Hübner Variation, Rubinstein Variation"
+1164,561,565,38,Italian Game," Hungarian Defense, Tartakower Variation"
+1163,633,468,62,French Defense," Winawer Variation, Alekhine Gambit Accepted"
+1162,497,537,128,Ruy Lopez," Exchange, Alekhine Variation"
+1161,648,462,51,King's Indian Defense," Orthodox Variation, Classical System, Neo-Classical Line"
+1160,656,465,39,Zukertort Opening, Lisitsyn Gambit Deferred
+1159,575,528,56,Sicilian Defense," Lasker-Pelikan Variation, Bird Variation"
+1157,525,578,54,Vienna Game," Vienna Gambit, Bardeleben Variation"
+1157,581,529,47,Benoni Defense, Knight's Tour Variation
+1156,563,492,101,Queen's Gambit Accepted," Classical Defense, Steinitz Variation, Development Variation"
+1153,672,436,45,Queen's Gambit Accepted, Schwartz Defense
+1152,591,483,78,Queen's Gambit Declined," Cambridge Springs Defense, Bogoljubov Variation"
+1144,460,661,23,King's Gambit Accepted," Salvio Gambit, Anderssen Counterattack"
+1142,507,579,56,Benoni Defense, Uhlmann Variation
+1140,557,550,33,King's Gambit Accepted," Bishop's Gambit, Lopez Defense"
+1138,614,490,34,King's Gambit Accepted," Kieseritzky Gambit, Cotter Gambit"
+1133,594,485,54,Nimzo-Indian Defense," Classical Variation, Zurich Variation"
+1130,512,566,52,Hungarian Opening, Van Kuijk Gambit
+1114,501,537,76,Bird Opening, Horsefly Defense
+1112,592,473,47,Rubinstein Opening, Classical Defense
+1107,430,373,304,Queen's Indian Defense," Fianchetto Variation, Check Variation, Intermezzo Line"
+1104,481,548,75,Grünfeld Defense, Opocensky Variation
+1096,481,559,56,Sicilian Defense," Richter-Rauzer Variation, Vitolins Variation"
+1096,518,496,82,Sicilian Defense," Alapin Variation, Barmen Defense, Endgame Variation"
+1096,603,448,45,French Defense," Winawer Variation, Advance Variation, Moscow Variation"
+1093,547,482,64,Neo-Grünfeld Defense," Classical Variation, Polgar Variation"
+1092,523,531,38,Indian Defense, Gibbins-Wiedenhagen Gambit Accepted
+1089,389,662,38,Ruy Lopez," Marshall Attack, Original Marshall Attack"
+1086,513,523,50,Scandinavian Defense, Kádas Gambit
+1086,530,500,56,Sicilian Defense," Dragon Variation, Classical Variation, Normal Line"
+1083,594,422,67,Ruy Lopez," Closed, Smyslov Defense"
+1082,475,557,50,Vulture Defense,~
+1076,573,472,31,Queen's Gambit Declined, Miles Variation
+1066,472,557,37,Polish Defense, Spassky Gambit Accepted
+1062,567,442,53,Ruy Lopez," Closed, Kholmov Variation"
+1054,466,500,88,Queen's Indian Defense," Classical Variation, Traditional Variation, Main Line"
+1054,518,490,46,Indian Defense, Pyrenees Gambit
+1047,595,424,28,Nimzo-Indian Defense, Ragozin Defense
+1038,553,436,49,Nimzo-Indian Defense," Normal Variation, Taimanov Variation"
+1036,487,497,52,Sicilian Defense," O'Kelly Variation, Kieseritzky System"
+1030,542,444,44,London System, Poisoned Pawn Variation
+1029,672,325,32,Modern Defense, Fianchetto Gambit
+1028,498,484,46,French Defense," Rubinstein Variation, Maric Variation"
+1025,495,480,50,Ruy Lopez," Closed, Center Attack"
+1019,499,498,22,King's Gambit Accepted, Breyer Gambit
+1015,406,564,45,King's Indian Defense," Semi-Classical Variation, Exchange Variation"
+1014,579,376,59,Sicilian Defense, Venice Attack
+1013,382,594,37,Sicilian Defense, Brick Variation
+1006,491,474,41,King's Pawn Game, Bavarian Gambit
+1004,491,438,75,Slav Defense," Czech Variation, Krause Attack"
+999,519,405,75,Polish Opening, Rooks Swap Line
+995,484,437,74,Four Knights Game, Nimzowitsch Variation
+992,460,500,32,Ponziani Opening, Caro Gambit
+991,478,466,47,King's Indian Defense," Petrosian Variation, Normal Defense"
+991,498,452,41,Dutch Defense, Nimzo-Dutch Variation
+990,362,595,33,Englund Gambit Complex Declined, Diemer Counterattack
+988,463,476,49,Benko Gambit Declined, Sosonko Variation
+980,514,421,45,Sicilian Defense," O'Kelly Variation, Venice System, Barcza Line"
+979,503,400,76,Sicilian Defense," Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations"
+978,479,444,55,Benko Gambit Declined, Quiet Line
+976,536,401,39,English Opening," Agincourt Defense, Bogoljubov Defense"
+969,473,429,67,Queen's Gambit Declined," Harrwitz Attack, Main Line"
+964,565,368,31,Pirc Defense, Chinese Variation
+960,451,452,57,Benko Gambit Accepted, Dlugy Variation
+957,411,514,32,King's Gambit Accepted, Greco Gambit
+957,495,403,59,King's Gambit Accepted," Bishop's Gambit, Bogoljubov Defense"
+952,458,444,50,Bird Opening, Mujannah
+945,499,421,25,Ruy Lopez, Bird's Defense Deferred
+943,481,382,80,Sicilian Defense," O'Kelly Variation, Maróczy Bind, Geller Line"
+939,517,381,41,Ruy Lopez, Bulgarian Variation
+939,542,376,21,Van Geet Opening, Kluever Gambit
+938,418,483,37,Sicilian Defense," Smith-Morra Gambit Accepted, Taimanov Formation"
+938,448,451,39,Benoni Defense," Classical Variation, Main Line"
+936,465,420,51,Indian Defense, Dzindzi-Indian Defense
+933,440,453,40,Queen's Gambit Declined," Albin Countergambit, Fianchetto Variation, Be6 Line"
+933,465,397,71,Queen's Indian Defense, Riumin Variation
+931,458,428,45,Queen's Indian Defense, Anti-Queen's Indian System
+927,568,313,46,French Defense," Classical Variation, Alapin Variation"
+926,451,446,29,Polish Opening, Tartakower Gambit
+924,464,409,51,Queen's Indian Defense, Miles Variation
+923,360,530,33,King's Pawn Game, Pachman Wing Gambit
+923,526,336,61,Catalan Opening," Closed, Botvinnik Variation"
+921,457,421,43,Sicilian Defense," Smith-Morra Gambit Declined, Wing Formation"
+913,413,473,27,King's Gambit Accepted, Mayet Gambit
+913,438,395,80,Sicilian Defense," Dragon Variation, Yugoslav Attack, Czerniak Variation"
+912,415,469,28,Torre Attack, Wagner Gambit
+905,393,468,44,Scotch Game," Classical Variation, Millennium Variation"
+903,307,551,45,King's Gambit Accepted, Gaga Gambit
+891,444,419,28,Ruy Lopez," Classical Variation, Charousek Variation"
+891,447,408,36,Sicilian Defense," Rossolimo Variation, Brooklyn Retreat Defense"
+887,435,382,70,Queen's Gambit Declined," Semi-Tarrasch Defense, San Sebastian Variation"
+884,431,377,76,Réti Opening," Advance Variation, Michel Gambit"
+881,359,493,29,Italian Game," Classical Variation, Center Holding Variation"
+878,492,373,13,Italian Game," Evans Gambit, Waller Attack"
+877,477,357,43,French Defense," Rubinstein Variation, Ellis Gambit"
+875,487,354,34,Queen's Gambit Accepted," Alekhine Defense, Haberditz Variation"
+874,412,422,40,Polish Opening, German Defense
+872,410,385,77,Semi-Slav Defense," Marshall Gambit, Forgotten Variation"
+870,429,401,40,Italian Game," Two Knights Defense, Steinitz Variation"
+867,424,412,31,Neo-Grünfeld Defense, Goglidze Attack
+866,308,521,37,Ruy Lopez, Halloween Attack
+863,380,352,131,Ruy Lopez," Open Berlin Defense, l'Hermet Variation"
+862,416,414,32,Horwitz Defense," Dutch Defense, Bellon Gambit"
+861,404,394,63,King's Indian Attack, Pachman System
+858,434,375,49,Grünfeld Defense," Three Knights Variation, Vienna Variation"
+857,423,379,55,Sicilian Defense," Classical Variation, Fianchetto Variation"
+856,400,428,28,Philidor Defense," Hanham Variation, Krause Variation"
+854,481,345,28,Four Knights Game," Scotch Variation, Belgrade Gambit, Modern Defense"
+853,389,365,99,Nimzo-Indian Defense," Normal Variation, Gligoric System, Exchange at c4"
+853,425,381,47,Queen's Gambit Declined, Westphalian Variation
+852,446,349,57,English Opening," Symmetrical Variation, Double Fianchetto"
+849,440,356,53,Queen's Gambit Declined," Orthodox Defense, Rubinstein Attack"
+847,489,325,33,Semi-Slav Defense," Noteboom Variation, Anti-Noteboom Gambit"
+842,467,302,73,Ruy Lopez," Open, Riga Variation"
+840,393,422,25,King's Gambit Accepted," Bishop's Gambit, Cozio Variation"
+831,424,354,53,King's Indian Defense," Fianchetto Variation, Hungarian Variation"
+829,221,206,402,Ruy Lopez," Open, Bernstein Variation"
+829,392,410,27,Latvian Gambit Accepted, Bronstein Attack
+822,408,390,24,Philidor Defense," Hanham Variation, Delmar Variation"
+816,369,387,60,Ruy Lopez," Exchange Variation, Bronstein Variation"
+814,418,341,55,Tarrasch Defense," Classical Variation, Carlsbad Variation"
+808,408,347,53,Nimzo-Indian Defense, Fischer Variation
+807,399,334,74,Sicilian Defense," Najdorf Variation, Poisoned Pawn Accepted"
+806,379,398,29,Caro-Kann Defense, Spike Variation
+804,420,344,40,Polish Opening, Queenside Defense
+804,343,435,26,Alekhine Defense," Modern Variation, Alekhine Variation"
+803,359,393,51,Alekhine Defense," Modern Variation, Flohr Variation"
+802,305,470,27,King's Gambit Accepted," Rosentreter Gambit, Bird Gambit"
+802,404,364,34,Queen's Pawn Game, Morris Countergambit
+799,385,382,32,Benoni Defense," Classical Variation, Czerniak Defense"
+795,369,395,31,Rat Defense, Petruccioli Attack
+790,401,358,31,Benoni Defense," Classical Variation, Czerniak Defense, Tal Line"
+790,269,497,24,Elephant Gambit, Wasp Variation
+786,397,359,30,Sicilian Defense," Hyperaccelerated Pterodactyl, Exchange Variation"
+783,353,372,58,Slav Defense," Czech Variation, Classical System, Main Line"
+782,378,352,52,Ruy Lopez," Berlin Defense, Hedgehog Variation"
+780,319,433,28,King's Gambit Declined," Falkbeer Countergambit, Anderssen Attack"
+779,401,343,35,King's Indian Defense," Averbakh Variation, Nc6 Defense"
+778,432,305,41,Sicilian Defense," Delayed Alapin, Basman-Palatnik Double Gambit"
+778,436,314,28,Sicilian Defense," Scheveningen Variation, Delayed Keres Attack"
+774,464,284,26,Philidor Defense, Paulsen Attack
+774,518,234,22,Ruy Lopez," Open, Skipworth Gambit"
+773,324,414,35,Ruy Lopez," Classical Defense, Benelux Variation"
+772,391,349,32,Queen's Gambit Declined," Tartakower Defense, Exchange Variation"
+768,365,372,31,Indian Defense," Knights Variation, Alburt-Miles Variation"
+767,426,312,29,Ruy Lopez," Berlin Defense, Nyholm Attack"
+754,395,335,24,Nimzowitsch Defense," Scandinavian Variation, Aachen Gambit"
+754,317,399,38,Ponziani Opening, Steinitz Variation
+751,437,297,17,King's Gambit Accepted, Kieseritzky Gambit
+748,395,300,53,Queen's Gambit Declined," Cambridge Springs Defense, Yugoslav Variation"
+747,372,333,42,Scotch Game," Classical Variation, Blackburne Attack"
+745,423,299,23,Italian Game," Scotch Gambit, Max Lange Attack Accepted"
+741,429,293,19,Sicilian Defense," Delayed Alapin, Basman-Palatnik Gambit"
+738,338,375,25,Sicilian Defense," O'Kelly Variation, Normal System, Cortlever Gambit"
+736,413,281,42,Rubinstein Opening, Bogoljubov Defense
+735,402,308,25,English Opening," King's English Variation, Smyslov Defense"
+734,358,334,42,Sicilian Defense," Nimzowitsch Variation, Main Line"
+732,343,350,39,English Opening," King's English Variation, Closed System, Full Symmetry"
+731,369,333,29,Ponziani Opening, Réti Variation
+729,393,281,55,Nimzo-Indian Defense," Normal Variation, Botvinnik System"
+728,398,306,24,Owen Defense, Naselwaus Gambit
+728,302,359,67,Italian Game, Giuoco Piano
+726,397,300,29,French Defense," MacCutcheon Variation, Advance Variation"
+725,383,309,33,Caro-Kann Defense, Finnish Variation
+722,302,356,64,Nimzo-Indian Defense," Classical Variation, Keres Defense"
+720,325,360,35,Alekhine Defense," Four Pawns Attack, Cambridge Gambit"
+716,353,334,29,Benoni Defense, Pawn Storm Variation
+715,425,263,27,Ware Defense, Snagglepuss Defense
+713,367,305,41,Slav Defense," Czech Variation, Wiesbaden Variation"
+711,359,307,45,Modern Defense, Gurgenidze Defense
+706,300,339,67,Tarrasch Defense," Classical Variation, Advance Variation"
+706,391,278,37,Dutch Defense, Fianchetto Variation
+703,276,405,22,Sicilian Defense, Gaw-Paw Variation
+702,331,325,46,Slav Defense, Süchting Variation
+700,378,286,36,Semi-Slav Defense," Stoltz Variation, Shabalov Attack"
+698,350,311,37,Sicilian Defense," Kan Variation, Wing Attack, Fianchetto Variation"
+698,343,329,26,Caro-Kann Defense," Advance Variation, Prins Attack"
+693,394,282,17,King's Gambit Accepted," Rosentreter Gambit, Testa Variation"
+691,338,322,31,French Defense, MacCutcheon Variation
+691,318,346,27,Sicilian Defense," Najdorf Variation, Polugaevsky Variation"
+690,368,279,43,French Defense," Tarrasch Variation, Eliskases Variation"
+689,358,289,42,Sicilian Defense," Nimzowitsch Variation, Exchange Variation"
+684,369,210,105,Queen's Gambit Declined," Harrwitz Attack, Two Knights Defense, Blockade Line"
+683,322,317,44,Pterodactyl Defense," Eastern, Pteranodon"
+683,296,363,24,St. George Defense," New St. George, Sanky-George Gambit"
+681,303,351,27,Philidor Defense," Lion Variation, Bishop Sacrifice"
+675,322,280,73,Queen's Indian Defense, Yates Variation
+673,313,328,32,Grünfeld Defense, Counterthrust Variation
+673,320,323,30,Sicilian Defense," O'Kelly Variation, Wing Gambit"
+672,331,307,34,Réti Opening," Anglo-Slav Variation, Capablanca Variation"
+666,292,346,28,King's Gambit Accepted," Bishop's Gambit, Steinitz Defense"
+665,333,304,28,Blackmar-Diemer Gambit, Kaulich Defense
+663,387,259,17,Bishop's Opening," Boden-Kieseritzky Gambit, Lichtenhein Defense"
+661,242,391,28,Ruy Lopez," Marshall Attack, Main Line"
+658,435,207,16,Pirc Defense," Austrian Attack, Unzicker Attack, Bronstein Variation"
+657,339,266,52,Neo-Grünfeld Defense, Exchange Variation
+655,363,277,15,King's Gambit Accepted," Allgaier Gambit, Urusov Attack"
+651,320,313,18,King's Gambit Accepted," Bishop's Gambit, Boden Variation"
+646,371,247,28,St. George Defense, Zilbermints Gambit
+646,339,278,29,Carr Defense, Zilbermints Gambit
+645,354,270,21,Queen's Gambit Accepted, Godes Variation
+644,405,217,22,Indian Defense, Medusa Gambit
+643,323,290,30,Neo-Grünfeld Defense,~
+642,328,294,20,Benoni Defense, Woozle
+642,268,337,37,French Defense," Winawer Variation, Retreat Variation, Armenian Line"
+638,346,270,22,Scotch Game, Horwitz Attack
+637,315,291,31,Queen's Gambit Declined," Orthodox Defense, Fianchetto Variation"
+636,332,281,23,King's Pawn Game, La Bourdonnais Gambit
+634,321,284,29,Ruy Lopez," Classical Defense, Boden Variation"
+629,289,312,28,Alekhine Defense, Kmoch Variation
+628,280,330,18,Vienna Game, Hamppe-Meitner Variation
+628,323,275,30,Bishop's Opening, Lopez Variation
+628,359,257,12,Bishop's Opening, Anderssen Gambit
+626,286,299,41,Nimzo-Indian Defense," Classical Variation, Milner-Barry Variation"
+616,281,319,16,King's Gambit Accepted, Philidor Gambit
+613,295,293,25,English Opening," King's English Variation, Closed System"
+613,342,254,17,Scandinavian Defense," Anderssen Counterattack, Collijn Variation"
+605,388,201,16,Sicilian Defense, Magnus Smith Trap
+602,277,309,16,King's Gambit Declined," Falkbeer Countergambit, Miles Gambit"
+602,283,265,54,Queen's Indian Defense, Fianchetto Variation
+600,260,324,16,French Defense, Banzai-Leong Gambit
+599,305,253,41,Russian Game, Kaufmann Attack
+596,286,281,29,Van Geet Opening, Myers Attack
+595,306,270,19,Trompowsky Attack, Poisoned Pawn Variation
+593,278,263,52,Nimzo-Indian Defense," Normal Variation, Schlechter Defense"
+590,310,254,26,French Defense," Exchange Variation, Bogoljubov Variation"
+589,316,251,22,Philidor Defense," Nimzowitsch Variation, Rellstab Variation"
+583,307,262,14,Semi-Slav Defense," Noteboom Variation, Anti-Noteboom Variation, Belyavsky Line"
+583,270,266,47,Russian Game," Classical Attack, Chigorin Variation"
+581,400,162,19,Zukertort Defense, Sicilian Knight Variation
+581,283,262,36,Ruy Lopez," Classical Variation, Cordel Gambit"
+577,296,247,34,Réti Opening," Anglo-Slav Variation, Bled Variation"
+575,256,297,22,Ruy Lopez," Morphy Defense, Modern Steinitz Defense, Siesta Variation"
+575,318,235,22,Zukertort Opening, Drunken Cavalry Variation
+575,311,244,20,Philidor Defense," Lion Variation, Shirov Gambit"
+574,262,284,28,Sicilian Defense," Kan Variation, Maróczy Bind, Bronstein Variation"
+573,263,266,44,Grünfeld Defense," Exchange Variation, Modern Exchange Variation, Kramnik's Line"
+572,270,279,23,King's Indian Defense," Fianchetto Variation, Benjamin Defense"
+571,278,271,22,Pterodactyl Defense," Fianchetto, Queen Pteranodon"
+570,250,299,21,Benko Gambit Declined, Bishop Attack
+567,191,363,13,Ruy Lopez," Marshall Attack, Steiner Variation"
+561,213,331,17,Italian Game," Evans Gambit, Lasker Defense"
+560,301,212,47,Queen's Indian Defense," Classical Variation, Polugaevsky Gambit"
+559,269,279,11,English Defense, Perrin Variation
+559,241,306,12,Pterodactyl Defense," Western, Pterodactyl"
+558,208,338,12,Sicilian Defense, Yates Variation
+555,267,269,19,Italian Game, Evans Gambit Accepted
+554,298,224,32,Dutch Defense, Blackburne Variation
+554,272,258,24,French Defense," Classical Variation, Tarrasch Variation"
+553,267,252,34,Benoni Defense," Fianchetto Variation, Hastings Defense, Main Line"
+553,317,224,12,Dutch Defense, Omega-Isis Gambit
+553,261,269,23,Ruy Lopez," Morphy Defense, Fianchetto Defense Deferred"
+552,239,287,26,Sicilian Defense," Najdorf Variation, Neo-Classical Defense"
+552,263,270,19,Nimzo-Indian Defense, Mikenas Attack
+552,251,275,26,French Defense," MacCutcheon Variation, Bernstein Variation"
+551,235,241,75,Ruy Lopez," Open, Main Line"
+547,254,278,15,Ponziani Opening," Ponziani Countergambit, Schmidt Attack"
+545,284,240,21,Indian Defense, Devin Gambit
+541,238,253,50,Queen's Gambit Declined," Semi-Slav, Abrahams Variation"
+540,286,235,19,French Defense," Classical Variation, Vistaneckis Variation"
+539,284,242,13,Zukertort Opening," Arctic Defense, Drunken Knight Variation"
+538,268,260,10,English Defense, Eastbourne Gambit
+538,312,206,20,Goldsmith Defense, Picklepuss Defense
+538,282,232,24,Semi-Slav Defense, Semi-Meran Variation
+537,262,259,16,Benko Gambit Declined, Pseudo-Sämisch
+537,294,226,17,Mikenas Defense, Pozarek Gambit
+536,264,252,20,English Opening, Adorjan Defense
+536,273,241,22,Scotch Game, Fraser Variation
+535,258,236,41,French Defense," MacCutcheon Variation, Wolf Gambit"
+535,266,246,23,King's Indian Defense," Fianchetto Variation, Double Fianchetto Attack"
+531,300,183,48,King's Indian Defense," Orthodox Variation, Bayonet Attack, Sokolov's Line"
+531,211,308,12,King's Gambit Accepted," Salvio Gambit, Silberschmidt Defense"
+531,268,233,30,French Defense," Tarrasch Variation, Botvinnik Variation"
+531,276,223,32,Nimzo-Indian Defense," Classical Variation, Berlin Variation, Pirc Variation"
+530,181,337,12,Ruy Lopez," Berlin Defense, Mortimer Trap"
+529,274,222,33,Sicilian Defense," Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation, Gufeld Gambit"
+529,271,243,15,French Defense," Alekhine-Chatard Attack, Spielmann Variation"
+529,217,229,83,Semi-Slav Defense," Botvinnik Variation, Lilienthal Variation"
+526,265,223,38,Scandinavian Defense," Portuguese Variation, Portuguese Gambit"
+525,257,256,12,Ponziani Opening, Leonhardt Variation
+525,266,241,18,English Opening," King's English, Mazedonisch"
+525,250,259,16,Ruy Lopez," Closed, Rosen Attack"
+519,279,222,18,Van Geet Opening, Tübingen Gambit
+519,202,285,32,Rat Defense, Spike Attack
+517,296,206,15,Vienna Game," Vienna Gambit, Hamppe-Muzio Gambit"
+515,256,235,24,Grünfeld Defense, Zaitsev Gambit
+514,264,225,25,Van Geet Opening," Caro-Kann Variation, St. Patrick's Attack"
+513,240,246,27,King's Indian Defense," Sämisch Variation, Panno Main Line"
+511,242,223,46,Queen's Gambit Declined," Cambridge Springs Defense, Rubinstein Variation"
+509,248,237,24,Indian Defense," Budapest Defense, Alekhine Variation, Tartakower Defense"
+509,248,232,29,Ruy Lopez," Closed, Keres Defense"
+508,263,222,23,Indian Defense," Budapest Defense, Fajarowicz-Steiner Variation"
+506,0,506,0,Barnes Opening, Fool's Mate
+505,230,258,17,Semi-Slav Defense," Noteboom Variation, Abrahams Variation"
+503,243,234,26,King's Indian Defense," Sämisch Variation, Panno Formation"
+500,242,234,24,King's Indian Defense," Orthodox Variation, Modern System"
+500,265,208,27,Alekhine Defense, Welling Variation
+499,227,250,22,Sicilian Defense," Richter-Rauzer Variation, Exchange Variation"
+498,218,245,35,Scotch Game, Cochrane-Shumov Defense
+498,231,241,26,English Opening, Wing Gambit
+498,249,226,23,English Opening," King's English Variation, Botvinnik System"
+497,235,225,37,English Opening," Anglo-Indian Defense, King's Indian Formation, Double Fianchetto"
+496,188,270,38,King's Gambit Accepted," Kieseritzky Gambit, Berlin Defense"
+496,237,230,29,Philidor Defense," Hanham Variation, Steiner Variation"
+496,294,188,14,Ruy Lopez, Central Countergambit
+494,262,213,19,Italian Game," Scotch Gambit, Max Lange Attack, Long Variation"
+493,261,196,36,Tarrasch Defense," Classical Variation, Endgame Variation"
+493,225,247,21,Sicilian Defense," Najdorf Variation, Browne Variation"
+492,249,220,23,Queen's Gambit Declined," Capablanca Variation, Anti-Cambridge Springs Variation"
+491,352,124,15,Italian Game," Giuoco Piano, Rosentreter Variation"
+490,255,220,15,Indian Defense, Döry Indian
+490,261,204,25,Ruy Lopez," Steinitz Defense, Center Gambit"
+489,203,270,16,Scandinavian Defense," Anderssen Counterattack, Orthodox Attack"
+488,257,215,16,King's Gambit Accepted, Stamma Gambit
+487,227,219,41,King's Indian Defense," Averbakh Variation, Main Line"
+487,237,231,19,Grünfeld Defense," Russian Variation, Accelerated Variation"
+486,242,225,19,Ruy Lopez," Classical Variation, Konikowski Gambit"
+486,231,225,30,Blackmar-Diemer Gambit," Lemberger Countergambit, Diemer Attack"
+486,262,202,22,King's Indian Defense, Pomar System
+485,244,209,32,French Defense," MacCutcheon Variation, Exchange Variation"
+485,215,245,25,Queen's Gambit Declined," Orthodox Defense, Henneberger Variation"
+485,194,279,12,Italian Game," Evans Gambit, Alapin-Steinitz Variation"
+484,226,244,14,Benko Gambit Declined, Hjørring Countergambit
+483,238,229,16,Ruy Lopez," Classical Variation, Spanish Wing Gambit"
+483,235,230,18,Nimzowitsch Defense, Hornung Gambit
+482,280,186,16,Queen's Gambit Accepted," Central Variation, Rubinstein Defense, Yefimov Gambit"
+481,290,168,23,Benko Gambit," Zaitsev Variation, Nescafe Frappe Attack"
+481,203,259,19,King's Gambit Declined," Falkbeer Countergambit, Charousek Gambit, Morphy Defense"
+481,216,238,27,Dutch Defense," Staunton Gambit, Chigorin Variation"
+481,248,198,35,English Opening," Agincourt Defense, Keres Defense"
+481,219,245,17,Russian Game, Moody Gambit
+478,256,197,25,Grünfeld Defense," Exchange Variation, Nadanian Attack"
+477,242,201,34,Queen's Gambit Declined," Lasker Defense, Main Line"
+477,239,226,12,Caro-Kann Defense," Accelerated Panov Attack, Van Weersel Attack"
+473,218,237,18,Van Geet Opening, Venezolana Variation
+472,219,234,19,French Defense," Advance Variation, Frenkel Gambit"
+470,229,211,30,Vienna Game," Vienna Gambit, Breyer Variation"
+469,234,221,14,Philidor Defense," Philidor Countergambit, del Rio Attack"
+467,228,215,24,King's Indian Defense," Fianchetto Variation, Long Variation"
+466,297,163,6,King's Gambit Accepted, Double Muzio Gambit
+466,215,212,39,French Defense," Winawer Variation, Alekhine Gambit, Kan Variation"
+466,248,186,32,French Defense," MacCutcheon Variation, Janowski Variation"
+466,231,208,27,Ruy Lopez," Closed, Trajkovic Counterattack"
+459,263,179,17,Horwitz Defense, Zilbermints Gambit
+457,231,206,20,King's Gambit Accepted," Bishop's Gambit, Bledow Variation"
+454,221,203,30,Sicilian Defense," Scheveningen Variation, Fianchetto Variation"
+453,218,211,24,St. George Defense, San Jorge Variation
+450,226,212,12,St. George Defense," New St. George, Traditional Line"
+449,234,197,18,English Opening," Anglo-Dutch Defense, Hickmann Gambit"
+446,207,205,34,Sicilian Defense," Closed, Grob Attack"
+446,212,215,19,Hungarian Opening, Reversed Norwegian Defense
+445,160,253,32,Tarrasch Defense, von Hennig Gambit
+444,215,193,36,Scotch Game, Meitner Variation
+443,220,208,15,Benoni Defense, Franco-Sicilian Hybrid
+442,117,315,10,King's Gambit Accepted," Salvio Gambit, Viennese Variation"
+441,226,195,20,Owen Defense, Hekili-Loa Gambit
+440,291,136,13,Ruy Lopez, Retreat Variation
+437,218,206,13,King's Indian Defense," Sämisch Variation, Byrne Defense"
+437,229,186,22,Tarrasch Defense, Wagner Variation
+435,195,183,57,Queen's Indian Defense," Fianchetto Variation, Nimzowitsch Variation, Quiet Line"
+435,196,220,19,Sicilian Defense," Dragon Variation, Yugoslav Attack, Sosonko Variation"
+434,149,277,8,Latvian Gambit, Corkscrew Gambit
+434,183,241,10,King's Gambit Accepted, Dodo Variation
+432,246,173,13,Benoni Defense, Mikenas Variation
+431,208,194,29,Grünfeld Defense," Russian Variation, Hungarian Variation"
+430,237,169,24,Caro-Kann Defense," Karpov Variation, Smyslov Variation, Main Line"
+430,202,204,24,Four Knights Game, Rubinstein Countergambit
+427,249,165,13,Scotch Game, Napoleon Gambit
+427,253,161,13,Semi-Slav Defense, Gunderam Gambit
+425,221,188,16,Tarrasch Defense, Marshall Gambit
+425,240,178,7,Latvian Gambit, Corkscrew Countergambit
+424,207,183,34,King's Indian Attack, Smyslov Variation
+424,241,171,12,Vienna Game," Vienna Gambit, Hamppe-Allgaier Gambit"
+423,159,241,23,Modern Defense," Norwegian Defense, Norwegian Gambit"
+422,197,207,18,Vienna Game," Vienna Gambit, Quelle Gambit"
+422,219,185,18,King's Pawn Game, Philidor Gambit
+421,220,180,21,Queen's Gambit Accepted," Alekhine Defense, Borisenko-Furman Variation"
+420,217,185,18,Benoni Defense," Classical Variation, Full Line"
+420,229,170,21,King's Gambit Accepted," Bishop's Gambit, Bledow Countergambit"
+417,206,196,15,Semi-Slav Defense, Stonewall Defense
+415,198,195,22,Blumenfeld Countergambit Accepted,~
+415,218,182,15,Dutch Defense, Krause Variation
+415,211,197,7,Ruy Lopez," Morphy Defense, Norwegian Variation, Nightingale Gambit"
+414,205,173,36,Italian Game," Scotch Gambit, Canal Variation"
+414,180,214,20,King's Gambit Accepted, Eisenberg Variation
+410,270,127,13,Owen Defense, Matovinsky Gambit
+409,208,180,21,Bogo-Indian Defense, Haiti Variation
+406,181,204,21,Colle System, Rhamphorhynchus Variation
+405,182,214,9,Indian Defense," Omega Gambit, Arafat Gambit"
+403,203,192,8,Ruy Lopez," Morphy Defense, Schliemann Defense Deferred, Jaenisch Gambit Deferred"
+402,194,186,22,Queen's Pawn Game," Levitsky Attack, Euwe Variation, Modern Line"
+401,206,177,18,Queen's Indian Defense," Kasparov-Petrosian Variation, Classical Variation"
+401,188,189,24,Anderssen's Opening, Polish Gambit
+400,210,117,73,Catalan Opening," Open Defense, Modern Sharp Variation"
+399,217,154,28,Sicilian Defense," Prins Variation, Venice Attack"
+399,165,121,113,Slav Defense," Exchange Variation, Trifunovic Variation"
+399,186,166,47,Ruy Lopez," Closed, Zaitsev System"
+398,220,168,10,Sicilian Defense," Scheveningen Variation, Classical Variation, Paulsen Variation"
+395,190,187,18,Sicilian Defense," Alapin Variation, Barmen Defense, Milner-Barry Attack"
+395,156,219,20,Benko Gambit Accepted,~
+394,168,188,38,Queen's Indian Defense," Kasparov-Petrosian Variation, Andersson Variation"
+391,219,151,21,French Defense," Classical Variation, Rubinstein Variation"
+390,194,184,12,Queen's Gambit Declined," Semi-Tarrasch Defense, Symmetrical Variation"
+389,194,183,12,English Opening, Drill Variation
+387,209,160,18,Ruy Lopez," Closed, Worrall Attack, Castling Line"
+387,194,183,10,Queen's Gambit Declined," Albin Countergambit, Fianchetto Variation, Bf5 Line"
+386,179,187,20,Sicilian Defense," Snyder Variation, Queen Fianchetto Variation"
+385,181,170,34,Ruy Lopez," Exchange Variation, Alekhine Variation"
+385,199,166,20,Dutch Defense," Classical Variation, Buenos Aires Variation"
+385,167,188,30,French Defense," Tarrasch Variation, Chistyakov Defense, Modern Line"
+385,174,198,13,Caro-Kann Defense," Advance, Short Variation"
+384,144,223,17,Portuguese Opening, Portuguese Gambit
+384,177,197,10,Sicilian Defense," Najdorf Variation, Scheveningen Variation"
+384,197,160,27,Tarrasch Defense, Rubinstein System
+383,176,178,29,Ruy Lopez," Morphy Defense, Chigorin Defense, Panov System"
+382,182,186,14,Latvian Gambit Accepted, Nimzowitsch Attack
+381,173,186,22,Russian Game," Classical Attack, Jaenisch Variation"
+380,144,222,14,Modern Defense," Bishop Attack, Monkey's Bum"
+379,186,159,34,Tarrasch Defense," Classical Variation, Réti Variation"
+377,168,185,24,Caro-Kann Defense," Karpov Variation, Tiviakov-Fischer Attack"
+377,163,162,52,Kádas Opening, Schneider Gambit
+376,172,187,17,Scotch Game, Braune Variation
+376,206,156,14,Nimzo-Larsen Attack, Norfolk Gambit
+374,185,178,11,Dutch Defense," Classical Variation, Ilyin-Zhenevsky Variation"
+374,208,156,10,Sicilian Defense," Smith-Morra Gambit Accepted, Sozin Formation"
+373,195,165,13,Italian Game," Giuoco Piano, Cracow Variation"
+372,214,149,9,Pterodactyl Defense," Fianchetto, Queen Benoni Pterodactyl"
+371,159,197,15,Norwegian Defense,~
+370,208,140,22,English Opening," Anglo-Dutch Variation, Ferenc Gambit"
+369,188,167,14,Queen's Pawn Game," Chigorin Variation, Shropshire Defense"
+368,189,150,29,Queen's Indian Defense," Fianchetto Variation, Kramnik Variation"
+368,194,160,14,Philidor Defense," Hanham, Kmoch Variation"
+366,156,195,15,Caro-Kann Defense," Advance Variation, Van der Wiel Attack, Dreyev Defense"
+365,203,139,23,Ruy Lopez," Berlin Defense, Tarrasch Trap"
+362,199,152,11,Sicilian Defense, Velimirovic Attack
+361,168,182,11,King's Gambit Accepted," Double Muzio Gambit, Bello Gambit"
+359,192,150,17,Ruy Lopez," Morphy Defense, Wing Attack"
+359,189,146,24,Pirc Defense," 150 Attack, Sveshnikov-Jansa Attack"
+357,156,180,21,St. George Defense, St. George Gambit
+356,196,142,18,Ruy Lopez," Closed, Borisenko Variation"
+356,180,153,23,Grünfeld Defense," Russian Variation, Szabo Variation"
+356,177,171,8,Nimzo-Indian Defense," Normal Variation, Gligoric System, Bernstein Defense"
+355,159,174,22,Marienbad System,~
+355,220,111,24,Grünfeld Defense," Exchange Variation, Modern Exchange Variation, Pawn Grab Line"
+350,155,174,21,Grünfeld Defense," Russian Variation, Byrne Variation"
+350,171,157,22,Tarrasch Defense," Prague Variation, Main Line"
+349,151,183,15,King's Gambit Accepted," Kieseritzky Gambit, Rosenthal Defense"
+346,197,139,10,Blackmar-Diemer Gambit, Ritter Defense
+345,191,138,16,Queen's Gambit Declined," Tarrasch Defense, Pseudo-Tarrasch Bishop Attack"
+343,148,136,59,Ruy Lopez," Open, Classical Defense"
+343,181,146,16,Zukertort Defense, Kingside Variation
+342,158,170,14,Benoni Defense, Classical
+337,178,147,12,Italian Game," Evans Gambit, Morphy Attack"
+337,178,133,26,Queen's Gambit Declined," Exchange Variation, Sämisch Variation"
+334,144,175,15,King's Gambit Declined," Falkbeer Countergambit, Charousek Gambit, Old Line"
+333,152,130,51,Queen's Indian Defense," Fianchetto Variation, Nimzowitsch Variation, Nimzowitsch Attack"
+330,177,134,19,Dutch Defense," Staunton Gambit, Lasker Variation"
+329,173,137,19,Queen's Gambit Declined," Semi-Tarrasch Defense, Main Line"
+327,154,149,24,Réti Opening," Anglo-Slav Variation, London Defensive System"
+326,162,146,18,Vienna Game," Stanley Variation, Monster Declined"
+326,172,139,15,Queen's Gambit Accepted," Classical Defense, Normal Line"
+324,144,168,12,Pterodactyl Defense," Sicilian, Anhanguera"
+324,141,164,19,Ruy Lopez," Open, St. Petersburg Variation"
+323,173,130,20,Rubinstein Opening, Semi-Slav Defense
+323,179,135,9,Blackmar-Diemer Gambit," Lemberger Countergambit, Sneider Attack"
+321,150,153,18,Modern Defense," Lizard Defense, Pirc-Diemer Gambit"
+318,149,153,16,Ruy Lopez," Bird Variation, Paulsen Variation"
+316,156,148,12,English Opening," Anglo-Indian Defense, Grünfeld Formation"
+316,193,116,7,Ruy Lopez," Morphy Defense, Alapin's Defense Deferred"
+315,154,151,10,Tayler Opening,~
+314,149,146,19,Sicilian Defense," O'Kelly Variation, Venice System, Gambit Line"
+314,142,141,31,King's Indian Defense," Orthodox Variation, Donner Defense"
+312,143,153,16,Sicilian Defense," Pin Variation, Jaffe Variation"
+310,159,141,10,Scotch Game, Romanishin Variation
+309,134,168,7,English Rat, Pounds Gambit
+309,145,146,18,French Defense," Rubinstein Variation, Capablanca Line"
+308,149,137,22,English Opening," Agincourt Defense, Tarrasch Defense"
+307,131,152,24,Sicilian Defense," Boleslavsky Variation, Louma Variation"
+306,143,148,15,Queen's Pawn Game," Veresov Attack, Two Knights System, Grünfeld Defense"
+305,149,130,26,Grünfeld Defense," Brinckmann Attack, Grünfeld Gambit, Capablanca Variation"
+304,158,133,13,French Defense," MacCutcheon Variation, Tartakower Variation"
+304,138,154,12,Benoni Defense," Classical Variation, Traditional Variation"
+304,145,141,18,Grünfeld Defense," Exchange Variation, Sokolsky Variation"
+304,124,165,15,Latvian Gambit Accepted, Foltys-Leonhardt Variation
+303,182,112,9,Borg Opening, Zilbermints Gambit
+301,143,147,11,Italian Game," Evans Gambit Declined, Showalter Variation"
+301,150,138,13,King's Indian Defense," Averbakh Variation, Modern Defense"
+301,135,153,13,Ruy Lopez," Schliemann Defense, Classical Variation"
+301,137,141,23,Dutch Defense, Stonewall Variation
+300,210,84,6,Grob Opening, Romford Countergambit
+298,147,142,9,Old Indian Defense," Janowski Variation, Grinberg Gambit"
+296,157,118,21,Sicilian Defense," Canal Attack, Haag Gambit"
+296,149,136,11,Italian Game," Evans Gambit, Laroche Variation"
+293,138,146,9,Mexican Defense, Horsefly Gambit
+293,144,139,10,Bird Opening," From's Gambit, Langheld Gambit"
+292,150,119,23,Caro-Kann Defense," Karpov Variation, Smyslov Variation"
+291,127,158,6,Owen Defense, Wind Gambit
+291,152,116,23,Philidor Defense," Lion Variation, Delayed Bishop Sacrifice"
+291,169,112,10,Latvian Gambit Accepted, Leonhardt Variation
+289,142,122,25,Nimzo-Indian Defense," Normal Variation, Bernstein Defense"
+289,140,143,6,Philidor Defense," Nimzowitsch, Locock Variation"
+289,142,127,20,Benoni Defense," Classical Variation, Argentine Counterattack"
+288,118,110,60,Queen's Gambit Accepted, Furman Variation
+288,132,142,14,King's Indian Defense, Santasiere Variation
+286,167,107,12,Lion Defense, Bayonet Attack
+286,112,162,12,Scandinavian Defense, Zilbermints Gambit
+285,186,87,12,Vienna Game," Vienna Gambit, Wurzburger Trap"
+285,157,120,8,Danish Gambit Accepted, Svenonius Defense
+284,129,133,22,Slav Defense," Czech Variation, Bled Attack"
+282,161,111,10,Zaire Defense,~
+280,121,140,19,Dutch Defense," Classical Variation, Ilyin-Zhenevsky Variation, Winter Variation"
+279,148,123,8,Trompowsky Attack," Raptor Variation, Hergert Gambit"
+278,122,143,13,Sicilian Defense, Coles Sicilian Gambit
+278,145,120,13,Nimzo-Indian Defense," Normal Variation, Bernstein Defense, Exchange Line"
+277,140,126,11,Queen's Gambit Accepted, Linares Variation
+277,137,126,14,French Defense," Tarrasch Variation, Open System, Advance Line"
+276,142,118,16,Dutch Defense," Classical Variation, Blackburne Attack"
+276,182,89,5,Queen's Gambit Declined, Zilbermints Gambit
+275,130,121,24,Scotch Game, Tartakower Variation
+275,160,111,4,Italian Game," Evans Gambit, Mayet Defense"
+274,123,120,31,Russian Game," Modern Attack, Murrey Variation"
+272,168,86,18,Sicilian Defense," Lasker-Pelikan Variation, Sveshnikov Variation, Peresypkin's Sacrifice"
+269,120,140,9,Ruy Lopez," Open Berlin Defense, Showalter Variation"
+268,125,120,23,Torre Attack," Fianchetto Defense, Euwe Variation"
+268,168,95,5,Caro-Kann Defense, Scorpion-Horus Gambit
+268,132,115,21,Ruy Lopez," Classical Variation, Modern Main Line"
+267,140,114,13,King's Indian Defense," Four Pawns Attack, Exchange Variation"
+267,129,116,22,Nimzo-Indian Defense," Spielmann Variation, Romanovsky Gambit"
+266,125,137,4,Zukertort Opening, Ampel Variation
+264,153,103,8,Bogo-Indian Defense,~
+263,145,112,6,Caro-Kann Defense, Massachusetts Defense
+260,141,110,9,Vienna Game, Philidor Countergambit
+259,147,104,8,King's Gambit Accepted," Bishop's Gambit, Paulsen Attack"
+259,140,110,9,King's Gambit Declined," Panteldakis Countergambit, Shirazi Line"
+258,140,109,9,French Defense," MacCutcheon Variation, Dr. Olland Variation"
+258,116,130,12,English Opening," King's English Variation, Bremen-Hort Variation"
+257,138,112,7,Queen's Gambit Accepted," Old Variation, Christensen Gambit"
+256,131,115,10,Benoni Defense," Fianchetto Variation, Hastings Defense"
+256,129,94,33,Ruy Lopez," Berlin Defense, Rio de Janeiro Variation"
+256,139,101,16,Grünfeld Defense, Makogonov Variation
+255,131,113,11,Indian Defense," Budapest Defense, Fajarowicz Defense, Bonsdorf Variation"
+254,125,106,23,Queen's Indian Defense," Kasparov-Petrosian Variation, Petrosian Attack"
+254,97,152,5,King's Gambit Accepted," Salvio Gambit, Cochrane Gambit"
+253,118,119,16,Ruy Lopez," Berlin Defense, Closed Bernstein Variation"
+253,151,94,8,Nimzo-Larsen Attack, Ringelbach Gambit
+253,135,112,6,English Opening," Anglo-Indian Defense, Slav Formation"
+253,130,111,12,Ruy Lopez," Closed, Worrall Attack, Delayed Castling Line"
+251,132,99,20,Queen's Indian Defense, Euwe Variation
+251,112,124,15,Semi-Slav Defense, Rubinstein System
+250,94,147,9,Sicilian Defense," Smith-Morra Gambit, Chicago Defense"
+249,134,109,6,Pterodactyl Defense," Central, Benoni Quetzalcoatlus"
+248,95,140,13,Sicilian Defense," Najdorf Variation, Goteborg Variation"
+244,134,103,7,Ruy Lopez, Brentano Gambit
+244,119,106,19,Grünfeld Defense," Exchange Variation, Seville Variation"
+242,132,101,9,Benoni Defense, Snail Variation
+241,136,87,18,Blumenfeld Countergambit, Dus-Khotimirsky Variation
+240,119,100,21,Queen's Indian Defense," Kasparov-Petrosian Variation, Kasparov Attack"
+240,114,118,8,Old Indian Defense, Dus-Khotimirsky Variation
+239,118,109,12,Sicilian Defense," Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation, Lutikov Gambit"
+238,140,75,23,King's Indian Defense," Orthodox Variation, Classical System, Benko Attack"
+237,122,109,6,King's Gambit Accepted," Bishop's Gambit, Lopez Variation"
+235,104,126,5,King's Pawn Opening, Van Hooydoon Gambit
+234,122,108,4,Grob Opening," Grob Gambit, Fritz Gambit, Romford Countergambit"
+233,119,98,16,Queen's Gambit Declined," Lasker Defense, Teichmann Variation"
+232,135,85,12,Sicilian Defense," Kan Variation, Maróczy Bind, Hedgehog Variation"
+232,88,135,9,Nimzo-Indian Defense," Hübner Variation, Main Line"
+232,125,92,15,Sicilian Defense," Richter-Rauzer Variation, Traditional Variation"
+231,108,87,36,Russian Game," Classical Attack, Chigorin Variation, Main Line"
+231,131,94,6,Bishop's Opening," McDonnell Gambit, La Bourdonnais-Denker Gambit"
+230,121,95,14,Blackmar-Diemer Gambit," Bogoljubov Variation, Studier Attack"
+229,100,115,14,Queen's Pawn Game," Torre Attack, Breyer Variation"
+229,127,88,14,Sicilian Defense," Scheveningen Variation, Classical Main Line"
+228,119,97,12,Sicilian Defense," Classical Variation, Dragon Transfer"
+226,109,110,7,Center Game," Halasz-McDonnell Gambit, Crocodile Variation"
+224,143,71,10,Queen's Gambit Accepted," Gunsberg Defense, Prianishenmo Gambit"
+224,117,96,11,Van Geet Opening, Liebig Gambit
+223,119,93,11,Scandinavian Defense, Grünfeld Variation
+221,104,112,5,Ruy Lopez," Old Steinitz Defense, Semi-Duras Variation"
+220,117,99,4,Barnes Opening, Gedult Gambit
+220,112,94,14,King's Indian Defense," Semi-Classical Variation, Queenside Storm Line"
+219,131,84,4,King's Gambit Declined," Panteldakis Countergambit, Greco Variation"
+219,95,115,9,Italian Game," Evans Gambit Declined, Cordel Variation"
+218,109,97,12,Nimzo-Indian Defense," Sämisch Variation, O'Kelly Variation"
+216,106,92,18,Nimzo-Indian Defense, Simagin Variation
+216,111,97,8,Sicilian Defense," Smith-Morra Gambit Accepted, Morphy Defense Deferred"
+216,116,84,16,French Defense, Reversed Philidor Formation
+216,116,93,7,Dutch Defense, Kingfisher Gambit
+216,109,103,4,Center Game, Charousek Variation
+215,107,99,9,Sicilian Defense," Dragon Variation, Levenfish Variation, Main Line"
+214,113,94,7,Queen's Indian Defense," Fianchetto Variation, Rubinstein Variation"
+214,52,88,74,Ruy Lopez," Open, Dilworth Variation"
+213,102,102,9,Caro-Kann Defense," Karpov Variation, Modern Variation, Ivanchuk Defense"
+212,87,118,7,King's Gambit Accepted, Carrera Gambit
+210,106,99,5,King's Gambit Declined, Soller-Zilbermints Gambit
+207,105,95,7,Nimzowitsch Defense, Wheeler Gambit
+207,109,81,17,Ruy Lopez," Berlin Defense, Closed Showalter Variation"
+205,79,117,9,Pterodactyl Defense," Central, Benoni Pterodactyl"
+204,117,82,5,King's Indian Defense," Four Pawns Attack, Fluid Attack"
+204,100,90,14,Slav Defense," Czech Variation, Carlsbad Variation"
+204,106,90,8,King's Gambit Accepted," Kieseritzky Gambit, Brentano Defense"
+204,93,104,7,King's Gambit Accepted," Kieseritzky, Polerio Defense"
+203,111,79,13,French Defense," Winawer Variation, Fingerslip Variation, Main Line"
+202,105,89,8,Dutch Defense," Manhattan Gambit, Anti-Classical Line"
+201,119,77,5,Bishop's Opening, Horwitz Gambit
+200,95,100,5,Ruy Lopez," Berlin Defense, Duras Variation"
+194,102,77,15,Queen's Gambit Declined," Orthodox Defense, Swiss, Karlsbad Variation"
+193,108,79,6,Polish Opening, Wolferts Gambit
+193,91,92,10,English Opening," King's English Variation, Bellon Gambit"
+191,103,80,8,Blackmar-Diemer Gambit," Lemberger Countergambit, Rassmussen Attack"
+191,82,98,11,Four Knights Game," Symmetrical, Metger Unpin"
+190,78,104,8,Dutch Defense," Classical Variation, Ilyin-Zhenevsky Variation, Alatortsev-Lisitsyn Line"
+190,100,76,14,Réti Opening," Anglo-Slav Variation, Torre System"
+190,104,80,6,Dutch Defense, Alekhine Variation
+189,92,94,3,Sicilian Defense," Smith-Morra Gambit Accepted, Larsen Defense"
+187,116,63,8,Semi-Slav Defense," Botvinnik Variation, Ekstrom Variation"
+187,81,88,18,Queen's Gambit Accepted," Classical Defense, Alekhine System, Main Line"
+187,106,74,7,Amsterdam Attack,~
+186,97,83,6,Bishop's Opening, McDonnell Gambit
+186,98,73,15,Queen's Indian Defense, Traditional Variation
+185,84,96,5,King's Indian Defense," Orthodox Variation, Classical System, Traditional Line"
+185,80,99,6,King's Gambit Accepted, Tartakower Gambit
+183,105,73,5,Tarrasch Defense, Swedish Variation
+183,68,96,19,Slav Defense, Smyslov Variation
+183,91,88,4,Italian Game," Evans Gambit, Dufresne Defense"
+183,80,91,12,Tarrasch Defense," Classical Variation, Classical Tarrasch Gambit"
+182,102,71,9,Grünfeld Defense," Brinckmann Attack, Grünfeld Gambit Accepted"
+182,86,75,21,Queen's Gambit Declined," Baltic Defense, Argentinian Gambit"
+181,68,100,13,Clemenz Opening, Spike Lee Gambit
+181,66,110,5,Indian Defense, Lazard Gambit
+180,88,84,8,"Queen's Pawn, Mengarini Attack",~
+179,86,79,14,Sicilian Defense," Kan Variation, Swiss Cheese Variation"
+179,92,79,8,Blackmar-Diemer Gambit, Schlutter Defense
+179,105,67,7,Philidor Defense," Lion Variation, Forcing Line"
+177,70,95,12,English Opening," Symmetrical Variation, Anti-Benoni Variation, Geller Variation"
+176,75,92,9,King's Gambit Accepted," Kieseritzky Gambit, Anderssen Defense"
+175,86,82,7,Sicilian Defense," Najdorf Variation, Dekker Gambit"
+173,91,67,15,Slav Defense," Czech Variation, Wiesbaden Variation, Sharp Line"
+173,105,64,4,Ruy Lopez," Alapin Defense, Alapin Gambit"
+173,87,77,9,Bird Opening, Hobbs-Zilbermints Gambit
+172,66,95,11,Sicilian Defense," Richter-Rauzer Variation, Podebrady Variation"
+172,88,77,7,Ruy Lopez," Morphy Defense, Breyer Defense, Quiet Variation"
+172,83,82,7,Ruy Lopez," Berlin Defense, Minckwitz Variation"
+172,72,92,8,Queen's Gambit Declined," Albin Countergambit, Janowski Variation"
+169,88,71,10,Sicilian Defense, Spielmann Variation
+168,82,77,9,Vienna Game," Vienna Gambit, Steinitz Gambit, Paulsen Defense"
+167,79,80,8,Pterodactyl Defense," Eastern, Benoni Pterodactyl"
+167,87,64,16,Queen's Indian Defense," Kasparov-Petrosian Variation, Hedgehog Variation"
+167,92,67,8,King's Indian Defense," Sämisch Variation, Closed Variation, Main Line"
+166,67,84,15,Russian Game," Classical Attack, Chigorin Variation, Browne Attack"
+166,79,68,19,Caro-Kann Defense," Karpov Variation, Modern Main Line"
+166,81,75,10,Amar Opening, Paris Gambit
+165,80,67,18,Slav Defense," Czech Variation, Carlsbad Variation, Morozevich Variation"
+165,81,68,16,Queen's Gambit Declined," Orthodox Defense, Classical Variation"
+165,83,70,12,Nimzo-Indian Defense," Hübner Variation, Rubinstein Variation, Main Line"
+164,100,57,7,Ruy Lopez," Berlin Defense, Rosenthal Variation"
+163,100,61,2,Semi-Slav Defense," Anti-Noteboom, Stonewall Variation, Portisch Gambit"
+162,75,74,13,Nimzo-Indian Defense," Normal Variation, Bronstein (Byrne) Variation"
+162,74,80,8,Queen's Gambit Declined," Orthodox Defense, Pillsbury Variation"
+162,88,70,4,Benoni Defense, Benoni-Staunton Gambit
+161,65,83,13,Dutch Defense," Manhattan Gambit, Anti-Stonewall"
+161,84,73,4,Alekhine Defense," Two Pawns Attack, Mikenas Variation"
+160,66,82,12,Four Knights Game, Marshall Variation
+160,57,99,4,Latvian Gambit," Mayet Attack, Poisoned Pawn Variation"
+159,49,105,5,King's Gambit Accepted," Allgaier, Horny Defense"
+158,79,76,3,Pterodactyl Defense," Central, Benoni Beefeater Pterodactyl"
+158,77,70,11,French Defense," Tarrasch Variation, Leningrad Variation"
+156,69,75,12,Queen's Gambit Accepted," Classical Defense, Alekhine System, No Main Line"
+155,82,68,5,King's Pawn Game," Gunderam Defense, Gunderam Gambit"
+154,61,88,5,Semi-Slav Defense," Botvinnik Variation, Szabo Variation"
+154,70,71,13,Queen's Gambit Accepted," Classical Defense, Alekhine System"
+153,81,65,7,Dutch Defense," Classical Variation, Ilyin-Zhenevsky Variation, Modern Main Line"
+153,86,62,5,Dutch Defense," Staunton Gambit, Alekhine Variation"
+153,90,56,7,Dutch Defense," Staunton Gambit, Tartakower Variation"
+152,62,84,6,Ruy Lopez," Schliemann Defense, Möhring Variation"
+152,77,56,19,Ruy Lopez," Morphy Defense, Duras Variation"
+152,82,64,6,English Opening, Wade Gambit
+152,68,75,9,Dutch Defense, Bladel Variation
+151,81,66,4,Dutch Defense, Spielmann Gambit
+151,80,66,5,Benko Gambit, Nescafe Frappe Attack
+151,73,68,10,Ruy Lopez," Open, Howell Attack"
+151,70,77,4,King's Gambit Declined," Classical Variation, Rotlewi Countergambit"
+150,79,62,9,Grünfeld Defense, Botvinnik Variation
+150,71,66,13,Benko Gambit, Fianchetto Variation
+149,53,90,6,Semi-Slav Defense," Botvinnik Variation, Alatortsev System"
+147,78,59,10,Grünfeld Defense," Russian Variation, Prins Variation"
+146,74,67,5,Benoni Defense, Hawk Variation
+146,63,66,17,Semi-Slav Defense," Meran Variation, Lundin Variation"
+146,56,80,10,King's Gambit Accepted, Paris Gambit
+144,44,96,4,King's Gambit Declined," Falkbeer Countergambit, Pickler Gambit"
+144,80,56,8,Nimzo-Indian Defense, Ragozin Variation
+143,71,62,10,King's Indian Defense," Averbakh Variation, Benoni Defense, Exchange Variation"
+142,95,43,4,King's Gambit Accepted," Muzio Gambit, Holloway Defense"
+142,86,53,3,King's Gambit Accepted," Bishop's Gambit, Anderssen Variation"
+142,62,76,4,Vienna Game," Stanley Variation, Bronstein Gambit"
+141,70,63,8,Grünfeld Defense," Russian Variation, Smyslov Variation"
+141,57,79,5,Vienna Game, Heyde Variation
+141,77,60,4,Grünfeld Defense," Exchange Variation, Simagin's Improved Variation"
+140,72,55,13,Queen's Indian Defense," Classical Variation, Tiviakov Defense"
+139,63,69,7,Borg Defense, Troon Gambit
+139,59,65,15,Tarrasch Defense," Classical Variation, Main Line"
+138,64,70,4,Philidor Defense," Hanham Variation, Sharp Variation"
+138,66,64,8,Ruy Lopez," Morphy Defense, Modern Steinitz Defense, Fianchetto Variation"
+138,65,67,6,Italian Game," Two Knights Defense, Polerio Defense, Göring Variation"
+138,69,50,19,Queen's Gambit Declined," Chigorin Defense, Exchange Variation, Costa's Line"
+137,82,52,3,King's Indian Defense," Four Pawns Attack, Florentine Gambit"
+137,77,59,1,Pterodactyl Defense," Sicilian, Benoni Gambit"
+136,58,60,18,Four Knights Game," Scotch Variation, Krause Gambit, Leonhardt Defense"
+135,70,62,3,King's Gambit Accepted, McDonnell Gambit
+135,72,60,3,Queen's Gambit Declined," Orthodox Defense, Rauzer Variation"
+134,68,61,5,Nimzowitsch Defense," Kennedy Variation, Herford Gambit"
+134,55,62,17,Queen's Gambit Declined," Anti-Tartakower Variation, Petrosian Variation"
+134,58,63,13,Russian Game," Modern Attack, Trifunovic Variation"
+134,69,59,6,Nimzowitsch Defense," Scandinavian Variation, Bogoljubov Variation, Richter Gambit"
+134,65,58,11,Sicilian Defense," Dragon Variation, Classical Variation, Alekhine Line"
+134,70,56,8,Queen's Gambit Declined," Orthodox Defense, Rubinstein Variation, Flohr Line"
+133,62,66,5,Nimzowitsch Defense," Scandinavian Variation, Bogoljubov Variation, Brandics Gambit"
+132,63,62,7,Italian Game," Evans Gambit, Hein Countergambit"
+132,61,65,6,Hungarian Opening, Bücker Gambit
+132,66,61,5,Pterodactyl Defense," Western, Anhanguera"
+132,53,73,6,French Defense," Guimard Variation, Thunderbunny Variation"
+131,71,55,5,Sicilian Defense," Taimanov Variation, Bastrikov Variation, Ponomariov Gambit"
+130,51,62,17,Ruy Lopez," Open, Italian Variation"
+130,58,67,5,King's Gambit Accepted," Bishop's Gambit, Gianutio Gambit"
+130,61,69,0,King's Gambit Accepted," Salvio Gambit, Santa Maria Defense"
+129,38,77,14,Semi-Slav Defense," Meran Variation, Wade Variation, Larsen Variation"
+129,62,53,14,Nimzo-Indian Defense," Sämisch Variation, Keres Variation"
+129,63,44,22,Queen's Indian Defense," Petrosian Variation, Farago Defense"
+128,78,42,8,Italian Game," Two Knights Defense, Pincus Variation"
+126,65,49,12,Dutch Defense, Stonewall
+125,58,58,9,Grob Opening," Grob Gambit, Basman Gambit"
+125,59,54,12,Queen's Indian Defense," Kasparov-Petrosian Variation, Modern Variation"
+125,63,58,4,Italian Game," Giuoco Piano, Steinitz Variation"
+124,59,62,3,King's Gambit Accepted," Allgaier, Schlechter Defense"
+123,53,60,10,Grünfeld Defense, Flohr Defense
+123,61,60,2,King's Gambit Declined," Falkbeer Countergambit, Charousek Gambit, Keres Variation"
+122,5,11,106,Ruy Lopez," Marshall Attack, Main Line, Spassky Variation"
+121,77,40,4,Grünfeld Defense," Brinckmann Attack, Reshevsky Gambit"
+120,67,52,1,King's Gambit Accepted," Muzio Gambit Accepted, From's Defense"
+120,55,58,7,King's Gambit Declined," Falkbeer Countergambit, Charousek Gambit, Main Line"
+119,63,53,3,Bird Opening, Platz Gambit
+119,58,53,8,Caro-Kann Defense, Edinburgh Variation
+118,50,63,5,Blackmar-Diemer Gambit," Bogoljubov Variation, Nimzowitsch Attack"
+117,60,53,4,Dutch Defense," Manhattan Gambit, Anti-Modern"
+116,49,60,7,Italian Game," Giuoco Piano, Therkatz-Herzog Variation"
+116,58,53,5,Sicilian Defense," Nyezhmetdinov-Rossolimo Attack, Gurgenidze Variation"
+116,65,48,3,Italian Game," Giuoco Piano, Ghulam-Kassim Variation"
+116,61,52,3,Slav Defense," Winawer Countergambit, Anti-Winawer Gambit"
+115,47,64,4,Grob Opening," Grob Gambit, Richter-Grob Gambit"
+115,69,43,3,Vienna Game," Vienna Gambit, Kaufmann Variation"
+115,49,64,2,French Defense, Morphy Gambit
+114,58,47,9,French Defense," Winawer Variation, Exchange Variation, Canal Attack"
+114,52,55,7,Pterodactyl Defense," Sicilian, Unpin"
+113,59,54,0,King's Indian Defense," Four Pawns Attack, Modern Defense"
+113,48,63,2,Vienna Game," Vienna Gambit, Steinitz Gambit, Zukertort Defense"
+113,51,60,2,Italian Game," Evans Gambit, Leonhardt Countergambit"
+112,69,39,4,King's Gambit, Zilbermints Double Countergambit
+111,67,35,9,Sicilian Defense," Closed, Botvinnik Defense, Edge Variation"
+111,54,44,13,Queen's Indian Defense," Fianchetto Variation, Check Variation"
+110,41,63,6,Caro-Kann Defense," Exchange Variation, Bulla Attack"
+110,44,64,2,Italian Game," Giuoco Piano, Holzhausen Attack"
+110,34,36,40,Sicilian Defense," Richter-Rauzer Variation, Neo-Modern Variation, Nyezhmetdinov Attack"
+110,56,46,8,Ruy Lopez," Morphy Defense, Tartakower Variation"
+109,46,48,15,Vienna Game," Stanley Variation, Alekhine Variation"
+109,41,65,3,King's Gambit Accepted, Schurig Gambit
+107,57,48,2,Vienna Game," Vienna Gambit, Steinitz Gambit, Main Line"
+106,54,44,8,English Opening, Romanishin Gambit
+106,57,45,4,Grünfeld Defense, Flohr Variation
+106,52,52,2,French Defense," Steinitz Variation, Bradford Attack Variation"
+106,52,48,6,Nimzo-Indian Defense," Normal Variation, Gligoric System, Bronstein Variation"
+105,47,53,5,Dutch Defense," Classical Variation, Stonewall Variation, Botvinnik Variation"
+105,48,49,8,Vienna Game," Mieses Variation, Erben Gambit"
+105,57,43,5,Venezolana Opening,~
+105,54,47,4,Nimzo-Indian Defense," Leningrad Variation, Benoni Defense"
+105,54,42,9,Ruy Lopez," Closed, Breyer Defense"
+104,70,29,5,Italian Game," Evans Gambit, Fontaine Countergambit"
+104,52,48,4,Kádas Opening, Kádas Gambit
+103,43,54,6,Italian Game," Two Knights Defense, Maróczy Variation"
+102,53,43,6,Van Geet Opening, Sleipnir Gambit
+101,42,52,7,Caro-Kann Defense," Labahn Attack, Double Gambit"
+101,54,36,11,King's Indian Defense," Orthodox Variation, Ukrainian Defense"
+100,60,38,2,Dutch Defense," Staunton Gambit, Nimzowitsch Variation"
+100,59,38,3,Ruy Lopez, Brix Variation
+99,47,49,3,Center Game, l'Hermet Variation
+99,45,47,7,Queen's Gambit Declined, Pillsbury Attack
+99,48,45,6,Sicilian Defense," Closed, Smyslov Variation"
+98,55,39,4,King's Gambit Accepted," Allgaier Gambit, Thorold Attack"
+98,46,47,5,French Defense," Winawer Variation, Bogoljubov Variation, Icelandic Defense"
+98,72,23,3,Italian Game," Giuoco Piano, Bernstein Variation"
+97,47,39,11,Caro-Kann Defense," Panov Attack, Modern Defense, Czerniak Line"
+97,54,38,5,Nimzowitsch Defense," Scandinavian Variation, Bogoljubov Variation, Erben Gambit"
+97,52,42,3,Nimzo-Indian Defense," Classical Variation, Noa Variation, Botvinnik Variation"
+96,58,33,5,Three Knights Opening, Steinitz-Rosenthal Variation
+96,42,35,19,Semi-Slav Defense," Meran Variation, Reynolds' Variation"
+95,39,53,3,Modern Defense," Semi-Averbakh Variation, Polish Variation"
+95,45,46,4,Modern Defense," Semi-Averbakh Variation, Pterodactyl Variation Accepted"
+95,47,44,4,King's Indian Defense," Averbakh Variation, Spanish Defense"
+95,47,44,4,English Opening," Anglo-Indian Defense, Queen's Indian Variation"
+94,34,58,2,English Defense, Hartlaub Gambit Declined
+94,46,46,2,French Defense," Winawer Variation, Poisoned Pawn Variation, Paoli Variation"
+94,40,52,2,Pterodactyl Defense," Western, Siroccopteryx"
+93,45,41,7,Dutch Defense," Nimzo-Dutch Variation, Alekhine Variation"
+93,39,46,8,Benko Gambit, Nd2 Variation
+91,64,24,3,Alekhine Defense," Mokele Mbembe, Modern Line"
+91,43,46,2,King's Gambit Accepted," Kieseritzky Gambit, Neumann Defense"
+90,42,45,3,Italian Game," Two Knights Defense, Fritz, Gruber Variation"
+89,34,50,5,Mieses Opening, Myers Spike Attack
+89,49,36,4,French Defense," Alekhine-Chatard Attack, Teichmann Variation"
+88,43,40,5,Alekhine Defense, Buckley Attack
+88,41,33,14,Queen's Gambit Declined, Hastings Variation
+88,40,44,4,Lion Defense," Anti-Philidor, Lion's Cave, Lion Claw Gambit"
+87,49,32,6,Queen's Gambit Declined, Spielmann Variation
+87,45,40,2,Pterodactyl Defense," Eastern, Benoni Pteranodon"
+87,39,46,2,Scotch Game, Paulsen Variation
+87,46,38,3,Vienna Game," Stanley Variation, Frankenstein-Dracula Variation"
+86,44,29,13,Italian Game," Scotch Gambit, Anderssen Attack, Main Line"
+86,40,41,5,King's Gambit Accepted, Tumbleweed
+86,28,56,2,King's Gambit Accepted, Silberschmidt Gambit
+85,51,31,3,Ruy Lopez," Morphy Defense, Breyer Defense"
+85,47,37,1,Van Geet Opening, Hergert Gambit
+85,41,43,1,Nimzo-Indian Defense," Three Knights Variation, Euwe Variation"
+85,48,36,1,King's Pawn Game," Tayler Opening, Basman Gambit"
+85,53,25,7,Alekhine Defense," Hunt Variation, Matsukevich Gambit"
+85,48,32,5,English Opening," King's English Variation, Botvinnik System, Prickly Pawn Pass System"
+84,55,28,1,King's Indian Defense," Orthodox Variation, Classical System, Kozul Gambit"
+83,51,31,1,Scotch Game, Cochrane Variation
+83,40,41,2,Indian Defense," Gibbins-Wiedenhagen Gambit, Stummer Gambit"
+83,53,28,2,Sicilian Defense," Scheveningen Variation, Tal Variation"
+83,39,42,2,Italian Game," Classical Variation, Giuoco Pianissimo, Main Line"
+82,54,25,3,Vienna Game," Vienna Gambit, Hamppe-Allgaier Gambit, Alapin Variation"
+81,40,39,2,Van Geet Opening, Damhaug Gambit
+81,51,26,4,Alekhine Defense," Modern Variation, Keres Variation"
+81,31,47,3,Queen's Gambit Declined," Semi-Slav, Junge Variation"
+80,43,34,3,Bird Opening, Thomas Gambit
+80,38,37,5,Polish Opening, Karniewski Variation
+79,41,33,5,Vienna Game," Vienna Gambit, Hamppe-Allgaier Gambit, Thorold Variation"
+79,39,37,3,Philidor Defense," Nimzowitsch Variation, Sokolsky Variation"
+78,32,45,1,Italian Game," Two Knights Defense, Max Lange Attack, Loman Defense"
+78,72,5,1,Caro-Kann Defense," Mieses Attack, Landau Gambit"
+78,34,43,1,Four Knights Game, Janowski Variation
+77,38,38,1,Sicilian Defense," Dragon Variation, Yugoslav Attack, Byrne Variation"
+77,47,28,2,Grünfeld Defense," Russian Variation, Levenfish Variation"
+77,42,33,2,Slav Indian, Kudischewitsch Gambit
+77,35,36,6,King's Indian Defense," Orthodox Variation, Korchnoi Attack"
+76,32,37,7,Sicilian Defense," Wing Gambit, Marienbad Variation"
+76,40,30,6,English Opening," King's English Variation, Hungarian Attack"
+76,48,25,3,Blackmar-Diemer Gambit Declined, Grosshans Defense
+75,36,37,2,Ruy Lopez," Closed, Worrall Attack"
+74,44,29,1,Hungarian Opening, Wiedenhagen-Beta Gambit
+74,34,32,8,Semi-Slav Defense," Meran Variation, Blumenfeld Variation"
+73,36,30,7,King's Indian Defense," Averbakh Variation, Benoni Defense"
+73,30,39,4,Italian Game," Evans Gambit, Compromised Defense, Main Line"
+73,29,41,3,French Defense," MacCutcheon Variation, Grigoriev Variation"
+73,24,47,2,Modern Defense, Pterodactyl Variation
+73,23,47,3,Sicilian Defense," Alapin Variation, Stoltz Attack, Ivanchuk Line"
+73,27,44,2,Pterodactyl Defense," Austrian, Pteranodon"
+73,27,30,16,Nimzo-Indian Defense," Normal Variation, Gligoric System, Keres Variation"
+72,32,39,1,Italian Game," Two Knights Defense, Keidansky Variation"
+71,32,34,5,Catalan Opening," Closed Variation, Rabinovich Variation"
+70,29,39,2,Benoni Defense, Zilbermints-Benoni Gambit
+70,37,31,2,King's Pawn Game," Damiano Defense, Damiano Gambit, Chigorin Gambit"
+69,36,30,3,Semi-Slav Defense," Meran Variation, Old Variation"
+69,33,35,1,Ponziani Opening," Spanish Variation, Harrwitz Attack, Nikitin Gambit"
+68,37,28,3,Four Knights Game, Svenonius Variation
+68,30,34,4,Modern Defense," Semi-Averbakh Variation, Pterodactyl Variation"
+68,32,32,4,Four Knights Game," Spanish Variation, Classical Variation, Marshall Gambit"
+68,34,31,3,King's Gambit Accepted," Kieseritzky Gambit, Paulsen Defense"
+68,36,29,3,Sicilian Defense," Najdorf Variation, Polugaevsky Variation, Simagin Line"
+67,30,34,3,Grünfeld Defense," Exchange Variation, Simagin's Lesser Variation"
+67,28,35,4,Bishop's Opening, Lopez Gambit
+67,26,39,2,Bishop's Opening, Lewis Countergambit
+66,33,31,2,Italian Game," Two Knights Defense, Traxler Variation, Trencianske-Teplice Gambit"
+66,26,37,3,Nimzo-Indian Defense," Classical Variation, Vitolins-Adorjan Gambit"
+66,34,29,3,Ruy Lopez," Spanish Countergambit, Harding Gambit"
+66,35,22,9,Benko Gambit Accepted, Central Storming Variation
+65,41,23,1,Nimzowitsch Defense," El Columpio Defense, Pin Variation"
+64,28,32,4,Sicilian Defense," Richter-Rauzer Variation, Ivanov Variation"
+64,25,38,1,Latvian Gambit, Diepstraten Countergambit
+64,36,25,3,Ruy Lopez," Closed, Breyer"
+64,29,33,2,Formation, Hippopotamus Attack
+64,47,17,0,King's Gambit Declined," Norwalde Variation, Schubert Variation"
+64,40,23,1,King's Gambit Declined," Panteldakis Countergambit, Schiller's Defense"
+63,63,0,0,Scotch Game, Sea-cadet Mate
+63,35,26,2,Owen Defense, Unicorn Variation
+62,32,25,5,Russian Game," Modern Attack, Steinitz Variation"
+62,33,23,6,English Opening," Symmetrical, Hedgehog, Flexible Formation"
+61,26,31,4,Queen's Gambit Declined," Semi-Tarrasch Defense, Kmoch Variation"
+61,25,34,2,Slav Defense," Czech Variation, Lasker Variation"
+61,27,32,2,King's Gambit Accepted," Kieseritzky Gambit, Berlin Defense, Rubinstein Variation"
+61,35,23,3,Ruy Lopez," Closed, Suetin Variation"
+60,29,26,5,Nimzo-Indian Defense," Sämisch Variation, Botvinnik Variation"
+60,24,31,5,Queen's Gambit Declined, Stonewall Variation
+59,31,26,2,Pterodactyl Defense," Central, Quetzalcoatlus Gambit"
+59,29,27,3,Caro-Kann Defense," Panov Attack, Modern Defense, Reifir-Spielmann Line"
+58,23,35,0,English Opening," Symmetrical Variation, Napolitano Gambit"
+58,25,18,15,Nimzo-Indian Defense," Romanishin Variation, English Hybrid"
+58,27,30,1,Semi-Slav Defense," Stoltz Variation, Center Variation"
+58,25,27,6,Tarrasch Defense," Classical Variation, Spassky Variation"
+58,12,15,31,Ruy Lopez," Closed, Smyslov-Breyer-Zaitsev Hybrid"
+58,33,23,2,Latvian Gambit Accepted, Foltys Variation
+57,31,24,2,Ruy Lopez," Closed, Lutikov Variation"
+57,30,25,2,Queen's Gambit Declined," Chigorin Defense, Main Line, Alekhine Variation"
+57,18,39,0,Pterodactyl Defense," Sicilian, Siroccopteryx"
+57,27,30,0,Grob Opening, Zilbermints Gambit
+56,30,23,3,Dutch Defense, Senechaud Gambit
+56,29,26,1,King's Gambit Accepted," Rosentreter Gambit, Sörensen Gambit"
+56,32,19,5,Sicilian Defense," Taimanov Variation, Modern Line"
+56,29,22,5,Queen's Gambit Declined," Charousek Variation, Miladinovic Gambit"
+56,26,23,7,Ruy Lopez," Marshall Attack, Re3 Variation"
+55,25,29,1,King's Gambit Declined," Classical Variation, Rubinstein Countergambit"
+55,30,25,0,Queen's Gambit Declined," Albin Countergambit, Balogh Variation"
+55,28,25,2,Pterodactyl Defense," Sicilian, Pteranodon"
+54,17,27,10,Grob Opening," Double Grob, Coca-Cola Gambit"
+54,15,37,2,Latvian Gambit, Behting Variation
+54,26,24,4,Russian Game," Classical Attack, Berger Variation"
+54,35,19,0,Sicilian Defense," Chekhover Variation, Zaitsev Defense"
+54,26,24,4,Queen's Indian Defense," Kasparov Variation, Botvinnik Attack"
+54,24,26,4,Scandinavian Defense," Schiller-Pytel Variation, Modern Variation"
+54,31,21,2,English Opening," Anglo-Indian Defense, Romanishin Variation"
+53,24,22,7,Nimzo-Indian Defense," Spielmann Variation, Karlsbad Variation"
+53,28,22,3,Queen's Indian Defense," Classical Variation, Taimanov Gambit"
+53,18,33,2,Italian Game," Two Knights Defense, Polerio Defense, Yankovich Variation"
+53,29,22,2,King's Gambit Declined, Zilbermints Double Gambit
+53,29,21,3,Vienna Game, Zhuravlev Countergambit
+52,35,15,2,Italian Game," Two Knights Defense, Paoli Variation"
+52,29,18,5,Alekhine Defense," Hunt Variation, Mikenas Gambit"
+51,26,23,2,Van Geet Opening, Düsseldorf Gambit
+51,23,26,2,King's Gambit Declined," Classical, Svenonius Variation"
+51,31,18,2,Sicilian Defense," Dragon Variation, Yugoslav Attack, Soltis Variation"
+51,26,24,1,Hungarian Opening, Winterberg Gambit
+51,19,29,3,Sicilian Defense," Wing Gambit, Santasiere Variation"
+50,19,28,3,King's Gambit Accepted," Kieseritzky Gambit, Berlin Defense, de Riviere Variation"
+50,24,22,4,Sicilian Defense, Heidenfeld Variation
+50,24,23,3,Italian Game," Evans Gambit Declined, Lange Variation"
+50,20,23,7,Sicilian Defense," Dragon Variation, Classical Variation, Tartakower Line"
+50,21,29,0,Nimzo-Indian Defense," Three Knights Variation, Shocron Gambit"
+49,22,23,4,King's Gambit Declined," Classical, Hanham Variation"
+49,26,21,2,Queen's Indian Defense," Marienbad System, Berg Variation"
+49,20,28,1,Nimzowitsch Defense," El Columpio Defense, Exchange Variation"
+48,20,26,2,Van Geet Opening, Melleby Gambit
+48,26,19,3,Ruy Lopez," Steinitz Defense Deferred, Lipnitsky Variation"
+48,25,21,2,Sicilian Defense," Sozin Attack, Fischer Variation"
+48,28,17,3,Alekhine Defense," Modern Variation, Vitolins Attack"
+47,18,27,2,Sicilian Defense," Dragon Variation, Classical Variation, Maróczy Line"
+47,21,26,0,Latvian Gambit," Mayet Attack, Strautins Gambit"
+47,29,12,6,Ruy Lopez," Berlin Defense, l'Hermet Variation, Westerinen Line"
+47,22,24,1,Indian Defense," Gibbins-Wiedenhagen Gambit, Oshima Defense"
+46,22,22,2,Nimzowitsch Defense, Franco-Hiva Gambit
+46,27,16,3,Queen's Gambit Accepted," Old Variation, Billinger Gambit"
+46,30,12,4,Sicilian Defense," Canal Attack, Moscow Gambit"
+46,23,22,1,Indian Defense," Gibbins-Wiedenhagen Gambit, Maltese Falcon"
+46,8,36,2,Dresden Opening, The Goblin
+45,21,22,2,Sicilian Defense," Kan Variation, Wing Attack, Spraggett Attack"
+44,13,29,2,Rat Defense, Fuller Gambit
+43,21,21,1,Tarrasch Defense," Classical Variation, Petursson Variation"
+43,18,20,5,Ruy Lopez," Open, Classical Defense, Main Line"
+43,23,18,2,Four Knights Game, Spielmann Variation
+41,15,22,4,Queen's Indian Defense," Kasparov-Petrosian Variation, Polovodin Gambit"
+41,25,15,1,King's Gambit Accepted," Bishop's Gambit, Kieseritzky Gambit"
+41,25,15,1,Nimzo-Indian Defense," Classical Variation, Noa Variation, Main Line"
+41,21,18,2,Queen's Gambit Declined," Knight Defense, Alekhine Gambit"
+41,22,14,5,Queen's Gambit Accepted," Classical Defense, Russian Gambit"
+41,16,24,1,Queen's Pawn Game," London System, Pterodactyl Variation"
+40,15,24,1,Grünfeld Defense, Gibbon Gambit
+39,21,17,1,King's Gambit Declined, Senechaud Countergambit
+38,16,22,0,Italian Game," Two Knights Defense, Max Lange Attack, Rubinstein Variation"
+38,17,19,2,Alekhine Defense," Exchange Variation, Karpov Variation"
+38,17,19,2,Grob Opening," Keene Defense, Main Line"
+38,15,19,4,Queen's Indian Defense," Fianchetto Variation, Check Variation, Modern Line"
+38,16,19,3,Ruy Lopez," Fianchetto Defense, Kevitz Gambit"
+38,22,14,2,Russian Game," Classical Attack, Marshall Variation, Chinese Gambit"
+37,14,23,0,Veresov Opening, Malich Gambit
+37,21,13,3,Sicilian Defense," Scheveningen Variation, Delayed Keres Attack, Perenyi Gambit"
+37,19,16,2,Dutch Defense," Manhattan Gambit, Anti-Leningrad"
+37,14,15,8,Queen's Indian Defense," Fianchetto Variation, Nimzowitsch Variation, Timman's Line"
+36,12,24,0,Four Knights Game," Halloween Gambit, Plasma Variation"
+36,20,16,0,Bird Opening," From's Gambit, Lipke Variation"
+36,17,17,2,Italian Game," Two Knights Defense, Fegatello Attack, Leonhardt Variation"
+35,17,17,1,Modern Defense, Anti-Modern
+34,16,14,4,Queen's Gambit Declined," Cambridge Springs Defense, Argentine Variation"
+34,17,13,4,Tarrasch Defense," Classical Variation, Bogoljubov Variation"
+34,8,26,0,Italian Game," Giuoco Piano, Mestel Variation"
+34,23,9,2,French Defense," Winawer Variation, Fingerslip Variation, Kunin Double Gambit"
+34,17,17,0,Blackmar-Diemer Gambit," Bogoljubov Variation, Kloss Attack"
+34,16,17,1,Vienna Game," Paulsen Variation, Pollock Gambit"
+34,10,20,4,Vienna Game," Vienna Gambit, Steinitz Gambit, Fraser-Minckwitz Defense"
+34,19,13,2,Bishop's Opening, del Rio Variation
+34,15,16,3,Dutch Defense, Hort-Antoshin System
+33,16,15,2,Pterodactyl Defense,~
+33,19,14,0,King's Gambit Declined," Norwalde Variation, Bücker Gambit"
+33,11,20,2,Bishop's Opening," Urusov Gambit, Panov Variation"
+33,16,16,1,King's Indian Defense," Orthodox Variation, Positional Defense, Main Line"
+33,17,14,2,English Opening," King's English, Erbenheimer Gambit"
+33,15,16,2,King's Gambit Accepted," Allgaier, Urusov Attack"
+32,15,15,2,Caro-Kann Defense," Panov-Botvinnik, Herzog Defense"
+32,18,13,1,Grünfeld Defense, Lundin Variation
+32,21,11,0,King's Gambit Accepted," Kieseritzky, Long Whip Defense, Jaenisch Variation"
+32,17,14,1,Vienna Game, Hamppe-Muzio Gambit
+32,23,4,5,Dutch Defense," Leningrad Variation, Karlsbad Variation"
+32,16,15,1,Sicilian Defense," Nyezhmetdinov-Rossolimo Attack, San Francisco Gambit"
+31,12,19,0,Alekhine Defense," Four Pawns Attack, Tartakower Variation"
+31,22,9,0,King's Gambit Accepted," Muzio Gambit, Brentano Defense"
+31,16,12,3,Nimzo-Indian Defense," Classical Variation, Berlin Variation, Steiner Variation"
+30,11,17,2,King's Indian Defense," Petrosian Variation, Keres Defense"
+30,22,4,4,Sicilian Defense," Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation, Totsky Attack"
+30,15,14,1,King's Indian Defense," Averbakh Variation, Modern Defense, Burgess Line"
+30,13,16,1,Van't Kruijs Opening," Keoni-Hiva Gambit, Alua Variation"
+30,13,15,2,King's Pawn Game," Nimzowitsch Defense, Wheeler Gambit"
+29,15,13,1,Ruy Lopez," Open, Richter Variation"
+29,14,15,0,King's Gambit Accepted," Bishop's Gambit, Bryan Countergambit"
+28,14,14,0,Nimzo-Indian Defense," Leningrad Variation, Averbakh Gambit"
+28,15,12,1,French Defense," Tarrasch Variation, Open System, Shaposhnikov Gambit"
+28,18,8,2,Van Geet Opening, Hulsemann Gambit
+28,17,9,2,Four Knights Game," Symmetrical, Tarrasch Variation"
+28,15,8,5,Queen's Gambit Declined," Orthodox Defense, Capablanca System"
+27,8,17,2,Bogo-Indian Defense, New England Variation
+27,20,6,1,French Defense," MacCutcheon Variation, Duras Variation"
+27,13,12,2,Ruy Lopez," Open, Berlin Variation"
+26,13,12,1,Nimzo-Indian Defense," Three Knights Variation, Duchamp Variation, Modern Line"
+26,11,13,2,Ruy Lopez," Closed, Balla Variation"
+26,14,6,6,Ruy Lopez," Open, Motzko Attack"
+26,14,11,1,King's Gambit Declined," Falkbeer Countergambit, Alapin Variation"
+26,5,20,1,Dutch Defense," Staunton Gambit, American Attack"
+25,13,10,2,Italian Game," Two Knights Defense, Ulvestad Variation, Kurkin Gambit"
+25,10,15,0,Zukertort Opening," Wade Defense, Chigorin Plan"
+25,13,10,2,Blumenfeld Countergambit, Spielmann Variation
+25,17,6,2,Tarrasch Defense, Grünfeld Gambit
+25,13,11,1,Ruy Lopez," Closed, Yates Variation, Short Attack"
+25,16,7,2,Queen's Indian Defense," Kasparov-Petrosian Variation, Romanishin Attack"
+24,14,5,5,Queen's Indian Defense, Opocensky Variation
+24,12,11,1,Queen's Gambit Declined," Orthodox Defense, Capablanca Variation"
+24,13,9,2,Italian Game," Classical Variation, Greco Gambit, Moeller-Bayonet Attack"
+24,7,2,15,Ruy Lopez," Berlin Defense, Cordel Variation"
+23,15,7,1,French Defense," Winawer Variation, Kondratiyev Variation"
+23,14,8,1,Old Indian Defense, Aged Gibbon Gambit
+23,10,11,2,King's Gambit Accepted, Basman Gambit
+23,13,10,0,Van't Kruijs Opening," Keoni-Hiva Gambit, Ekolu Variation"
+23,10,11,2,Alekhine Defense," Brooklyn Variation, Everglades Variation"
+23,14,9,0,English Opening, Zilbermints Gambit
+22,18,4,0,King's Gambit Accepted," Allgaier, Blackburne Gambit"
+22,11,11,0,Bishop's Opening, Lisitsyn Variation
+22,17,5,0,Caro-Kann Defense," Accelerated Panov Attack, Pseudo-Scandinavian"
+22,14,8,0,Dutch Defense," Krejcik Gambit, Tate Gambit"
+22,8,12,2,Italian Game," Evans Gambit, Sanders-Alapin Variation"
+22,10,11,1,English Defense, Hartlaub Gambit Accepted
+22,12,9,1,Russian Game," Classical Attack, Tarrasch Variation"
+22,7,13,2,Van Geet Opening, Twyble Attack
+21,8,12,1,King's Gambit Accepted, Orsini Gambit
+21,12,9,0,Pterodactyl Defense," Austrian, Grand Prix Pterodactyl"
+21,9,10,2,Caro-Kann Defense," Labahn Attack, Polish Variation"
+21,12,7,2,Queen's Gambit Declined," Austrian Defense, Haberditz Variation"
+21,9,11,1,Tarrasch Defense, Tarrasch Gambit
+21,10,11,0,Nimzo-Indian Defense," Sämisch Variation, Romanovsky Variation"
+20,13,7,0,Zukertort Opening, Myers Polish Attack
+20,13,7,0,Pterodactyl Defense," Austrian, Austriadactylus Western"
+20,8,12,0,King's Gambit Accepted," Schallopp Defense, Tashkent Attack"
+20,4,11,5,Queen's Gambit Declined," Pseudo-Tarrasch Variation, Canal Variation"
+20,13,6,1,Grünfeld Defense, Pachman Variation
+20,9,8,3,Grünfeld Defense," Brinckmann Attack, Grünfeld Gambit, Botvinnik Variation"
+19,9,10,0,Polish Opening, Schuehler Gambit
+19,11,8,0,Modern Defense," Two Knights Variation, Suttles Variation, Tal Gambit"
+19,7,11,1,Kádas Opening, Myers Variation
+19,7,11,1,Van't Kruijs Opening," Keoni-Hiva Gambit, Akahi Variation"
+19,10,8,1,Queen's Gambit Accepted," Classical Defense, Alekhine System, Smyslov Variation"
+19,8,10,1,Sicilian Defense," Richter-Rauzer Variation, Classical Variation, Kantscher Line"
+19,11,7,1,English Opening, Porcupine Variation
+18,9,8,1,King's Gambit Declined," Classical Variation, Euwe Attack"
+18,7,11,0,Torre Attack," Classical Defense, Petrosian Gambit"
+18,12,6,0,Caro-Kann Defense," Breyer Variation, Stein Attack"
+18,8,7,3,Vienna Game," Vienna Gambit, Steinitz Gambit, Sörensen Defense"
+18,5,12,1,Indian Defense," Anti-Grünfeld, Adorjan Gambit"
+18,4,13,1,Portuguese Opening, Miguel Gambit
+18,11,7,0,English Defense, Poli Gambit
+18,10,6,2,Formation, Shy Attack
+18,7,10,1,King's Indian Defense," Fianchetto Variation, Pterodactyl Variation"
+18,6,12,0,King's Gambit Accepted," Philidor Gambit, Schultz Variation"
+18,10,6,2,Queen's Gambit Declined, Semmering Variation
+18,7,11,0,Bird Opening, Batavo-Polish Attack
+18,6,12,0,Philidor Defense," Lion Variation, Sozin Variation"
+18,8,10,0,Sicilian Defense, Gloria Variation
+18,11,7,0,Zukertort Opening, Shabalov Gambit
+17,8,9,0,Bishop's Opening," McDonnell Gambit, McDonnell Double Gambit"
+17,7,10,0,King's Gambit Accepted," Double Muzio Gambit, Paulsen Defense"
+17,6,10,1,Pterodactyl Defense," Fianchetto, Queen Pterodactyl"
+17,7,8,2,Ware Opening, Wing Gambit
+17,5,12,0,Scandinavian Defense," Modern Variation, Wing Gambit"
+17,7,9,1,Queen's Gambit Declined," Orthodox Defense, Alekhine Variation"
+17,6,8,3,Blackmar-Diemer Gambit," Bogoljubov Defense, Mad Dog Attack"
+16,8,8,0,English Opening," Anglo-Grünfeld Defense, Korchnoi Variation"
+16,5,10,1,Semi-Slav Defense," Meran Variation, Pirc Variation"
+16,9,6,1,Nimzo-Indian Defense," Sämisch Variation, Capablanca Variation"
+16,10,6,0,King's Indian Defense," Fianchetto Variation, Panno Variation, Korchnoi Line"
+15,6,9,0,Queen's Gambit Declined," Albin Countergambit, Krenosz Variation"
+15,6,7,2,Italian Game," Two Knights Defense, Max Lange Attack, Berger Variation"
+15,5,7,3,Modern Defense, Dunworthy Variation
+15,5,9,1,King's Indian Defense," Sämisch Variation, Ruban Variation"
+15,8,5,2,Alekhine Defense," Four Pawns Attack, Ilyin-Zhenevsky Variation"
+15,5,8,2,King's Gambit Declined," Panteldakis Countergambit, Symmetrical Variation"
+15,10,4,1,King's Gambit Accepted," Double Muzio Gambit, Baldwin Gambit"
+15,11,3,1,King's Gambit Accepted," Muzio Gambit, Kling and Horwitz Counterattack"
+15,4,11,0,French Defense," Classical Variation, Stahlberg Variation"
+14,11,3,0,Van't Kruijs Opening, Bouncing Bishop Variation
+14,7,7,0,Scotch Game, Hanneken Variation
+14,6,7,1,Ruy Lopez," Wormald Attack, Grünfeld Variation"
+14,7,7,0,Sicilian Defense," Taimanov Variation, Gary Gambit"
+14,11,2,1,Queen's Pawn Game, Zilbermints Countergambit
+14,4,8,2,Four Knights Game, Gunsberg Counterattack
+14,2,12,0,Russian Game," Classical Attack, Marshall Trap"
+14,7,7,0,Center Game, Kupreichik Variation
+14,9,5,0,Modern Defense," Bishop Attack, Bücker Gambit"
+14,8,6,0,Colle System, Pterodactyl Variation
+14,5,7,2,King's Indian Defense," Fianchetto Variation, Panno Variation, Donner Line"
+14,9,4,1,Ruy Lopez," Closed Berlin Defense, Chigorin Variation"
+14,11,3,0,Ruy Lopez," Cozio Defense, Tartakower Gambit"
+14,6,5,3,English Opening," Closed, Taimanov Variation"
+13,8,5,0,Ruy Lopez," Open, Malkin Variation"
+13,7,5,1,Bishop's Opening," Lopez Variation, Lopez Gambit"
+13,7,5,1,Ruy Lopez," Open, Knorre Variation"
+13,9,3,1,King's Gambit Accepted, Kotov Gambit
+13,7,6,0,Amar Gambit,~
+12,5,7,0,Indian Defense," Anti-Grünfeld, Alekhine Variation, Leko Gambit"
+12,4,6,2,Catalan Opening," Closed, Zagoryansky Variation"
+12,11,1,0,English Opening," Anglo-Indian Defense, Zvjaginsev-Krasenkow Attack"
+12,8,4,0,Nimzo-Indian Defense," Spielmann Variation, Stahlberg Variation"
+12,6,6,0,Ware Opening, Ware Gambit
+12,5,7,0,Semi-Slav Defense," Marshall Gambit, Tolush Variation"
+12,5,7,0,Sicilian Defense," Kan Variation, Gipslis Variation"
+12,8,3,1,Ruy Lopez," Open, Friess Attack"
+12,6,5,1,Ruy Lopez," Open, Karpov Gambit"
+12,4,8,0,Sicilian Defense, Double-Dutch Gambit
+12,7,5,0,Queen's Indian Defense, Averbakh Variation
+11,7,4,0,English Opening," King's English Variation, Kahiko-Hula Gambit"
+11,9,1,1,Sicilian Defense," Closed, Anti-Sveshnikov Variation, Kharlov-Kramnik Line"
+11,7,4,0,King's Gambit Accepted," Bishop's Gambit, Boren-Svenonius Variation"
+11,7,4,0,Nimzo-Indian Defense," Classical Variation, Berlin Variation, Macieja System"
+11,4,5,2,Sicilian Defense," Wing Gambit, Romanian Defense"
+11,6,5,0,Catalan Opening," Closed, Sokolsky Variation"
+11,6,5,0,Slav Defense," Quiet Variation, Amsterdam Variation"
+11,5,5,1,Semi-Slav Defense," Meran Variation, Wade Variation, Kaidanov Gambit"
+10,2,6,2,Pterodactyl Defense," Central, Anhanguera"
+10,5,5,0,Queen's Gambit Declined," Semi-Slav, Koomen Variation"
+10,1,8,1,Bishop's Opening, Pachman Gambit
+10,3,7,0,Grob Opening," Zilbermints Gambit, Zilbermints-Hartlaub Gambit"
+10,5,5,0,Italian Game," Classical Variation, Tarrasch Variation"
+10,6,4,0,Sicilian Defense," Dragon Variation, Classical Variation, Spielmann Variation"
+10,7,3,0,Italian Game," Evans Gambit, Sokolsky Variation"
+9,6,3,0,Latvian Gambit Accepted, Bronstein Gambit
+9,4,4,1,Philidor Defense," Philidor Countergambit, Berger Variation"
+9,4,5,0,Sicilian Defense, Kotov Gambit
+9,4,5,0,Van Geet Opening, Pfeiffer Gambit
+9,1,7,1,Ruy Lopez," Closed, Center Attack, Basque Gambit"
+9,4,5,0,Ruy Lopez," Closed, Rossolimo Defense"
+9,7,2,0,Italian Game," Giuoco Piano, Eisinger Variation"
+9,2,7,0,King's Gambit Accepted, Australian Gambit
+8,3,5,0,Pterodactyl Defense," Fianchetto, Rhamphorhynchus"
+8,3,5,0,Queen's Gambit Declined," Exchange, Chameleon Variation"
+8,2,4,2,Bird Opening, Siegener Gambit
+8,4,4,0,Sicilian Defense," Wing Gambit, Nanu Gambit"
+8,6,2,0,Blackmar-Diemer Gambit," Euwe Defense, Zilbermints Gambit"
+8,6,2,0,Colle System, Siroccopteryx Variation
+8,2,6,0,Queen's Gambit Declined," Tarrasch Defense, Stoltz Variation"
+8,4,3,1,Queen's Gambit Declined, Rochlin Variation
+8,3,4,1,Queen's Gambit Declined," Orthodox Defense, Janowski Variation"
+8,2,6,0,Alekhine Defense," Four Pawns Attack, Korchnoi Variation"
+8,4,4,0,Bishop's Opening, Thorold Gambit
+7,3,2,2,Pterodactyl Defense," Central, Bogolubovia"
+7,4,3,0,Sicilian Defense, Frederico Variation
+7,7,0,0,Caro-Kann Defense," Spike Variation, Scorpion-Grob Gambit"
+7,6,1,0,Italian Game," Two Knights Defense, Yurdansky Attack"
+7,4,3,0,Benko Gambit, Mutkin Countergambit
+7,4,3,0,Bird Opening, Swiss Gambit
+7,1,5,1,King's Gambit Accepted," Kieseritzky Gambit, Paulsen Defense Deferred"
+7,5,2,0,Italian Game," Two Knights Defense, Knorre Variation"
+6,3,3,0,King's Gambit Declined, Hobbs-Zilbermints Gambit
+6,6,0,0,Queen's Indian Defense, Buerger Variation
+6,3,3,0,Grob Opening," Grob Gambit, Keres Gambit"
+6,2,3,1,Grünfeld Defense," Exchange Variation, Larsen Variation"
+6,3,3,0,King's Gambit Declined," Panteldakis Countergambit, Pawn Sacrifice Line"
+6,2,3,1,Bishop's Opening, Krejcik Gambit
+6,1,5,0,Latvian Gambit, Lobster Gambit
+6,4,2,0,Philidor Defense, Berger Variation
+6,1,5,0,King's Gambit Declined," Falkbeer Countergambit, Tarrasch Variation"
+6,5,1,0,Ruy Lopez," Classical Defense, Zaitsev Variation"
+6,3,1,2,Dutch Defense, Hevendehl Gambit
+6,2,4,0,King's Gambit Accepted," Fischer Defense, Schulder Gambit"
+6,5,0,1,Catalan Opening, Hungarian Gambit
+6,5,1,0,Réti Opening, Zilbermints Gambit
+6,2,4,0,Queen's Gambit Declined, Uhlmann Variation
+6,4,2,0,Semi-Slav Defense," Meran Variation, Sozin Variation"
+6,1,5,0,Amar Opening, Gent Gambit
+6,5,0,1,Four Knights Game, Bardeleben Variation
+6,5,1,0,Queen's Gambit Declined," Lasker Defense, Bernstein Variation"
+6,2,3,1,Italian Game," Evans Gambit, Paulsen Variation"
+5,1,3,1,Four Knights Game," Halloween Gambit, Oldtimer Variation"
+5,2,3,0,English Opening," Anglo-Dutch Variation, Chabanon Gambit"
+5,1,4,0,Sicilian Defense," Kronberger Variation, Nemeth Gambit"
+5,3,2,0,Russian Game," Modern Attack, Bardeleben Variation"
+5,4,1,0,Bogo-Indian Defense, Monticelli Trap
+5,4,1,0,King's Gambit Accepted," Allgaier, Cook Variation"
+5,2,2,1,Catalan Opening," Open Defense, Alekhine Variation"
+5,4,1,0,King's Indian Defense, Six Pawns Attack
+5,3,2,0,Van Geet Opening, Gladbacher Gambit
+5,2,3,0,Nimzowitsch Defense," El Columpio Defense, El Columpio Gambit"
+5,2,3,0,Hungarian Opening, Paris Gambit
+5,3,2,0,Queen's Gambit Declined," Semi-Tarrasch Defense, Krause Variation"
+5,3,2,0,Queen's Gambit Declined," Lasker Defense, Bernstein Variation, Mar del Plata Gambit"
+5,4,1,0,Sicilian Defense," Accelerated Fianchetto, Simagin Variation"
+4,1,2,1,Ruy Lopez," Berlin Defense, Zukertort Variation"
+4,3,1,0,King's Gambit Accepted, Middleton Countergambit
+4,3,1,0,Philidor Defense," Nimzowitsch, Larobok Variation"
+4,2,2,0,Italian Game," Evans Gambit Declined, Hirschbach Variation"
+4,2,2,0,Nimzo-Indian Defense," Classical Variation, Noa Variation, San Remo Variation"
+4,1,3,0,French Defense," Classical Variation, Frankfurt Variation"
+4,1,3,0,French Defense," MacCutcheon Variation, Bogoljubov Variation"
+4,2,2,0,Sicilian Defense," Kan Variation, Wing Attack, Christiansen's Dream"
+4,1,3,0,Ruy Lopez," Closed, Basque Gambit"
+4,4,0,0,Bishop's Opening," Lewis Countergambit, Walker Variation"
+4,2,2,0,King's Gambit Accepted," Bishop's Gambit, Classical Defense"
+4,2,2,0,Grünfeld Defense," Russian Variation, Keres Variation"
+4,1,3,0,King's Gambit Accepted," Abbazia Defense, Main Line"
+4,2,1,1,Sicilian Defense," Dragon Variation, Classical Variation, Zollner Gambit"
+4,3,1,0,Latvian Gambit, Senechaud Gambit
+4,4,0,0,Italian Game," Evans Gambit, Fraser Attack"
+4,4,0,0,Italian Game," Giuoco Piano, Krause Variation"
+4,2,1,1,Italian Game," Evans Gambit, Richardson Attack"
+4,2,2,0,Trompowsky Attack," Edge Variation, Hergert Gambit"
+4,2,2,0,Vienna Game," Stanley Variation, Eifel Gambit"
+3,1,1,1,Grob Opening," Zilbermints Gambit, Schiller Defense"
+3,1,1,1,Slav Defense," Czech Variation, Krause Attack, Fazekas Gambit"
+3,2,1,0,Kádas Opening, Steinbok Gambit
+3,3,0,0,Russian Game," Classical Attack, Krause Variation"
+3,0,3,0,King's Gambit Accepted," Kieseritzky Gambit, Rice Gambit"
+3,3,0,0,Ruy Lopez," Berlin Defense, Trifunovic Variation"
+3,1,2,0,Vienna Game," Hamppe-Muzio, Dubois Variation"
+3,0,2,1,Ruy Lopez," Berlin Defense, Pillsbury Variation"
+3,0,0,3,Ruy Lopez," Open, Schlechter Defense"
+3,1,2,0,Pirc Defense," 150 Attack, Inner Doll Defense"
+3,2,1,0,French Defense, Hoffmann Gambit
+3,2,1,0,Semi-Slav Defense," Meran Variation, Rabinovich Variation"
+3,2,1,0,Zukertort Opening, Pachman Gambit
+3,2,1,0,Benoni Defense," Zilbermints-Benoni Gambit, Tamarkin Countergambit"
+3,1,2,0,Van Geet Opening," Pfeiffer Gambit, Sleipnir Countergambit"
+3,1,2,0,Tarrasch Defense," Swedish Variation, Central Break"
+3,1,1,1,Blackmar-Diemer Gambit, Rook Pawn Defense
+3,1,1,1,Ruy Lopez," Schliemann Defense, Kostic Defense"
+3,1,2,0,Ruy Lopez," Open, Howell Attack, Ekstrom Variation"
+3,0,3,0,Sodium Attack, Chenoboskion Variation
+3,0,2,1,Queen's Indian Defense," Kasparov-Petrosian Variation, Rashkovsky Attack"
+2,0,2,0,Indian Defense, Schnepper Gambit
+2,1,1,0,Ruy Lopez," Open, Breslau Variation"
+2,0,2,0,King's Indian Defense," Orthodox Variation, Bayonet Attack, Yepishin's Line"
+2,2,0,0,Italian Game," Evans Gambit, Johner Defense"
+2,0,2,0,King's Gambit Accepted," Bishop's Gambit, Classical Defense, Cozio Attack"
+2,0,0,2,Ruy Lopez," Berlin Defense, Winawer Attack"
+2,0,2,0,French Defense," Banzai-Leong Gambit, Pinova Gambit"
+2,2,0,0,Queen's Gambit Accepted," Old Variation, Korchnoi Gambit"
+2,1,1,0,Blackmar-Diemer Gambit," von Popiel Gambit, Zilbermints Variation"
+2,0,2,0,King's Pawn Game," Macleod Attack, Norwalde Gambit"
+2,1,1,0,Dutch Defense," Leningrad, Basman System"
+2,1,1,0,Ruy Lopez," Open, Harksen Gambit"
+2,0,2,0,Sicilian Defense," Sozin Attack, Main Line, Sherbakov Variation"
+2,1,1,0,Hungarian Opening, Pachman Gambit
+2,1,0,1,Pterodactyl Defense," Sicilian, Quetzalcoatlus"
+2,1,1,0,Italian Game," Evans Gambit, Ulvestad Variation"
+2,0,2,0,Vienna Game," Paulsen Variation, Mariotti Gambit"
+2,2,0,0,Ruy Lopez," Open, Bernstein Variation, Luther Line"
+2,0,2,0,King's Indian Defense," Fianchetto Variation, Panno Variation, Blockade Line"
+1,1,0,0,Nimzo-Indian Defense," Hübner Variation, Rubinstein Variation, Sherbakov Attack"
+1,1,0,0,Tarrasch Defense," Classical Variation, Chandler Variation"
+1,1,0,0,Van Geet Opening, Warsteiner Gambit
+1,0,1,0,Four Knights Game," Symmetrical, Blake Variation"
+1,1,0,0,Italian Game," Evans Gambit, Göring Attack"
+1,0,0,1,Scotch Game, Rosenthal Variation
+1,0,1,0,Modern Defense," Semi-Averbakh Variation, Pterodactyl Variation Declined"
+1,1,0,0,Nimzo-Indian Defense," Normal Variation, Gligoric System, Smyslov Variation"
+1,0,0,1,Slav Defense," Czech Variation, Dutch Variation, Sämisch Variation"
+1,1,0,0,Italian Game," Evans Gambit, Compromised Defense, Potter Variation"
+1,0,1,0,Modern Defense, Masur Gambit
+1,1,0,0,King's Gambit Accepted," Lolli Gambit, Young Variation"
+1,1,0,0,Sicilian Defense, Acton Extension
+1,0,1,0,Scotch Game," Paulsen, Gunsberg Defense"
+1,1,0,0,Ruy Lopez," Spanish Countergambit, Harding Countergambit, Fricke Gambit"
+1,1,0,0,Grünfeld Defense," Lutikov Variation, Murrey Attack"
+1,1,0,0,French Defense," Winawer Variation, Alekhine Gambit, Alatortsev Variation"
+1,0,1,0,Italian Game," Evans Gambit, Levenfish Variation"
+1,1,0,0,Sicilian Defense," Canal Attack, Dorfman Gambit"
+1,0,1,0,King's Gambit Accepted," Bishop's Gambit, Chigorin's Attack"
+1,0,1,0,Scotch Game," Horwitz Attack, Blackburne Variation"
+1,1,0,0,Ruy Lopez," Closed, Chigorin, Yugoslav System"
+1,1,0,0,Vienna Game, Adams' Gambit
